@@ -1,72 +1,63 @@
- function showStacks() {
-        Java.perform(function () {
-            send(Java.use("android.util.Log").getStackTraceString(Java.use("java.lang.Exception").$new()));
-        });
-    }
+function showStacks() {
+    Java.perform(function () {
+        send(Java.use("android.util.Log").getStackTraceString(Java.use("java.lang.Exception").$new()));
+    });
+}
 
-function bytesToHex(arr)
-{
+function bytesToHex(arr) {
     var str = "";
-    for(var i=0; i<arr.length; i++)
-    {
-       var tmp = arr[i];
-       if (tmp < 0) {
-       tmp =(255+tmp+1).toString(16);
-       } else {
+    for (var i = 0; i < arr.length; i++) {
+        var tmp = arr[i];
+        if (tmp < 0) {
+            tmp = (255 + tmp + 1).toString(16);
+        } else {
             tmp = tmp.toString(16);
-       }
-       if(tmp.length == 1)
-       {
-           tmp = "0" + tmp;
-       }
-       str += tmp;
+        }
+        if (tmp.length == 1) {
+            tmp = "0" + tmp;
+        }
+        str += tmp;
     }
     return str;
 }
 
-function bytesToBase64(arr)
-{
+function bytesToBase64(arr) {
     var str = "";
-    for(var i=0; i<arr.length; i++)
-    {
-       var tmp = arr[i];
-       if (tmp < 0) {
-       tmp =(255+tmp+1).toString(16);
-       } else {
+    for (var i = 0; i < arr.length; i++) {
+        var tmp = arr[i];
+        if (tmp < 0) {
+            tmp = (255 + tmp + 1).toString(16);
+        } else {
             tmp = tmp.toString(16);
-       }
-       if(tmp.length == 1)
-       {
-           tmp = "0" + tmp;
-       }
-       str += tmp;
+        }
+        if (tmp.length == 1) {
+            tmp = "0" + tmp;
+        }
+        str += tmp;
     }
     return str;
 }
 
-function bytesToString(arr)
-{
+function bytesToString(arr) {
     var str = "";
-    for(var i=0; i<arr.length; i++)
-    {
-       var tmp = arr[i];
-       if (tmp < 0) {
-       tmp =(255+tmp+1).toString(16);
-       } else {
+    for (var i = 0; i < arr.length; i++) {
+        var tmp = arr[i];
+        if (tmp < 0) {
+            tmp = (255 + tmp + 1).toString(16);
+        } else {
             tmp = tmp.toString(16);
-       }
-       if(tmp.length == 1)
-       {
-           tmp = "0" + tmp;
-       }
-       str += tmp;
+        }
+        if (tmp.length == 1) {
+            tmp = "0" + tmp;
+        }
+        str += tmp;
     }
     return str;
 }
 
 Java.perform(function () {
     var secretKeySpec = Java.use('javax.crypto.spec.SecretKeySpec');
-    secretKeySpec.$init.overload('[B','java.lang.String').implementation = function (a,b) {
+    secretKeySpec.$init.overload('[B', 'java.lang.String').implementation = function (a, b) {
         showStacks();
         var result = this.$init(a, b);
         send("======================================");
@@ -88,9 +79,9 @@ Java.perform(function () {
         send("======================================");
         send("update:" + bytesToString(a))
     }
-    mac.update.overload('[B','int','int').implementation = function (a,b,c) {
+    mac.update.overload('[B', 'int', 'int').implementation = function (a, b, c) {
         showStacks();
-        this.update(a,b,c)
+        this.update(a, b, c)
         send("======================================");
         send("update:" + bytesToString(a) + "|" + b + "|" + c);
     }
@@ -111,8 +102,8 @@ Java.perform(function () {
         send("doFinal结果:" + bytesToBase64(result));
         return result;
     }
-        var md = Java.use('java.security.MessageDigest');
-    md.getInstance.overload('java.lang.String','java.lang.String').implementation = function (a,b) {
+    var md = Java.use('java.security.MessageDigest');
+    md.getInstance.overload('java.lang.String', 'java.lang.String').implementation = function (a, b) {
         showStacks();
         send("======================================");
         send("算法名：" + a);
@@ -130,11 +121,11 @@ Java.perform(function () {
         send("update:" + bytesToString(a))
         return this.update(a);
     }
-    md.update.overload('[B','int','int').implementation = function (a,b,c) {
+    md.update.overload('[B', 'int', 'int').implementation = function (a, b, c) {
         showStacks();
         send("======================================");
         send("update:" + bytesToString(a) + "|" + b + "|" + c);
-        return this.update(a,b,c);
+        return this.update(a, b, c);
     }
     md.digest.overload().implementation = function () {
         showStacks();
@@ -153,7 +144,7 @@ Java.perform(function () {
         send("digest结果:" + bytesToBase64(result));
         return result;
     }
-        var ivParameterSpec = Java.use('javax.crypto.spec.IvParameterSpec');
+    var ivParameterSpec = Java.use('javax.crypto.spec.IvParameterSpec');
     ivParameterSpec.$init.overload('[B').implementation = function (a) {
         showStacks();
         var result = this.$init(a);
@@ -177,9 +168,9 @@ Java.perform(function () {
         send("update:" + bytesToString(a));
         return result;
     }
-    cipher.update.overload('[B','int','int').implementation = function (a,b,c) {
+    cipher.update.overload('[B', 'int', 'int').implementation = function (a, b, c) {
         showStacks();
-        var result = this.update(a,b,c);
+        var result = this.update(a, b, c);
         send("======================================");
         send("update:" + bytesToString(a) + "|" + b + "|" + c);
         return result;
@@ -210,9 +201,9 @@ Java.perform(function () {
         return result;
     }
     var rSAPublicKeySpec = Java.use('java.security.spec.RSAPublicKeySpec');
-    rSAPublicKeySpec.$init.overload('java.math.BigInteger','java.math.BigInteger').implementation = function (a,b) {
+    rSAPublicKeySpec.$init.overload('java.math.BigInteger', 'java.math.BigInteger').implementation = function (a, b) {
         showStacks();
-        var result = this.$init(a,b);
+        var result = this.$init(a, b);
         send("======================================");
         //send("RSA密钥:" + bytesToBase64(a));
         send("RSA密钥N:" + a.toString(16));
