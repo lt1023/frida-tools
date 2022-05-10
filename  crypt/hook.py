@@ -1,7 +1,8 @@
 import frida, sys
 
 host = '127.0.0.1:1234'
-package_name = "com.linktower.application"
+# package_name = "com.linktower.application"
+package_name = "com.huitouche.android.app"
 script_file_name = 'hook.js'
 
 
