@@ -32,11 +32,11 @@ Java.perform(function () {
         'com.alibaba.fastjson.JSONObject', 'com.alipay.mobile.h5container.api.H5Page', 'java.lang.String').implementation = function (
         h5Event, h5BridgeContext, jSONObject, h5Page, str
     ) {
-        console.log('H5ShareUtil a: ')
-        console.log(jSONObject)
-        console.log(str)
-        console.log(h5Page.getUrl())
-        showStacks()
+        // console.log('H5ShareUtil a: ')
+        // console.log(jSONObject)
+        // console.log(str)
+        // console.log(h5Page.getUrl())
+        // showStacks()
         return this.a(h5Event, h5BridgeContext, jSONObject, h5Page, str);
     }
 
@@ -63,18 +63,47 @@ Java.perform(function () {
     }
     H5ShareCallback.$init.implementation = function (h5Page, shareResult) {
         console.log('H5ShareCallback $init')
-        var JSONObject = Java.use("com.alibaba.fastjson.JSONObject");
-        var jsonObj = JSONObject.$new()
-        jsonObj.put("desc", "支付宝生活缴费,水费,电费,煤气费,固定电话,宽带,有线电视,物业费");
-        jsonObj.put("fromMeta", true);
-        jsonObj.put("imgUrl", "");
-        jsonObj.put("link", "");
-        jsonObj.put("ready", true);
-        jsonObj.put("title", "支付宝生活缴费");
-        this.onCallBack(jsonObj)
+        // var JSONObject = Java.use("com.alibaba.fastjson.JSONObject");
+        // var jsonObj = JSONObject.$new()
+        // jsonObj.put("desc", "支付宝生活缴费,水费,电费,煤气费,固定电话,宽带,有线电视,物业费");
+        // jsonObj.put("fromMeta", true);
+        // jsonObj.put("imgUrl", "");
+        // jsonObj.put("link", "");
+        // jsonObj.put("ready", true);
+        // jsonObj.put("title", "支付宝生活缴费");
+        // this.onCallBack(jsonObj)
+        // showStacks()
         return this.$init(h5Page, shareResult)
     }
 
+    var H5SharePlugin = Java.use("com.alipay.mobile.nebulabiz.H5SharePlugin");
+    H5SharePlugin.handleEvent.implementation = function (h5Event, h5BridgeContext) {
+        // console.log('H5SharePlugin.handleEvent ')
+        // console.log(h5Event)
+        // console.log(h5BridgeContext)
+        return this.handleEvent(h5Event, h5BridgeContext)
+    }
+
+    H5SharePlugin.$init.implementation = function () {
+        console.log('H5SharePlugin.$init ')
+
+        return this.$init()
+    }
+    var H5BridgeImpl = Java.use("com.alipay.mobile.nebulacore.bridge.H5BridgeImpl");
+    H5BridgeImpl.sendToNative.overload('com.alipay.mobile.h5container.api.H5Event',
+        'com.alipay.mobile.h5container.api.H5BridgeContext').implementation = function (build, h5BridgeContext) {
+        console.log('--------------------H5BridgeImpl-------------------------')
+        console.log('getAction() = ' + build.getAction())
+        console.log('getParam() = ' + build.getParam())
+        console.log('getEventSource() = ' + build.getEventSource())
+        console.log('isDispatcherOnWorkerThread() = ' + build.isDispatcherOnWorkerThread())
+        console.log('isKeepCallback() = ' + build.isKeepCallback())
+        console.log('id = ' + build.getId())
+
+
+        // console.log(h5BridgeContext)
+        return this.sendToNative(build, h5BridgeContext);
+    }
 
 // H5EventDispatcher.
 
