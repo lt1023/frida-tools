@@ -1,5 +1,4 @@
 import frida, sys
-#github token  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
 
 #  adb shell /data/local/tmp/fs64
 
