@@ -1,5 +1,6 @@
 import frida, sys
 
+#adb shell /data/local/tmp/fs64
 # frida_server_15.1.17_arm64 -l 0.0.0.0:15122
 # adb forward tcp:27042 tcp:27042
 
