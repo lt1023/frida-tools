@@ -1,0 +1,2 @@
+java -jar unluac_2023_01_14.jar --rawstring d:\testin.lua > d:\testout.lua
+java -jar unluac_2023_01_14.jar d:\testin.lua > d:\testout.lua

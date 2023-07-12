@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\metaapp\\.nuget\\packages\\": {},
+    "G:\\tools\\VisualStudio\\sdk\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\develop\\python\\workspace\\frida-tools\\corona\\lua-5.1\\project\\lua\\lua.csproj",
+      "projectName": "lua",
+      "projectPath": "E:\\develop\\python\\workspace\\frida-tools\\corona\\lua-5.1\\project\\lua\\lua.csproj",
+      "packagesPath": "C:\\Users\\metaapp\\.nuget\\packages\\",
+      "outputPath": "E:\\develop\\python\\workspace\\frida-tools\\corona\\lua-5.1\\project\\lua\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "G:\\tools\\VisualStudio\\sdk\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\metaapp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

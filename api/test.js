@@ -29,33 +29,68 @@ function init_toast() {
     }
 }
 
-function startActivity() {
-    var Context = Java.use("android.content.Context");
-    Context.startActivity.overload('android.content.Intent').implementation = function (arg1) {
-        console.log("---------------------------")
-        this.startActivity(arg1);
+function onActivityResult() {
+    var Activity = Java.use("android.app.Activity");
+    Activity.onActivityResult.overload('int', 'int', 'android.content.Intent').implementation = function (arg1, arg2, intent) {
+        console.log("---------------------------" + arg1 + " " + arg2)
+        if (arg1 !== 7) {
+            this.onActivityResult(arg1, arg2, intent);
+        }
         console.log("---------------------------")
         showStacks()
     }
-    Context.startActivity.overload('android.content.Intent', 'android.os.Bundle').implementation = function (arg1, arg2) {
-        console.log("---------------------------")
-        this.startActivity(arg1, arg2);
+}
+
+function startActivityForResult() {
+    var Activity = Java.use("android.app.Activity");
+    Activity.startActivityForResult.overload('android.content.Intent', 'int').implementation = function (arg1, arg2) {
+        console.log("---------------------------" + arg2)
+        this.startActivityForResult(arg1, arg2);
         console.log("---------------------------")
         showStacks()
+    }
+}
+
+function startActivity(is_show_stack) {
+    var Context = Java.use("android.content.Context");
+    Context.startActivity.overload('android.content.Intent').implementation = function (arg1) {
+        console.log("-----------1----------------")
+        this.startActivity(arg1);
+        console.log("---------------------------")
+        if (is_show_stack) {
+            showStacks()
+        }
+
+    }
+    Context.startActivity.overload('android.content.Intent', 'android.os.Bundle').implementation = function (arg1, arg2) {
+        console.log("------------2---------------")
+        this.startActivity(arg1, arg2);
+        console.log("---------------------------")
+        if (is_show_stack) {
+            showStacks()
+        }
     }
 
     var Activity = Java.use("android.app.Activity");
     Activity.startActivity.overload('android.content.Intent').implementation = function (arg1) {
+        console.log("------------3---------------")
+        console.log(arg1.getExtras().toString())
+        if (is_show_stack) {
+            showStacks()
+        }
         console.log("---------------------------")
         this.startActivity(arg1);
-        console.log("---------------------------")
-        showStacks()
+
     }
     Activity.startActivity.overload('android.content.Intent', 'android.os.Bundle').implementation = function (arg1, arg2) {
+        console.log("------------4---------------")
+        console.log(arg1.getExtras().toString())
+        if (is_show_stack) {
+            showStacks()
+        }
         console.log("---------------------------")
         this.startActivity(arg1, arg2);
-        console.log("---------------------------")
-        showStacks()
+
     }
 }
 
@@ -87,12 +122,12 @@ function viewOnClick() {
     //     return  this.setVisibility();
     // }
 
-    View.setOnClickListener.implementation = function (listener) {
-        console.log("---------------------------")
-        showStacks()
-        console.log("---------------------------")
-        this.setOnClickListener(listener);
-    }
+    // View.setOnClickListener.implementation = function (listener) {
+    //     console.log("---------------------------")
+    //     showStacks()
+    //     console.log("---------------------------")
+    //     this.setOnClickListener(listener);
+    // }
 
 
     var OnClickListener = Java.use("android.view.View$OnClickListener");
@@ -190,7 +225,9 @@ Java.perform(function () {
 
     // init_dialog()
     // init_toast()
-    startActivity()
+    startActivity(false)
+    // startActivityForResult()
+    // onActivityResult()
     // viewOnClick()
     // exit()
     // get_package_info()
@@ -200,17 +237,101 @@ Java.perform(function () {
     // initSharedPreferencesEditor();
 
 
+    // var aaa="android.content.pm.Signature";
+    // var Base64str="android.util.Base64";
+    // var Signature = Java.use(aaa);
+    // var Base64 = Java.use(Base64str);
+    // // Signature.toByteArray.implementation = function (){
+    // //     console.log("Signature")
+    // //     var result = this.toByteArray()
+    // //
+    // //     var base64 = Base64.encodeToString(result, 2)
+    // //     console.log('base64='+base64)
+    // //
+    // //     return result
+    // // }
+    //
+    // var GameHelper = Java.use('com.zhangyangjing.starfish.util.GameHelper$ll1I1i');
+    // GameHelper.call.implementation = function (lli1I1){
+    //     console.log('GameHelper->'+lli1I1.Oo0O0O.size());
+    //
+    // }
 
+    var EmulatorActivity = Java.use('com.zhangyangjing.starfish.ui.EmulatorActivity');
+    EmulatorActivity.onCreate.implementation = function (arg) {
+        this.onCreate(arg);
 
+        console.log('EmulatorActivity onCreate')
+        var placeholder = this.getIntent().getStringExtra("placeholder");
+        console.log("placeholder=" + placeholder)
 
-    // var YouguPayProvider = Java.use("com.yougu.pay.YouguPayProvider$1$1");
-    // YouguPayProvider.Callback.implementation = function (arg) {
-    //     console.log("---------------------------" + arg.Info)
-    //     console.log("---------------------------" + arg.Status)
-    //     // showStacks()
+        var game_path = this.getIntent().getStringExtra("game_path");
+        console.log("game_path=" + game_path)
+
+        var game_emulator = this.getIntent().getStringExtra("game_emulator");
+        console.log("game_emulator=" + game_emulator)
+
+        var account_type = this.getIntent().getStringExtra("account_type");
+        console.log("account_type=" + account_type)
+
+        var game_id = this.getIntent().getIntExtra("game_id", -1);
+        console.log("game_id=" + game_id)
+
+    }
+
+    //   var NativeLibrary = Java.use("xyz.aethersx2.android.NativeLibrary");
+    // NativeLibrary.getGameListEntries.implementation = function () {
     //     console.log("---------------------------")
-    //     arg.Status = 0;
-    //     return this.Callback(arg);
+    //     var result = this.getGameListEntries();
+    //     console.log(result)
+    //     console.log("---------------------------")
+    //     // showStacks()
+    //     return result
+    // }
+
+    //   var GameListEntry = Java.use("xyz.aethersx2.android.GameListEntry");
+    // GameListEntry.$init.implementation = function ( i3,  i4,  str,  str2,  str3,  j3,  str4,  i5,  i6,  str5) {
+    //     console.log("---------------------------")
+    //     var result = this.$init(i3,  i4,  str,  str2,  str3,  j3,  str4,  i5,  i6,  str5);
+    //     console.log(i3)
+    //     console.log(i4)
+    //     console.log(str)
+    //     console.log(str2)
+    //     console.log(str3)
+    //     console.log(j3)
+    //     console.log(str4)
+    //     console.log(i5)
+    //     console.log(i6)
+    //     console.log(str5)
+    //     console.log("---------------------------")
+    //     // showStacks()
+    //     // return result
+    // }
+
+    // var View = Java.use("android.view.View");
+    // View.setEnabled.implementation = function (arg) {
+    //     console.log("---------------------------" + arg)
+    //     showStacks()
+    //     console.log("---------------------------")
+    //     this.setEnabled(arg);
+    // }
+
+    // var TextView = Java.use("android.widget.TextView");
+    // TextView.setText.overload('java.lang.CharSequence').implementation = function (arg) {
+    //     console.log("---------------------------" + arg)
+    //     showStacks()
+    //     console.log("---------------------------")
+    //     this.setText(arg);
+    // }
+    //
+    // TextView.setText.overload('java.lang.CharSequence', 'android.widget.TextView$BufferType').implementation = function (arg, arg2) {
+    //     console.log("---------------------------1")
+    //     // showStacks()
+    //     var str = arg.toString()
+    //     console.log(str)
+    //    showStacks()
+    //     console.log("---------------------------2")
+    //     this.setText(arg,arg2);
     // }
 
     // var MainActivity = Java.use("com.epicgames.ue4.d");

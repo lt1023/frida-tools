@@ -18,13 +18,20 @@ def demo():
 
 demo()
 
+#./fs64 -l 0.0.0.0:1234
+#./fs64 -l 127.0.0.1:12345
 #  adb shell /data/local/tmp/fs64
+#  adb shell /data/local/frida/fs64
+#  adb shell /data/local/frida/fs64
 
 # adb forward tcp:27042 tcp:27042
+# adb forward tcp:1234 tcp:1234
+# adb forward tcp:12345 tcp:12345
+# adb forward tcp:4396 tcp:4396
 host = '127.0.0.1:1234'
 # package_name = "com.candyrufusgames.survivalcraftchs"
 # package_name = "com.coffeestainstudios.goatsimulator.payday.elm"
-package_name = "com.hgamesart.blackholeheromod"
+package_name = "com.zhangyangjing.starfish"
 script_file_name = 'test.js'
 
 

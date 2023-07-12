@@ -1,0 +1,5 @@
+E:\develop\python\workspace\frida-tools\corona\lua-5.1\project\lua\obj\x64\Release\net6.0\lua.csproj.AssemblyReference.cache
+E:\develop\python\workspace\frida-tools\corona\lua-5.1\project\lua\obj\x64\Release\net6.0\lua.GeneratedMSBuildEditorConfig.editorconfig
+E:\develop\python\workspace\frida-tools\corona\lua-5.1\project\lua\obj\x64\Release\net6.0\lua.AssemblyInfoInputs.cache
+E:\develop\python\workspace\frida-tools\corona\lua-5.1\project\lua\obj\x64\Release\net6.0\lua.AssemblyInfo.cs
+E:\develop\python\workspace\frida-tools\corona\lua-5.1\project\lua\obj\x64\Release\net6.0\lua.csproj.CoreCompileInputs.cache

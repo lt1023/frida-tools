@@ -54,7 +54,8 @@ libc.so_0xf2282000_819200_fix.so
 
 ```Text
 frida -U --no-pause -f com.huitouche.android.app -l dump_dex.js
-frida -U --no-pause -f com.meta.box -l dump_dex.js
+frida -U  --no-pause -f com.join.android.app.mgsim.wufun -l dump_dex.js
+frida -H 127.0.0.1:4396  --no-pause -f com.join.android.app.mgsim.wufun -l dump_dex.js
      ____
     / _  |   Frida 12.4.8 - A world-class dynamic instrumentation toolkit
    | (_| |

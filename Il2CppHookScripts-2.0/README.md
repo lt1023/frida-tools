@@ -13,12 +13,15 @@ $ git clone https://github.com/axhlzy/Il2CppHookScripts.git
 $ cd Il2cppHook/
 $ npm install
 $ frida -U --no-pause -f com.xxx.xxx -l  ../_Ufunc.js
-$ frida -U --no-pause -f com.boom808.hoverboardheroes -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
-$ frida -U --no-pause -f com.Mlami.RagdollBattelground -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
-$ frida -U --no-pause -f com.skgames.trafficrider -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
-$ frida -U --no-pause -f com.olzhas.carparking.multyplayer -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
-$ frida -U --no-pause -f net.mintry.hsio -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
-$ frida -U --no-pause -f com.hgamesart.blackholeheromod -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
+
+
+
+
+$ frida -U --no-pause -f com.lx.ta -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
+
+
+
+$ frida -U --no-pause -f star.expedition.war.space.survivor -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
 
 ```
 
@@ -50,9 +53,23 @@ $ frida -U --no-pause -f com.hgamesart.blackholeheromod -l  ./Il2CppHookScripts-
   
   ...
 
-breakWithStack(0x683064)
-n(0xAC52CC)
-breakWithStack(0x38034BC + 1)
+frida -U --no-pause -f com.imayi.topia -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
+
+
+breakWithStack(0x96C1D8) 
+breakWithStack(0x18B82C8) 
+breakWithStack(0x18B86D8) 
+breakWithStack(0x18B87DC) 
+breakWithStack(0x18B92AC) 
+breakWithStack(0x18B9378) 
+breakWithStack(0x18B9130) 
+
+
+breakWithStack(0xB6CCBC) 
+
+
+n(0x96A644) 
+
 
 --- 
 
@@ -136,6 +153,9 @@ breakWithStack(0x38034BC + 1)
     ![HookSetActive](img/HookSetActive.png)
 
 ...
+
+
+
 
 #### Commit
 - 文件结构按照Unity类继承关系实现
