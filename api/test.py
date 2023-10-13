@@ -31,7 +31,8 @@ demo()
 host = '127.0.0.1:1234'
 # package_name = "com.candyrufusgames.survivalcraftchs"
 # package_name = "com.coffeestainstudios.goatsimulator.payday.elm"
-package_name = "com.zhangyangjing.starfish"
+package_name = "com.cat5games.catgoesfishingmod"
+# package_name = "com.PixelDashStudios.RoadRedemption"
 script_file_name = 'test.js'
 
 

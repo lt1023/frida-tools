@@ -21,7 +21,7 @@ $ frida -U --no-pause -f com.lx.ta -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc
 
 
 
-$ frida -U --no-pause -f star.expedition.war.space.survivor -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
+$ frida -U --no-pause -f com.AvoCavo.Apocalypse60 -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
 
 ```
 
@@ -54,21 +54,32 @@ $ frida -U --no-pause -f star.expedition.war.space.survivor -l  ./Il2CppHookScri
   ...
 
 frida -U --no-pause -f com.imayi.topia -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
+frida -U --no-pause -f com.qqhd.game.qcpk.mi -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
+frida -U --no-pause -f com.RuNixGames.CopsAndRobbers3multiplayer -l  ./Il2CppHookScripts-2.0/Il2cppHook/_Ufunc.js
 
 
-breakWithStack(0x96C1D8) 
-breakWithStack(0x18B82C8) 
-breakWithStack(0x18B86D8) 
-breakWithStack(0x18B87DC) 
-breakWithStack(0x18B92AC) 
-breakWithStack(0x18B9378) 
-breakWithStack(0x18B9130) 
+
+breakWithStack(0x009F7350) 
+breakWithStack(0x009F7974) 
 
 
-breakWithStack(0xB6CCBC) 
+
+breakWithStack(0x01A128B0) 
+breakWithStack(0x01A129E8) 
+breakWithStack(0x01A14C0C) 
 
 
-n(0x96A644) 
+
+
+HookOnPointerClick()
+HookSetActive()
+
+n(0x1BAE150) 
+n(0x1BB5F98) 
+n(0x1BB6150) 
+n(0x1BB61CC) 
+n(0x1C51504) 
+n(0x2228B78) 
 
 
 --- 

@@ -72,19 +72,30 @@ function startActivity(is_show_stack) {
     }
 
     var Activity = Java.use("android.app.Activity");
-    Activity.startActivity.overload('android.content.Intent').implementation = function (arg1) {
+    Activity.startActivity.overload('android.content.Intent').implementation = function (intent) {
         console.log("------------3---------------")
-        console.log(arg1.getExtras().toString())
+        if (intent) {
+            if (intent.getExtras()) {
+                console.log(intent.getExtras().toString())
+            }
+        }
+        var data = intent.getData()
+        if (data) {
+            console.log('data=' + data)
+        }
+        console.log(intent.getComponent().getClassName())
+        console.log(intent.getComponent().getPackageName())
         if (is_show_stack) {
             showStacks()
         }
         console.log("---------------------------")
-        this.startActivity(arg1);
+        this.startActivity(intent);
 
     }
     Activity.startActivity.overload('android.content.Intent', 'android.os.Bundle').implementation = function (arg1, arg2) {
         console.log("------------4---------------")
-        console.log(arg1.getExtras().toString())
+        // console.log(arg1.getExtras().toString())
+        // console.log(arg1.getExtras().toString())
         if (is_show_stack) {
             showStacks()
         }
@@ -219,65 +230,269 @@ function get_package_info() {
     }
 }
 
+function init_intent() {
+    var Intent = Java.use('android.content.Intent');
+    Intent.putExtra.overload('java.lang.String', 'byte').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+
+    Intent.putExtra.overload('java.lang.String', 'char').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+
+    Intent.putExtra.overload('java.lang.String', 'double').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+
+    Intent.putExtra.overload('java.lang.String', 'float').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'int').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+
+    Intent.putExtra.overload('java.lang.String', 'long').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'android.os.Bundle').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'android.os.IBinder').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'android.os.Parcelable').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'java.io.Serializable').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'java.lang.CharSequence').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'java.lang.String').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', 'short').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[B').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[C').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[D').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[F').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[I').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[J').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[Landroid.os.Parcelable;').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[Ljava.lang.CharSequence;').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[Ljava.lang.String;').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+    Intent.putExtra.overload('java.lang.String', '[S').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+
+    Intent.putExtra.overload('java.lang.String', '[Z').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+
+    Intent.putExtra.overload('java.lang.String', 'boolean').implementation = function (str, arg) {
+        console.log('putExtra key->' + str);
+        console.log('putExtra arg->' + arg);
+        return this.putExtra(str, arg)
+    }
+}
+
+function init_provider() {
+    var ContentResolver = Java.use('android.content.ContentResolver');
+    ContentResolver.insert.overload('android.net.Uri', 'android.content.ContentValues').implementation = function (arg, arg2) {
+        console.log("insert1", arg.toString())
+        console.log("insert1", arg2.toString())
+        return this.insert(arg, arg2);
+    }
+
+    ContentResolver.insert.overload('android.net.Uri', 'android.content.ContentValues', 'android.os.Bundle').implementation = function (arg, arg2, arg3) {
+        console.log("insert2", arg.toString())
+        console.log("insert2", arg2.toString())
+        // console.log("insert2", arg3.toString())
+        return this.insert(arg, arg2, arg3);
+    }
+
+    ContentResolver.update.overload('android.net.Uri', 'android.content.ContentValues', 'android.os.Bundle').implementation = function (arg, arg2, arg3) {
+        console.log("update", arg.toString())
+        console.log("update", arg2.toString())
+        // console.log("update", arg3.toString())
+        return this.update(arg, arg2, arg3);
+    }
+
+    ContentResolver.update.overload('android.net.Uri', 'android.content.ContentValues', 'java.lang.String', '[Ljava.lang.String;').implementation = function (arg, arg2, arg3, arg4) {
+        console.log("update2", arg.toString())
+        console.log("update2", arg2.toString())
+        console.log("update2", arg3.toString())
+        console.log("update2", arg4.toString())
+        return this.update(arg, arg2, arg3, arg4);
+    }
+}
+
+function initURL() {
+    var URL = Java.use("java.net.URL");
+    URL.$init.overload('java.lang.String').implementation = function (arg) {
+        console.log("URL1=" + arg)
+        if (arg.contains("auth-api.heibaige.com") || arg.contains(".databeauti.com")) {
+            arg = "www.baidu.com"
+        }
+        this.$init(arg);
+    }
+    URL.$init.overload('java.net.URL', 'java.lang.String').overload('java.lang.String').implementation = function (arg, arg2) {
+        console.log("URL2=" + arg)
+        this.$init(arg, arg2);
+    }
+
+    URL.$init.overload('java.lang.String', 'java.lang.String', 'java.lang.String').implementation = function (arg, arg2, arg3) {
+        console.log("URL3=" + arg)
+        this.$init(arg, arg2, arg3);
+    }
+
+}
 
 // require("dialog.js")
 Java.perform(function () {
 
     // init_dialog()
     // init_toast()
-    startActivity(false)
+    // init_intent()
+    // init_provider()
+    // startActivity(true)
     // startActivityForResult()
     // onActivityResult()
     // viewOnClick()
-    // exit()
+    exit()
     // get_package_info()
     // UnitySendMessage();
     // loadLibrary()
     // initLog();
     // initSharedPreferencesEditor();
+    // initURL();
 
 
     // var aaa="android.content.pm.Signature";
     // var Base64str="android.util.Base64";
     // var Signature = Java.use(aaa);
     // var Base64 = Java.use(Base64str);
-    // // Signature.toByteArray.implementation = function (){
-    // //     console.log("Signature")
-    // //     var result = this.toByteArray()
-    // //
-    // //     var base64 = Base64.encodeToString(result, 2)
-    // //     console.log('base64='+base64)
-    // //
-    // //     return result
-    // // }
+    // Signature.toByteArray.implementation = function (){
+    //     console.log("Signature")
+    //     var result = this.toByteArray()
     //
-    // var GameHelper = Java.use('com.zhangyangjing.starfish.util.GameHelper$ll1I1i');
-    // GameHelper.call.implementation = function (lli1I1){
-    //     console.log('GameHelper->'+lli1I1.Oo0O0O.size());
+    //     var base64 = Base64.encodeToString(result, 2)
+    //     console.log('base64='+base64)
     //
+    //     return result
     // }
 
-    var EmulatorActivity = Java.use('com.zhangyangjing.starfish.ui.EmulatorActivity');
-    EmulatorActivity.onCreate.implementation = function (arg) {
-        this.onCreate(arg);
+    // var Context = Java.use("android.content.Context");
+    // Context.getPackageName.implementation = function (){
+    //     console.log("getPackageName")
+    //     return this.getPackageName();
+    // }
 
-        console.log('EmulatorActivity onCreate')
-        var placeholder = this.getIntent().getStringExtra("placeholder");
-        console.log("placeholder=" + placeholder)
 
-        var game_path = this.getIntent().getStringExtra("game_path");
-        console.log("game_path=" + game_path)
+    // var k8 = Java.use('pro.rimnpgj.rhqjtk.sptvv.k8');
+    // k8.isApkActivated.implementation = function () {
+    //     console.log('isApkActivated')
+    //     return true;
+    // }
+    //
+    //
+    // var c4 = Java.use('pro.rimnpgj.rhqjtk.sptvv.c4');
+    // c4.j5.implementation = function () {
+    //     console.log('j5')
+    //     return true;
+    // }
 
-        var game_emulator = this.getIntent().getStringExtra("game_emulator");
-        console.log("game_emulator=" + game_emulator)
-
-        var account_type = this.getIntent().getStringExtra("account_type");
-        console.log("account_type=" + account_type)
-
-        var game_id = this.getIntent().getIntExtra("game_id", -1);
-        console.log("game_id=" + game_id)
-
-    }
+    // var EmulatorActivity = Java.use('com.zhangyangjing.starfish.ui.EmulatorActivity');
+    // EmulatorActivity.onCreate.implementation = function (arg) {
+    //     console.log('EmulatorActivity onCreate')
+    //
+    //     this.onCreate(arg);
+    //
+    //     var placeholder = this.getIntent().getStringExtra("placeholder");
+    //     console.log("placeholder=" + placeholder)
+    //
+    //     var game_path = this.getIntent().getStringExtra("game_path");
+    //     console.log("game_path=" + game_path)
+    //
+    //     var game_emulator = this.getIntent().getStringExtra("game_emulator");
+    //     console.log("game_emulator=" + game_emulator)
+    //
+    //     var account_type = this.getIntent().getStringExtra("account_type");
+    //     console.log("account_type=" + account_type)
+    //
+    //     var game_id = this.getIntent().getIntExtra("game_id", -1);
+    //     console.log("game_id=" + game_id)
+    //
+    // }
 
     //   var NativeLibrary = Java.use("xyz.aethersx2.android.NativeLibrary");
     // NativeLibrary.getGameListEntries.implementation = function () {
@@ -334,30 +549,6 @@ Java.perform(function () {
     //     this.setText(arg,arg2);
     // }
 
-    // var MainActivity = Java.use("com.epicgames.ue4.d");
-    // MainActivity.c.overload('java.lang.String').implementation = function (arg) {
-    //     console.log("---------------------------" + arg)
-    //     // showStacks()
-    //     console.log("---------------------------")
-    //     return this.c(arg);
-    // }
-    // var SecretKey = Java.use("    javax.crypto.SecretKey");
-    // SecretKey.$init.overload('java.lang.String').implementation = function (arg) {
-    //     console.log("---------------------------" + arg)
-    //     // showStacks()
-    //     console.log("---------------------------")
-    //     return this.c(arg);
-    // }
-    // var SecretKey = Java.use("com.epicgames.ue4.GameActivity");
-    // SecretKey.nativeSetObbInfo.implementation = function (arg, arg2, arg3, arg4, arg5) {
-    //     console.log("---------------------------" + arg + '   ' + arg2)
-    //     console.log("---------------------------" + arg3 + '   ' + arg4+ '   ' + arg5)
-    //     // showStacks()
-    //
-    //     console.log("---------------------------")
-    //     return this.nativeSetObbInfo(arg, arg2, arg3, arg4, arg5);
-    // }
-
 
 //  var signature = Java.use('android.content.pm.Signature')
 //     signature.toByteArray.implementation = function(){
@@ -394,22 +585,6 @@ Java.perform(function () {
 //     //showStacks()
 //     this.setText(str)
 // }
-
-
-// var UnityAdsImplementation = Java.use("com.unity3d.services.ads.UnityAdsImplementation");
-// UnityAdsImplementation.show.overload('android.app.Activity', 'java.lang.String', 'com.unity3d.ads.UnityAdsShowOptions', 'com.unity3d.ads.IUnityAdsShowListener').implementation = function (activity, str, unityAdsShowOptions , iUnityAdsShowListener) {
-//     console.log("---------------------------")
-//     console.log('show ' + str)
-//     console.log("---------------------------")
-//
-//     // showStacks()
-//     // return true;
-//     this.show(activity, str, unityAdsShowOptions , iUnityAdsShowListener);
-// }
-
-
-// startActivity();
-//
 
 
 // var MessageDigest = Java.use("java.security.MessageDigest");
@@ -457,33 +632,6 @@ Java.perform(function () {
 //         showStacks()
 //     return result;
 // }
-
-
-//
-// var DeviceUtils = Java.use("com.centurygame.sdk.utils.DeviceUtils");
-// DeviceUtils.getSHA1Signature.implementation = function (context) {
-//     var result = this.getSHA1Signature(context);
-//     console.log("getSHA1Signature = " + result)
-//     return result;
-// }
-// DeviceUtils.getSHA256Signature.implementation = function (context) {
-//     var result = this.getSHA256Signature(context);
-//     console.log("getSHA256Signature = " + result)
-//     return result;
-// }
-// DeviceUtils.getSignMd5Str.implementation = function (context) {
-//     var result = this.getSignMd5Str(context);
-//     console.log("getSHA256Signature = " + result)
-//     return result;
-// }
-//
-// var d = Java.use("talefun.cd.sdk.o.d");
-// d.u.implementation = function (context) {
-//     var result = this.u(context);
-//     console.log("u = " + result)
-//     return result;
-// }
-
 
 })
 ;
