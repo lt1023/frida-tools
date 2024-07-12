@@ -2,7 +2,8 @@ from time import sleep
 
 import frida, sys
 
-#frida -U --no-pause -f com.ArckonArts.StickInfiniteKingdom -l  ./nativeEntryHook.js
+#frida -U --no-pause -f com.GingerPlay.Obbyonabike -l  ./nativeEntryHook.js
+#frida -U  -f com.GingerPlay.Obbyonabike -l  ./nativeEntryHook.js
 
 
 #  adb shell /data/local/tmp/fs64
@@ -11,8 +12,9 @@ import frida, sys
 # adb forward tcp:31928 tcp:31928
 host = '127.0.0.1:1234'
 # package_name = "com.linktower.application"
-package_name = "com.secg.terracraft2"
-# package_name = "com.Gaea.HostelManagment"
+# package_name = "com.euphoricbrothersgames.gartenofbanbanVII"
+package_name = "com.tocaboca.days"
+package_name = "com.worldcraft.survival.adventure"
 script_file_name = 'nativehook.js'
 
 
@@ -32,7 +34,7 @@ pid = device.spawn([package_name])
 process = device.attach(pid)
 device.resume(pid)
 
-sleep(10)
+sleep(1)
 with open(script_file_name, encoding='UTF-8') as f:
     script = process.create_script(f.read())
 

@@ -8,7 +8,7 @@ import frida, sys
 # adb forward tcp:27042 tcp:27042
 host = '127.0.0.1:1234'
 # package_name = "com.linktower.application"
-package_name = "com.nekki.vector"
+package_name = "io.staika.game.defengo"
 script_file_name = 'il2cpp.js'
 
 

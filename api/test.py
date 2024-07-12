@@ -18,11 +18,26 @@ def demo():
 
 demo()
 
-#./fs64 -l 0.0.0.0:1234
-#./fs64 -l 127.0.0.1:12345
-#  adb shell /data/local/tmp/fs64
-#  adb shell /data/local/frida/fs64
-#  adb shell /data/local/frida/fs64
+
+#       adb connect 172.23.16.44:39889
+
+
+#           adb shell su -c 'pkill -9 fs64 '
+#           adb shell su -c 'pkill -9 fs1625 '
+#           adb -s 2d15ebcf shell su -c 'pkill -9 fs64 '
+#           adb shell su -c /data/local/frida/fs64
+
+# ./fs64 -l 0.0.0.0:1234
+# ./fs64 -l 127.0.0.1:12345
+#  adb -s 2d15ebcf shell su -c /data/local/tmp/fs64
+#  adb -s 2d15ebcf shell su -c /data/local/tmp/fs1625
+#  adb -s 2d15ebcf shell su -c /data/local/frida/fs64
+#  adb -s 2d15ebcf shell su -c /data/local/frida/fs1625
+#  adb shell su -c /data/local/frida/fs1625
+#  adb shell su -c /data/local/frida/fs64
+
+
+
 
 # adb forward tcp:27042 tcp:27042
 # adb forward tcp:1234 tcp:1234
@@ -31,9 +46,24 @@ demo()
 host = '127.0.0.1:1234'
 # package_name = "com.candyrufusgames.survivalcraftchs"
 # package_name = "com.coffeestainstudios.goatsimulator.payday.elm"
-package_name = "com.cat5games.catgoesfishingmod"
+# package_name = "com.shanwan.virtual"
+# package_name = "com.tencent.tim"
+# package_name = "com.hugenstar.jxjh"
+# package_name = "com.bomb.buck.shooter"
+# package_name = "com.euphoricbrothersgames.gartenofbanbanVII"
+# package_name = "com.ss.android.ugc.aweme.lite"
+# package_name = "com.whoyaho.tanghulu"
+# package_name = "com.vic.bc.jp"
+# package_name = "com.gbits.Asktao.Mobile"
+# package_name = "io.staika.game.defengo"
+package_name = "com.sahibinden"
+package_name = "com.xcwl.shzzz.toutiao"
 # package_name = "com.PixelDashStudios.RoadRedemption"
 script_file_name = 'test.js'
+
+
+# script_file_name = 'react-native.js'
+# script_file_name = 'hook_RegisterNatives.js'
 
 
 def message(msg, data):

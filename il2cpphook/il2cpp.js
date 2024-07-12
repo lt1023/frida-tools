@@ -14,8 +14,11 @@ Java.perform(function () {
 
     // 获取模块
     var module = Process.getModuleByName("libil2cpp.so")
+        console.log('[+] base ' + module.base)
+
     // 转为函数地址
-    var addr = module.base.add("0x420C3C");
+    // var addr = module.base.add("0x1D275A8");
+    var addr = module.base.add("0x1A58230");
     // 获取函数入口
     var func = new NativePointer(addr.toString());
 
@@ -43,6 +46,7 @@ Java.perform(function () {
         onLeave: function (retval) {
             console.log('method onleave')
             console.log(retval)
+            return true;
         }
     });
 });

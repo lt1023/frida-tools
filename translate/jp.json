@@ -1,0 +1,5848 @@
+{
+  "items": [
+    {
+      "key": "HOME_TITLE_UI_GAME_START",
+      "value": "游戏开始"
+    },
+    {
+      "key": "GAME_NPC_LIST_BUTTON",
+      "value": "朋友"
+    },
+    {
+      "key": "GAME_SETTINGS_BUTTON",
+      "value": "设定"
+    },
+    {
+      "key": "POP_UP_SAVE_CONTENTS",
+      "value": "今日はもう休みますか？"
+    },
+    {
+      "key": "POP_UP_OK",
+      "value": "はい"
+    },
+    {
+      "key": "PLAYER_NON_ITEM",
+      "value": "いまはなにももってない..."
+    },
+    {
+      "key": "PLAYER_DONT_UNDERSTAND",
+      "value": "なに言ってるかわからない..."
+    },
+    {
+      "key": "NON_DIALOGUE_CONTENT",
+      "value": "もうすこし仲良くならないと..."
+    },
+    {
+      "key": "PLAYER",
+      "value": "ぼく"
+    },
+    {
+      "key": "NPC_1",
+      "value": "山田剛士"
+    },
+    {
+      "key": "NPC_2",
+      "value": "ボス"
+    },
+    {
+      "key": "NPC_3",
+      "value": "ポチ"
+    },
+    {
+      "key": "NPC_4",
+      "value": "工藤一徳"
+    },
+    {
+      "key": "NPC_5",
+      "value": "川原義成"
+    },
+    {
+      "key": "NPC_6",
+      "value": "黒部彩音"
+    },
+    {
+      "key": "NPC_7",
+      "value": "長老"
+    },
+    {
+      "key": "NPC_8",
+      "value": "サバ兄妹"
+    },
+    {
+      "key": "NPC_9",
+      "value": "石戸恭子"
+    },
+    {
+      "key": "ITEM_1",
+      "value": "食べ物のゴミ"
+    },
+    {
+      "key": "ITEM_2",
+      "value": "食べかけの魚"
+    },
+    {
+      "key": "ITEM_3",
+      "value": "バナナの皮"
+    },
+    {
+      "key": "ITEM_4",
+      "value": "犬用ボーン"
+    },
+    {
+      "key": "ITEM_5",
+      "value": "ネズミ"
+    },
+    {
+      "key": "ITEM_6",
+      "value": "猫缶"
+    },
+    {
+      "key": "ITEM_7",
+      "value": "大きな魚"
+    },
+    {
+      "key": "ITEM_8",
+      "value": "魚の骨"
+    },
+    {
+      "key": "ITEM_9",
+      "value": "手袋"
+    },
+    {
+      "key": "ITEM_10",
+      "value": "ばんそうこう"
+    },
+    {
+      "key": "ITEM_11",
+      "value": "ガラスの破片"
+    },
+    {
+      "key": "ITEM_12",
+      "value": "花"
+    },
+    {
+      "key": "SPECIAL_ITEM_1",
+      "value": "工藤一徳の鍵"
+    },
+    {
+      "key": "SPECIAL_ITEM_2",
+      "value": "羽毛"
+    },
+    {
+      "key": "SPECIAL_ITEM_3",
+      "value": "財布"
+    },
+    {
+      "key": "SPECIAL_ITEM_4",
+      "value": "黒部彩音の鍵"
+    },
+    {
+      "key": "ITEM_SUPPLIER_1",
+      "value": "こむぎ"
+    },
+    {
+      "key": "ITEM_SUPPLIER_2",
+      "value": "뒤집어진 상자"
+    },
+    {
+      "key": "ITEM_SUPPLIER_3",
+      "value": "생선가게 가판대"
+    },
+    {
+      "key": "ITEM_SUPPLIER_4",
+      "value": "슈퍼마켓 가판대"
+    },
+    {
+      "key": "ITEM_SUPPLIER_5",
+      "value": "공원의 꽃밭"
+    },
+    {
+      "key": "ITEM_SUPPLIER_6",
+      "value": "오브젝트 밑"
+    },
+    {
+      "key": "ITEM_SUPPLIER_7",
+      "value": "비둘기"
+    },
+    {
+      "key": "NPC_1_FAVOR_1",
+      "value": "ｈ@#(*$たちは逃げてばかｒ@#(*$ｎに...\n@#(*$ｎと人懐っこ@#(*$、お前。"
+    },
+    {
+      "key": "NPC_1_FAVOR_2",
+      "value": "普通、野良猫たちは逃げてばかりなのに...\nほんと人懐っこいな、お前。"
+    },
+    {
+      "key": "NPC_1_PRESENT_GOOD_1",
+      "value": "!()*@#(*!@???のか、これ？\n@%@^、あり@#$~"
+    },
+    {
+      "key": "NPC_1_PRESENT_GOOD_2",
+      "value": "ん？俺にくれるのか、これ？\nハハ、ありがとうな。"
+    },
+    {
+      "key": "NPC_1_PRESENT_NORMAL_1",
+      "value": "ふふ、@#($*(# \n@#^%でかわ!(#*!*$だ。"
+    },
+    {
+      "key": "NPC_1_PRESENT_NORMAL_2",
+      "value": "ふふ、嬉しいことしてくれるな。\n小麦色でかわいい奴だな。"
+    },
+    {
+      "key": "NPC_1_PRESENT_BAD_1",
+      "value": "ん？(#&$!&@&#*??\n!&@#(*@&$&)@#!"
+    },
+    {
+      "key": "NPC_1_PRESENT_BAD_2",
+      "value": "ん？なんだこれ、ゴミじゃないか。\nほれ、こんなの食べちゃお腹痛くなるぞー"
+    },
+    {
+      "key": "NPC_1_LIKE_1_1",
+      "value": "あ()@ね#)!*? $&%???"
+    },
+    {
+      "key": "NPC_1_LIKE_1_2",
+      "value": "しっ、し#)!あ*$&け%~"
+    },
+    {
+      "key": "NPC_1_LIKE_2_1",
+      "value": "おーいっ、こむぎ。\n魚には手出しちゃだめだぞー"
+    },
+    {
+      "key": "NPC_1_LIKE_2_2",
+      "value": "お前、ちゃんと顔洗ってるか？\nそのままじゃ灰色になっちゃうぞー"
+    },
+    {
+      "key": "NPC_1_LIKE_3_1",
+      "value": "ああ、こむぎか。\n大人しくしてれば小魚ぐらいやるから、勝手に盗んじゃだめだぞ？"
+    },
+    {
+      "key": "NPC_1_LIKE_3_2",
+      "value": "食う時は魚の骨に気をつけないと。\n刺さったら危ないからね。"
+    },
+    {
+      "key": "NPC_1_LIKE_4_1",
+      "value": "おお、こむぎか。\n大人しくしてれば小魚ぐらいやるから、勝手に盗んじゃだめだぞ？"
+    },
+    {
+      "key": "NPC_1_LIKE_4_2",
+      "value": "食う時は魚の骨に気をつけないと。\n刺さったら危ないからね。"
+    },
+    {
+      "key": "NPC_1_LIKE_5_1",
+      "value": "猫缶っていくらぐらいするんだっけ..."
+    },
+    {
+      "key": "NPC_1_LIKE_5_2",
+      "value": "最近、町にネズミ駆除剤が撒かれてるみたいだ。\n腹減ったからって、何でも拾い食いしちゃダメだぞ。"
+    },
+    {
+      "key": "NPC_1_LIKE_6_1",
+      "value": "ああ、こむぎか。\nお前のおかげで最近は財布が軽くなっちまってな～"
+    },
+    {
+      "key": "NPC_1_LIKE_6_2",
+      "value": "うむ、もう少しちゃんとした名前を付けた方がいいかな...\nまあでも小麦色だし、いいじゃないか。"
+    },
+    {
+      "key": "NPC_1_LIKE_7_1",
+      "value": "おじさん、おはよ！"
+    },
+    {
+      "key": "NPC_1_LIKE_7_2",
+      "value": "おう、やっと来たかい。\nお前のこと待ってたんだぞー"
+    },
+    {
+      "key": "NPC_1_LIKE_7_3",
+      "value": "猫ってひと月いくらぐらいかかるんだろ...\n[猫 一か月餌代]でググると... えっ、こんなに高いんかい！"
+    },
+    {
+      "key": "NPC_1_QUEST_NON_PRESENT_1",
+      "value": "こ@(#$@#*$？ \n誰かの@(#*$@&!けどなぁ..."
+    },
+    {
+      "key": "NPC_1_QUEST_NON_PRESENT_2",
+      "value": "こむぎよ、これ俺がもらっていいのか？\n誰かの落とし物っぽいんだけどなぁ..."
+    },
+    {
+      "key": "NPC_1_QUEST_1_ACCEPT_1",
+      "value": "最近どうも腰がねぇ...\n毎日魚とにらめっこするのも飽きたしなあ～..."
+    },
+    {
+      "key": "NPC_1_QUEST_1_ACCEPT_2",
+      "value": "世の中はもうすぐ春なのに、花見もいけそうにないし..."
+    },
+    {
+      "key": "NPC_1_QUEST_1_ACCEPT_3",
+      "value": "ふふ、猫がじゃれつくのを見てると気分転換になるよ。"
+    },
+    {
+      "key": "NPC_1_QUEST_1_ACCEPT_4",
+      "value": "今日は刺身用の注文があったんでねぇ...\nほれ、切落しやるぞ。食うか？"
+    },
+    {
+      "key": "NPC_1_QUEST_1_ACCEPT_5",
+      "value": "すっごい...！どうしてこんなに魚をいっぱい持ってるんだ！？\nこのにんげん、すごいかも！？"
+    },
+    {
+      "key": "NPC_1_QUEST_2_ACCEPT_1",
+      "value": "おう、こむぎか。お前、毎日うちの魚ばかりくって\nちょっと太ったんじゃないかい？ふふ。"
+    },
+    {
+      "key": "NPC_1_QUEST_2_ACCEPT_2",
+      "value": "こむぎよ、悪いけど俺が手をけがしちまってね。\nしばらくは店に出られそうにないんだよ。"
+    },
+    {
+      "key": "NPC_1_QUEST_2_ACCEPT_3",
+      "value": "毎朝ゴミ捨て場の近くで餌やってるおばさんがいるんだけど、\nしばらくはそっちでお世話になりな。分かったかい？"
+    },
+    {
+      "key": "NPC_1_QUEST_2_ACCEPT_4",
+      "value": "魚、くれないの？\nお腹すいた......."
+    },
+    {
+      "key": "NPC_1_QUEST_2_ACCEPT_5",
+      "value": "すぐ回復して戻るから、\nまた今度魚食いに来いよな。"
+    },
+    {
+      "key": "NPC_1_QUEST_2_ACCEPT_6",
+      "value": "(ゴミ捨て場のにんげんと好感度レベル2を達成しよう)"
+    },
+    {
+      "key": "NPC_1_QUEST_3_ACCEPT_1",
+      "value": "ふむ、最近ずっと町の清潔状態があれだな...\nあっちこっちにネズミが出てる。"
+    },
+    {
+      "key": "NPC_1_QUEST_3_ACCEPT_2",
+      "value": "なあ、こむぎ。お前も猫だろ？ネズミ狩りでもやってみなよ。"
+    },
+    {
+      "key": "NPC_1_QUEST_3_ACCEPT_3",
+      "value": "なんだ、できないのか？\nそっか、まだネズミ狩りできるほど大きくないしねぇ..."
+    },
+    {
+      "key": "NPC_1_QUEST_4_ACCEPT_1",
+      "value": "なあ、こむぎ。最近野良猫の餌にネズミ駆除剤を\n撒く人がいるらしいんだ..."
+    },
+    {
+      "key": "NPC_1_QUEST_4_ACCEPT_2",
+      "value": "お前も気をつけろよ、餌から変な匂いとかしたら\n絶対に食べちゃダメだか..........、っ！"
+    },
+    {
+      "key": "NPC_1_QUEST_4_ACCEPT_3",
+      "value": "痛ぇなぁ、手切っちまった.......\nついお前に気が行ってしまってね..."
+    },
+    {
+      "key": "NPC_1_QUEST_4_ACCEPT_4",
+      "value": "...！！ ママのときみたいに、真っ赤なのが出てる！\nおじさんもママみたいにどっかに行っちゃうの？！"
+    },
+    {
+      "key": "NPC_1_QUEST_4_ACCEPT_5",
+      "value": "ふふ、心配してくれてるのかい？大丈夫だ。\n思ったより傷が深いみたいだが..."
+    },
+    {
+      "key": "NPC_1_QUEST_4_ACCEPT_6",
+      "value": "ばんそうこう、どこに入れといたっけ..."
+    },
+    {
+      "key": "NPC_1_QUEST_4_ACCEPT_7",
+      "value": "(「ばんそうこう」ってのがあれば\nおじさんが遠くへいかないかもしれない！）"
+    },
+    {
+      "key": "NPC_1_QUEST_1_INCOMPLETE_1",
+      "value": "花見か.......、俺も行きたいな。"
+    },
+    {
+      "key": "NPC_1_QUEST_2_INCOMPLETE_1",
+      "value": "[店主都合により臨時休業いたします]"
+    },
+    {
+      "key": "NPC_1_QUEST_2_INCOMPLETE_2",
+      "value": "おじさん、いない......."
+    },
+    {
+      "key": "NPC_1_QUEST_3_INCOMPLETE_1",
+      "value": "ふむ、最近は景気もよくないってんのに..."
+    },
+    {
+      "key": "NPC_1_QUEST_3_INCOMPLETE_2",
+      "value": "商店街にネズミが多すぎるじゃないか、まったく...\nこのままじゃ客も来ないだろうし、これからのこと考えないとな......."
+    },
+    {
+      "key": "NPC_1_QUEST_4_INCOMPLETE_1",
+      "value": "ばんそうこう、どこに入れといたっけ..."
+    },
+    {
+      "key": "NPC_1_QUEST_4_INCOMPLETE_2",
+      "value": "(「ばんそうこう」ってのがあれば\nおじさんが遠くへいかないかもしれない！）"
+    },
+    {
+      "key": "NPC_1_QUEST_1_COMPLETE_1",
+      "value": "ん？なんだ、こむぎ。お前、口になんか......."
+    },
+    {
+      "key": "NPC_1_QUEST_1_COMPLETE_2",
+      "value": "にんげん、これあげるよ！「花」！"
+    },
+    {
+      "key": "NPC_1_QUEST_1_COMPLETE_3",
+      "value": "...花じゃないか。それ、俺にくれるのか？\n.......ハハ、涙腺ゆるんじまうな..."
+    },
+    {
+      "key": "NPC_1_QUEST_1_COMPLETE_4",
+      "value": "よーし、おじさんのお礼はこれだ。ほれ、でっかい魚！"
+    },
+    {
+      "key": "NPC_1_QUEST_1_COMPLETE_5",
+      "value": "「おじさん」がこのにんげんの名前かな...\nおじさん、魚たちのボスなんだ！すごいよ！！"
+    },
+    {
+      "key": "NPC_1_QUEST_1_COMPLETE_6",
+      "value": "どうだ、うまいか？にゃーにゃー言っちゃって。\nお前が来るのは嬉しいけど、ここまで懐かれたら心配にもなるなぁ..."
+    },
+    {
+      "key": "NPC_1_QUEST_1_COMPLETE_7",
+      "value": "ああ、食い終わったかい？\nじゃ早く帰りな！友だち呼んできちゃダメだぞー"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_1",
+      "value": "おう、来たか。こむぎ。"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_2",
+      "value": "お前、また大きくなったんじゃないかい？\nおばさんにうまいもん食べさせてもらったか～？"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_3",
+      "value": "おじさん！どこに行ってたの！さみしかったよ！"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_4",
+      "value": "にゃーにゃーって言われてもな...、\nああ、そうか。早く魚食いたいって？はいはい、今やるよー"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_5",
+      "value": "休んでる間に店任せられる人もいないなんて、\n俺も生き方間違ってたかもな..."
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_6",
+      "value": "ねえ、おじさんはどうして一人なの？\nおじさんも、ぼくみたいに友だちいない？"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_7",
+      "value": "...でもこむぎ。お前は毎日来てくれるよな。\n俺の友だちはお前しかいないさ。"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_8",
+      "value": "ぼくも友だちいない！おじさん、ぼくと友だちになって！"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_9",
+      "value": "ん？ああ、そうか。魚まだだったっけ。\nはいはい、お前のために残しといたよー"
+    },
+    {
+      "key": "NPC_1_QUEST_2_COMPLETE_10",
+      "value": "(おじさん...どこかさみしそう)"
+    },
+    {
+      "key": "NPC_1_QUEST_3_COMPLETE_1",
+      "value": "ん？なんだ、これっ...\nう、うわっ！！こむぎ、お前...！！"
+    },
+    {
+      "key": "NPC_1_QUEST_3_COMPLETE_2",
+      "value": "お前、ネズミ狩りができるのか！？すごいじゃないか！！"
+    },
+    {
+      "key": "NPC_1_QUEST_3_COMPLETE_3",
+      "value": "...そうか.......こむぎ、俺のためにネズミを狩ってきたんだ..."
+    },
+    {
+      "key": "NPC_1_QUEST_3_COMPLETE_4",
+      "value": "...なのに俺、簡単に店やめるなんか言い出してすぐ諦めようとした。\nネズミなんかみんなで駆除作業でもすりゃいいのに..."
+    },
+    {
+      "key": "NPC_1_QUEST_3_COMPLETE_5",
+      "value": "おじさん、なんか嬉しいみたい。ネズミが好きなのか...？\nおじさんは大きいのにネズミも狩れないんだ..."
+    },
+    {
+      "key": "NPC_1_QUEST_3_COMPLETE_6",
+      "value": "ほら、こむぎ。魚だ。\nいっぱい食ってでっかくなるんだよ、な？"
+    },
+    {
+      "key": "NPC_1_QUEST_4_COMPLETE_1",
+      "value": "おじさん、持ってきた！だから行かないで"
+    },
+    {
+      "key": "NPC_1_QUEST_4_COMPLETE_2",
+      "value": "...？？\nいや、いやいやいや...おかしいぞ。"
+    },
+    {
+      "key": "NPC_1_QUEST_4_COMPLETE_3",
+      "value": "まさか.......\n本当か！？本当にこむぎ、お前が持ってきたのか！？！！"
+    },
+    {
+      "key": "NPC_1_QUEST_4_COMPLETE_4",
+      "value": "...こむぎって天才なんじゃ.......\nなあ、こむぎ！お前が持ってきたんだろ！？"
+    },
+    {
+      "key": "NPC_1_QUEST_4_COMPLETE_5",
+      "value": "おじさん、行かないで！ここにいて！"
+    },
+    {
+      "key": "NPC_1_QUEST_4_COMPLETE_6",
+      "value": "はあ、お前にゃーにゃーしか言えないもんな...\n......."
+    },
+    {
+      "key": "NPC_1_QUEST_4_COMPLETE_7",
+      "value": "なあ、こむぎ。人間に簡単に懐いちゃダメだからな。\nお前は人間を信頼しすぎだ..."
+    },
+    {
+      "key": "NPC_2_FAVOR_1",
+      "value": "ふん..."
+    },
+    {
+      "key": "NPC_2_PRESENT_GOOD_1",
+      "value": "...ま、まあ...\nあ、あり...が..........ちくしょ！"
+    },
+    {
+      "key": "NPC_2_PRESENT_NORMAL_1",
+      "value": "......."
+    },
+    {
+      "key": "NPC_2_PRESENT_BAD_1",
+      "value": "失せろ。"
+    },
+    {
+      "key": "NPC_2_LIKE_1_1",
+      "value": "ふん..."
+    },
+    {
+      "key": "NPC_2_LIKE_1_2",
+      "value": "あっち行けって！"
+    },
+    {
+      "key": "NPC_2_LIKE_2_1",
+      "value": "若い奴らは食い物に目がねえな、\n本当にめんどくせー..."
+    },
+    {
+      "key": "NPC_2_LIKE_2_2",
+      "value": "お前の言葉を聞いてる暇なんてねえ。"
+    },
+    {
+      "key": "NPC_2_LIKE_3_1",
+      "value": "話かけんなつってんだろ。"
+    },
+    {
+      "key": "NPC_2_LIKE_3_2",
+      "value": "...ネズミをいじめるのは、ある意味「遊び」でもある。"
+    },
+    {
+      "key": "NPC_2_LIKE_4_1",
+      "value": "あのじじい、高けえもんにしか興味がねーからな..."
+    },
+    {
+      "key": "NPC_2_LIKE_4_2",
+      "value": "お前の相手をやってる暇なんてねえ。"
+    },
+    {
+      "key": "NPC_2_LIKE_5_1",
+      "value": "...なんだ。"
+    },
+    {
+      "key": "NPC_2_LIKE_5_2",
+      "value": "ふん...\nなんだ。"
+    },
+    {
+      "key": "NPC_2_LIKE_6_1",
+      "value": "用事がないなら帰れって言ってんだ。\nめんどくせーな..."
+    },
+    {
+      "key": "NPC_2_LIKE_6_2",
+      "value": "おい、邪魔だから帰れって。"
+    },
+    {
+      "key": "NPC_2_LIKE_7_1",
+      "value": "ふん...\nお前みてえな奴、めんどくせーから誰にも相手にされねえぞ。"
+    },
+    {
+      "key": "NPC_2_LIKE_7_2",
+      "value": "オレぐらい器が大きい奴しか\nお前を相手に出来ねえって話だ...まったく。"
+    },
+    {
+      "key": "NPC_2_QUEST_NON_PRESENT_1",
+      "value": "他の奴に当たれって。"
+    },
+    {
+      "key": "NPC_2_QUEST_1_ACCEPT_1",
+      "value": "めんどくせーな、本当...\nあっち行けって！"
+    },
+    {
+      "key": "NPC_2_QUEST_1_ACCEPT_2",
+      "value": "あの、ぼくは...あの...\nぼくの話を聞いて！！"
+    },
+    {
+      "key": "NPC_2_QUEST_1_ACCEPT_3",
+      "value": "勝手なこと言ってんじゃねえ。"
+    },
+    {
+      "key": "NPC_2_QUEST_1_ACCEPT_4",
+      "value": "...ものを頼む時は「猫缶」ぐらい持ってこい。\nそれが礼儀というもんだ。分かったらさっさと帰れ！"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_1",
+      "value": "ちびのくせに、どうして一人で出歩く？"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_2",
+      "value": ".......\nにんげんたちに、ママが連れていかれたんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_3",
+      "value": "はあ、もうめんどくせー......."
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_4",
+      "value": "数日前、この近くで連れていかれた...\nお願い！ボスなら知ってるよね？"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_5",
+      "value": "(数日前なら車に引かれた奴のことか...？)"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_6",
+      "value": "...やっぱり何か知ってるんだ！"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_7",
+      "value": "タダで言わせる気か？\n子どもでも礼儀ぐらいは守れってんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_8",
+      "value": "タダ...？"
+    },
+    {
+      "key": "NPC_2_QUEST_2_ACCEPT_9",
+      "value": "はあ、これだから子供は...\n猫缶ぐらい持ってこいってんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_1",
+      "value": "おい、母親のことはどうなってる？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_2",
+      "value": "頑張ってるけど、まだよくわからなくて..."
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_3",
+      "value": "ボスはいつからボスになったの？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_4",
+      "value": "...聞いてどうする。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_5",
+      "value": "ボスは長老さんと友だちなの？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_6",
+      "value": "...オレ、そんなに老けてみえるか？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_7",
+      "value": "ボスはどうしてずっとここにいるの？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_8",
+      "value": "...おいっ！\nうるさいからもうやめろ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_9",
+      "value": "なんで？教えてくれてもいいじゃん。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_10",
+      "value": "用がないならさっさと帰れ。\nこっちは忙しいんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_ACCEPT_11",
+      "value": "(長老のじいちゃんならボスについて知ってるかも)"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_1",
+      "value": "ぼくもボスみたいにカッコイイ猫になりたいよ！"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_2",
+      "value": "...ほめてもなんも出ないぞ。\n帰れってんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_3",
+      "value": "ボスはどうしてそんなに強いの？"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_4",
+      "value": "...ゴホン。\nまあ...オレは確かに強いけどよ。"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_5",
+      "value": "教えて、ボス！"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_6",
+      "value": "...ふむ。そうだな...強くなりたいなら、まずは基礎からしっかりとやんねえと。"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_7",
+      "value": "きそ...？"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_8",
+      "value": "そうだ。猫にとって最も基礎的な獲物といえば..."
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_9",
+      "value": "やっぱり...\n「ネズミ」だ。"
+    },
+    {
+      "key": "NPC_2_QUEST_4_ACCEPT_10",
+      "value": "「ネズミ」ぐらいは片手でも狩れる猫になれ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_1",
+      "value": "ボスはにんげんについてどう思う？"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_2",
+      "value": "...特に何も。\n食い物をくれる、便利な...毛のない種族、それぐらいだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_3",
+      "value": "ボスはにんげんと一緒にいたいと思わないの？"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_4",
+      "value": "思ったことねえ。\nオレの居場所はここだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_5",
+      "value": "最初は優しいかもしれねえ、けど...中にはにんげんの家から逃げ出した奴らもいる。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_6",
+      "value": "じゃあ、にんげんは悪いんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_7",
+      "value": "...すべての人間が悪いとは言い切れねえ。\nむしろ人間との思い出が多い奴らもいる。あのじじいみたいにな。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_8",
+      "value": "良い人間もいればそうでない人間もいるからな...\n.......まさかお前、人間と一緒にいたいのか？"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_9",
+      "value": "ううん、そうじゃなくて...\nにんげんと一緒にいたら毎日食べ物をもらえるから。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_10",
+      "value": "...はあ、お前って奴は.......\nもらえるまで待っててどうする。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_11",
+      "value": "...え？"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_12",
+      "value": "盗めばいいじゃねえか、盗めば。\n商店街のあのでっけー魚のここだ！"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_13",
+      "value": "ぬすむのは...悪いことだよ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_ACCEPT_14",
+      "value": "オレの知った事か。\n腹減ってんだよ、こっちは。"
+    },
+    {
+      "key": "NPC_2_QUEST_1_INCOMPLETE_1",
+      "value": "頼み事があるなら猫缶ぐらいは持って来い。\n...分かったか？ならさっさと行け。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_INCOMPLETE_1",
+      "value": "猫缶だ。\n...もう帰れ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_INCOMPLETE_1",
+      "value": "用がないならさっさと帰れ。\nこっちは忙しいんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_INCOMPLETE_2",
+      "value": "(長老のじいちゃんならボスについて知ってるかも)"
+    },
+    {
+      "key": "NPC_2_QUEST_4_INCOMPLETE_1",
+      "value": "「ネズミ」ぐらいは片手でも狩れる猫になれ、基本中の基本だろ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_INCOMPLETE_1",
+      "value": "腹減ってんだろ？なら商店街の「でっけー魚」を盗んで来い！"
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_1",
+      "value": "じいちゃん、どうしてボスはここを守るの？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_2",
+      "value": "ほっほ...そうじゃな.......\n昔は奴も好奇心旺盛なただの子猫だったじゃ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_3",
+      "value": "奴は孤児じゃ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_4",
+      "value": "親のように懐いていた猫がいたんじゃがね、\n他の地域から侵入してきた猫とケンカになってしまって..."
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_5",
+      "value": "そやつも噛まれた傷が悪化して、結局死んでしまった。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_6",
+      "value": "奴は、二度とそんなことが起きないよう...\n侵入者からこの街を守っておるのじゃろ。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_7",
+      "value": "ボスにそんなことがあったなんて..."
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_8",
+      "value": "でも、どうしてボスはいつも冷たいの？\nみんなを守ってくれてるのに、みんなに嫌われてばかり..."
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_9",
+      "value": "ほっほ、まだお前さんにはわからん。\n「情」の恐ろしさがねぇ..."
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_10",
+      "value": "じょー...？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_DOING_11",
+      "value": "いつかはお前さんにも分かる日がくるじゃろ...\nほっほっほ..."
+    },
+    {
+      "key": "NPC_2_QUEST_1_COMPLETE_1",
+      "value": "...ほう、やるじゃないか。\nそれでなんの用だ？"
+    },
+    {
+      "key": "NPC_2_QUEST_1_COMPLETE_2",
+      "value": "あ、それが...あの...\nぼく、ママを探してるんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_1_COMPLETE_3",
+      "value": "お前の母親のことなんてオレに分かるわけないだろ？"
+    },
+    {
+      "key": "NPC_2_QUEST_1_COMPLETE_4",
+      "value": "そ、そうなの...？"
+    },
+    {
+      "key": "NPC_2_QUEST_1_COMPLETE_5",
+      "value": "ああ、それに分かってても\nお前に教える義務なんてねえし。"
+    },
+    {
+      "key": "NPC_2_QUEST_1_COMPLETE_6",
+      "value": "オレはお前のことなんか興味ねえんだよ。\n...こっちは忙しんだ、もう邪魔すんな。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_1",
+      "value": "ほう、持ってきたのか。\n(出来ないと思ってたけどな)"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_2",
+      "value": "持ってこいって言ったじゃん！"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_3",
+      "value": "...ゴホン。\nオレの記憶が正しいなら、お前の母親は..."
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_4",
+      "value": "人間につかまったというよりは\nその逆の可能性が高い。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_5",
+      "value": "どういうこと...？"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_6",
+      "value": "お前の母親のケガを\n治療するために連れて行ったということだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_7",
+      "value": "本当？ママ、ケガしたの...？\n...じゃあどうすればママに会える？"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_8",
+      "value": "...さあな。\nそれはオレにもわからん。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_9",
+      "value": "じゃ、ぼく...\nもっ、もうママには会えないの...！？！"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_10",
+      "value": "(うわっ、泣かれるのは嫌だっ！！)"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_11",
+      "value": "そ、それは違うと思うけど？\nあんときお前の母親を助けた人間なら知ってるよ、...たぶん。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_12",
+      "value": "本当？！"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_13",
+      "value": "ああ、ゴミ捨て場で毎朝食い物を置いてる人間だ。\n一緒にいるのを見たことがある。"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_14",
+      "value": "あ、ありがとう！ボス、ありがとう！！"
+    },
+    {
+      "key": "NPC_2_QUEST_2_COMPLETE_15",
+      "value": "(生きてるとは言ってねえけどな...)"
+    },
+    {
+      "key": "NPC_2_QUEST_3_COMPLETE_1",
+      "value": "...ねえ、ボス。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_COMPLETE_2",
+      "value": "何だよ、また。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_COMPLETE_3",
+      "value": "ボスは「じょう」のこと、嫌いなの？"
+    },
+    {
+      "key": "NPC_2_QUEST_3_COMPLETE_4",
+      "value": "はあ...？\nなんの話だ、急に。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_COMPLETE_5",
+      "value": "長老のじいちゃんが言ってた。\nボスがそれを恐れてるから、いつも冷たいんだって。"
+    },
+    {
+      "key": "NPC_2_QUEST_3_COMPLETE_6",
+      "value": "(あんのじじい、いらねえことを...！)"
+    },
+    {
+      "key": "NPC_2_QUEST_3_COMPLETE_7",
+      "value": "...用が済んだら帰れ、こっちは暇じゃねえんだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_4_COMPLETE_1",
+      "value": "ボス！ぼく、ネズミ狩りに成功したよ！"
+    },
+    {
+      "key": "NPC_2_QUEST_4_COMPLETE_2",
+      "value": "ほう、悪くねえな。"
+    },
+    {
+      "key": "NPC_2_QUEST_4_COMPLETE_3",
+      "value": "ボスにあげるよ！"
+    },
+    {
+      "key": "NPC_2_QUEST_4_COMPLETE_4",
+      "value": "...いらねーよ。\nそれはお前のモノだ、お前が飼ったからな。"
+    },
+    {
+      "key": "NPC_2_QUEST_4_COMPLETE_5",
+      "value": "オレの分はオレが狩る、それだけだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_1",
+      "value": "へえ、本当に持ってきたんだ？\nんなに食いたかったか、魚。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_2",
+      "value": "ボスも一緒に食べる？"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_3",
+      "value": "...オレはいい。\nそこの小さい奴らにでもやっとけ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_4",
+      "value": "なあ、ボス。こうやって毎日盗んで食べようよ！\nそしたらいっぱい食べられる。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_5",
+      "value": "バカ言うな、オレも魚がうまいことなら知ってる。けどな..."
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_6",
+      "value": "オレたちが人間の生活を邪魔するほど\n人間に嫌われやすくなる。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_7",
+      "value": "たまにならいいけど、んなこと毎日やってたら\n人間に殺されるかもしれねーよ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_8",
+      "value": "オレたちが勝手に\n他の奴らの領域に入らないのと同じだ。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_9",
+      "value": "人間と上手く付き合うにはもう少し考えろ。\n...お前にはまだ理解できないかもしれねーけど。"
+    },
+    {
+      "key": "NPC_2_QUEST_5_COMPLETE_10",
+      "value": "にんげんとの付き合いも考えが必要なんだ...\nでも、おいしい......."
+    },
+    {
+      "key": "NPC_3_FAVOR_1",
+      "value": "へへっ、猫かわいいな。\nぼくたち、友だちになれると思うんだ！"
+    },
+    {
+      "key": "NPC_3_PRESENT_GOOD_1",
+      "value": "ありがとうだワン！\n猫はかわいい、やさしい！"
+    },
+    {
+      "key": "NPC_3_PRESENT_NORMAL_1",
+      "value": "ありがとうだワン！"
+    },
+    {
+      "key": "NPC_3_PRESENT_BAD_1",
+      "value": "ごめんな...これ、おばあちゃんが好きじゃないんだ。"
+    },
+    {
+      "key": "NPC_3_LIKE_1_1",
+      "value": "猫だ！こんにちワン！"
+    },
+    {
+      "key": "NPC_3_LIKE_1_2",
+      "value": "うちの店のもん盗まないでね！"
+    },
+    {
+      "key": "NPC_3_LIKE_2_1",
+      "value": "猫だ！こんにちワン！"
+    },
+    {
+      "key": "NPC_3_LIKE_2_2",
+      "value": "なあ、猫たちは何を食べてる？\nぼくは何でも好きだけど、おばあちゃんがエサばかりくれるんだ..."
+    },
+    {
+      "key": "NPC_3_LIKE_3_1",
+      "value": "ぼくはおばあちゃんが大好き。\nいいにおいがするんだ、あったかいにおい..."
+    },
+    {
+      "key": "NPC_3_LIKE_3_2",
+      "value": "最近、なぜかおばあちゃんがつらそうなんだ...\nおばあちゃんがつらいのは嫌だ、ぼくもつらくなる..."
+    },
+    {
+      "key": "NPC_3_LIKE_4_1",
+      "value": "昔、ママとパパに会いたくてずっと走ってたことがあるんだ。\n知らない道だったから、途中で人間につかまったけど。"
+    },
+    {
+      "key": "NPC_3_LIKE_4_2",
+      "value": "目を閉じると、今もあの家のにおいを思い出すよ。"
+    },
+    {
+      "key": "NPC_3_LIKE_5_1",
+      "value": "人間を好きになることはとってもつらいことだよ。"
+    },
+    {
+      "key": "NPC_3_LIKE_5_2",
+      "value": "きみが人間を好きになっても、\n人間はその分のきみを好きになってくれないかもしれないよ。"
+    },
+    {
+      "key": "NPC_3_LIKE_6_1",
+      "value": "人間と一緒になるってことは慎重に決めないと...\nぼくは「主」を選べなかったけど、きみは自分で選べるじゃないか。"
+    },
+    {
+      "key": "NPC_3_LIKE_6_2",
+      "value": "人間と仲良くなることはけっこう難しいことだ。"
+    },
+    {
+      "key": "NPC_3_LIKE_7_1",
+      "value": "あっ、猫だ！元気にしてた？"
+    },
+    {
+      "key": "NPC_3_LIKE_7_2",
+      "value": "うん、おかげで前よりにんげんについて考えるようになった。\n...ありがとう。"
+    },
+    {
+      "key": "NPC_3_LIKE_7_3",
+      "value": "きみが人間と一緒になるの道を選ばなくても、\nぼくはいつもここにいるから。話し相手が必要ならいつでもおいで！"
+    },
+    {
+      "key": "NPC_3_QUEST_NON_PRESENT_1",
+      "value": "うーむ、もう一度考えてみて。\nきっとぼくじゃないと思うんだ。"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_1",
+      "value": "ワン！"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_2",
+      "value": "わーっ！？！\nび、びっくりした...！"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_3",
+      "value": "こんにちワン！ぼくはポチ！"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_4",
+      "value": "ポチ...？それ、名前なの？\n名前、あるんだ..."
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_5",
+      "value": "そうだよ！おばあちゃんが付けてくれた。\nどうして一人でいるんだ？きみ、子猫だろう？"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_6",
+      "value": "ママ、にんげんたちに連れていかれたんだ。\nだからぼく、一人になっちゃって..."
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_7",
+      "value": "そうか... ぼくは「ママ」を見たことがないよ。\n生まれたときから「主」と一緒だったから。"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_8",
+      "value": "ぬし...？"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_9",
+      "value": "そう！主がぼくの親だよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_10",
+      "value": "そのぬしさんがあのおばあちゃんなの？"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_11",
+      "value": "ちがうよ、ぼくの親は.......\n......."
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_12",
+      "value": "...その話はまた今度な、今は一人にして。"
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_13",
+      "value": "うーん、何かポチの気分転換になりそうなものはないかな..."
+    },
+    {
+      "key": "NPC_3_QUEST_1_ACCEPT_14",
+      "value": "気分転換か.......\n花がほしいな、おばあちゃんは足がいたいから\n遠くまではいけなくて。花を持って行ったらきっと喜ぶと思うよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_1",
+      "value": "どうしてママとパパじゃなくておばあちゃんと一緒にいるの？"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_2",
+      "value": "...ぼくは捨てられた。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_3",
+      "value": "うちに小さいお兄ちゃんが生まれたから。\nぼく、大きすぎるんだって。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_4",
+      "value": "ママとパパは...ぼくがお兄ちゃんを噛むかもしれないからって、\nぼくを追い出した。ぼく、お兄ちゃんのこと大好きなのに..."
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_5",
+      "value": "ぼくはその後も色んな家に連れていかれたけど、\nいつも悲しかった..."
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_6",
+      "value": "人間のことが怖くて、\nぼく、人間を痛くさせてしまって......."
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_7",
+      "value": "にんげんを、噛んだの...？"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_8",
+      "value": "そうだ...人間たちはぼくを殺そうとしたよ。\nでも、おばあちゃんに助けられた。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_9",
+      "value": "おばあちゃんはずっと待ってくれたんだ、ぼくがおばあちゃんのことを受け入れるまで..."
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_10",
+      "value": "じゃあ、ママとパパがまた迎えに来たら、ポチは家に帰るの？"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_11",
+      "value": ".......ううん、帰らない。\nとっても大好きだったけど..."
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_12",
+      "value": "ずっとおばあちゃんのとなりにいると決めた。\nおばあちゃん、ぼくがいないときっと泣くから。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_13",
+      "value": "ぼく、ここでずっと店番してるから...いい子にしてるよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_ACCEPT_14",
+      "value": "いい子してると、いつもママとパパにおやつもらってたなー......."
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_1",
+      "value": "...にんげんと一緒にいるのって、楽しい？"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_2",
+      "value": "うん、楽しいよ！\n毎朝おばあちゃんと散歩して、夜は一緒に眠るんだ。"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_3",
+      "value": "たまに昔のことで悪い夢をみることもあるけど...\nそのたびにおばあちゃんがなでなでしてくれる。幸せだよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_4",
+      "value": "でも、どうしてこんなことを聞く？好きになった人間でもいるのか？"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_5",
+      "value": "うん、まあ...\nどうすればにんげんと一緒になれるの？"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_6",
+      "value": "うーむ、ぼくは最初から人間と一緒にいたからよくわからないけど...\nまずは仲良くなるのがいいんじゃないかな。"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_7",
+      "value": "いいにんげん、わるいにんげんはどうやって区分できるの...？"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_8",
+      "value": "それは誰にもわからないんじゃないかな.......人間の考えてることは難しいんだ。"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_9",
+      "value": "とりあえずは話をしてみたら？\n猫が嫌いな人間かもしれないだろう？"
+    },
+    {
+      "key": "NPC_3_QUEST_3_ACCEPT_10",
+      "value": "気をつけて。動物を嫌いな人間って、本当に怖いんだから......."
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_1",
+      "value": "こんにちワン！"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_2",
+      "value": "...こんにちは。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_3",
+      "value": "にんげんとの付き合い、うまくやってる？"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_4",
+      "value": "それが...よくわからなくて。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_5",
+      "value": "にんげんと一緒になるには、ただ知り合うだけじゃダメなみたい。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_6",
+      "value": "そうだよ、仲良くならなくちゃ！"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_7",
+      "value": "仲良くなったかどうかはどうやってわかるの？"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_8",
+      "value": "うーむ、そうだな...人間の言葉が分かるようになったら、かな？"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_9",
+      "value": "何を言ってるかわからないと、その人間のことが把握できないからな..."
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_10",
+      "value": "とりあえず、\n町中の人間たちと仲良くなってみたらどう？"
+    },
+    {
+      "key": "NPC_3_QUEST_4_ACCEPT_11",
+      "value": "(町にいるにんげん全員と\n好感度レベル2を達成しよう)"
+    },
+    {
+      "key": "NPC_3_QUEST_1_INCOMPLETE_1",
+      "value": "花がほしいな、おばあちゃんは足がいたいから\n遠くまではいけなくて。花を持って行ったらきっと喜ぶと思うよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_INCOMPLETE_1",
+      "value": "いい子してると、いつもママとパパにおやつもらってたなー......."
+    },
+    {
+      "key": "NPC_3_QUEST_3_INCOMPLETE_1",
+      "value": "(どのにんげんがいいか、ぼくにはまだ分からないな...\nとりあえずにんげんたち全員と話してみよう)"
+    },
+    {
+      "key": "NPC_3_QUEST_4_INCOMPLETE_1",
+      "value": "とりあえず、\n町中の人間たちと仲良くなってみたらどう？"
+    },
+    {
+      "key": "NPC_3_QUEST_4_INCOMPLETE_2",
+      "value": "(町にいるにんげん全員と\n好感度レベル2を達成しよう)"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_1",
+      "value": "(商店街にいるにんげん...\n毎日おいしい魚が食べられそう)"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_2",
+      "value": "お前の食い物じゃないよ～\nしっ、しっ！あっち行けー"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_3",
+      "value": "(毎日独り言をぶつぶつ言ってるにんげん...)"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_4",
+      "value": "んだよ、気味わりーな！\nこっち来んなって！！"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_5",
+      "value": "ひっ...！\n(あ、足ふまれた...痛い...)"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_6",
+      "value": "(夜になるといつもご飯くれる人間...このにんげんの手、あたたかい)"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_7",
+      "value": "あ、子猫ちゃんだ！\nどうした？お腹空いたのかー？"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_8",
+      "value": "(このにんげん、ぼくを見たらいつもしゃべりっぱなしで...\nめんどくさい...)"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_9",
+      "value": "あーっ！猫ちゃん！！\nほら、こっち見て～ 写真撮るよ～"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_10",
+      "value": "(ママを...連れていったにんげん...)"
+    },
+    {
+      "key": "NPC_3_QUEST_3_DOING_11",
+      "value": "あら、子猫ちゃん。\n先に来て待ってたの？"
+    },
+    {
+      "key": "NPC_3_QUEST_1_COMPLETE_1",
+      "value": "ぼくはポチのために何かやってあげたいと思ったよ。\nでもポチはおばあちゃんのためのものが欲しかったんだ。それはどうして？"
+    },
+    {
+      "key": "NPC_3_QUEST_1_COMPLETE_2",
+      "value": "おばあちゃんが笑ってくれたら、ぼくも嬉しくなるからだよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_1_COMPLETE_3",
+      "value": "うーむ、よくわからない..."
+    },
+    {
+      "key": "NPC_3_QUEST_1_COMPLETE_4",
+      "value": "人間と仲良くなったら分かるよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_COMPLETE_1",
+      "value": "わあ、おやつだー！\nママとパパからも、いつもこれもらってたよ！"
+    },
+    {
+      "key": "NPC_3_QUEST_2_COMPLETE_2",
+      "value": "ママとパパ、今頃どうしてるかな...\nまだぼくのこと覚えてるかな..."
+    },
+    {
+      "key": "NPC_3_QUEST_2_COMPLETE_3",
+      "value": "小さいお兄ちゃんも大きくなったかな。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_COMPLETE_4",
+      "value": "ポチにはおばあちゃんがいる。\nさみしくないよ。ひとりじゃないんだ。"
+    },
+    {
+      "key": "NPC_3_QUEST_2_COMPLETE_5",
+      "value": "...でもな、目を閉じると今も\nママとパパの声がきこえてくるんだ..."
+    },
+    {
+      "key": "NPC_3_QUEST_3_COMPLETE_1",
+      "value": "どうだった？"
+    },
+    {
+      "key": "NPC_3_QUEST_3_COMPLETE_2",
+      "value": "まだよく分からない...\nにんげんは難しいよ。"
+    },
+    {
+      "key": "NPC_3_QUEST_3_COMPLETE_3",
+      "value": "そうだな...でも頑張って！\nいつかは人間と一緒になれるかもしれない。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_COMPLETE_1",
+      "value": "どうだった？"
+    },
+    {
+      "key": "NPC_3_QUEST_4_COMPLETE_2",
+      "value": "こわいにんげんにも...、いいにんげんにも会えた。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_COMPLETE_3",
+      "value": "誰と一緒になるかはきみ次第だけど...\n後悔のない選択をしてほしい。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_COMPLETE_4",
+      "value": "にんげんは難しいね..."
+    },
+    {
+      "key": "NPC_3_QUEST_4_COMPLETE_5",
+      "value": "人間のことが怖いなら、必ずしも人間と一緒になる必要はないさ。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_COMPLETE_6",
+      "value": "道の上の生活は大変だけど、人間に捨てられなくても済む。"
+    },
+    {
+      "key": "NPC_3_QUEST_4_COMPLETE_7",
+      "value": "人間に捨てられるのは本当につらいよ。\nだから...どう生きるかは、きみが選べばいい。"
+    },
+    {
+      "key": "NPC_4_FAVOR_1",
+      "value": "(#*$と消えろ！！"
+    },
+    {
+      "key": "NPC_4_FAVOR_2",
+      "value": "んだよ、さっさと消えろ！！"
+    },
+    {
+      "key": "NPC_4_PRESENT_GOOD_1",
+      "value": "ふぅ...@(#*$#けよ..."
+    },
+    {
+      "key": "NPC_4_PRESENT_GOOD_2",
+      "value": "ふぅ...頼むから、あっち行けよ..."
+    },
+    {
+      "key": "NPC_4_PRESENT_NORMAL_1",
+      "value": "#$()%*って。"
+    },
+    {
+      "key": "NPC_4_PRESENT_NORMAL_2",
+      "value": "あっち行けって。"
+    },
+    {
+      "key": "NPC_4_PRESENT_BAD_1",
+      "value": "お(#*$んな！@#!!!てんだろ！？"
+    },
+    {
+      "key": "NPC_4_PRESENT_BAD_2",
+      "value": "おいっ、ふざけんな！消えろって言ってんだろ！？"
+    },
+    {
+      "key": "NPC_4_LIKE_1_1",
+      "value": "(#*$よ、邪魔すんな！"
+    },
+    {
+      "key": "NPC_4_LIKE_1_2",
+      "value": "(#*$よ、邪魔すんな！"
+    },
+    {
+      "key": "NPC_4_LIKE_2_1",
+      "value": "んだよ、邪魔すんな！"
+    },
+    {
+      "key": "NPC_4_LIKE_2_2",
+      "value": "んだよ、邪魔すんな！"
+    },
+    {
+      "key": "NPC_4_LIKE_3_1",
+      "value": "ふぅ、また酔っぱらっちまった..."
+    },
+    {
+      "key": "NPC_4_LIKE_3_2",
+      "value": "んだよ、邪魔すんな！"
+    },
+    {
+      "key": "NPC_4_LIKE_4_1",
+      "value": "猫のくせに...お前も俺を無視すんのか！？あぁん！？"
+    },
+    {
+      "key": "NPC_4_LIKE_4_2",
+      "value": "蹴り飛ばす前に失せろって！！！"
+    },
+    {
+      "key": "NPC_4_LIKE_5_1",
+      "value": "んだよ、猫じゃねぇか！気味わりー..."
+    },
+    {
+      "key": "NPC_4_LIKE_5_2",
+      "value": "ふぅ...なあ、頼むから俺を独りにしてくれ..."
+    },
+    {
+      "key": "NPC_4_LIKE_6_1",
+      "value": "ふぅ、また酔っぱらっちまった..."
+    },
+    {
+      "key": "NPC_4_LIKE_6_2",
+      "value": "ふぅ...なあ、頼むから俺を独りにしてくれ..."
+    },
+    {
+      "key": "NPC_4_LIKE_7_1",
+      "value": "ペット、か.......まあ猫は留守のときも大丈夫っていうし.......\n...はっ、んな馬鹿なこと考えてどうすんだよ、ったく..."
+    },
+    {
+      "key": "NPC_4_LIKE_7_2",
+      "value": "......."
+    },
+    {
+      "key": "NPC_4_QUEST_NON_PRESENT_1",
+      "value": "(#*$よ、邪魔すんな！"
+    },
+    {
+      "key": "NPC_4_QUEST_NON_PRESENT_2",
+      "value": "んだよ、邪魔すんな！"
+    },
+    {
+      "key": "NPC_4_QUEST_1_ACCEPT_1",
+      "value": "ひっくっ...\nらぁ、もうやめてぇよ..."
+    },
+    {
+      "key": "NPC_4_QUEST_1_ACCEPT_2",
+      "value": "今日も、こうやって...\n日が暮れるなぁー..."
+    },
+    {
+      "key": "NPC_4_QUEST_1_ACCEPT_3",
+      "value": "俺がどんな思いで...育てたかも知らねぇで...\nすぐに母親のとこに行っちまってよ..."
+    },
+    {
+      "key": "NPC_4_QUEST_1_ACCEPT_4",
+      "value": "んだ、てめぇは！\n猫なんて気味わりー..."
+    },
+    {
+      "key": "NPC_4_QUEST_1_ACCEPT_5",
+      "value": "シャーッ！\nぼく、なにもわるくない！！"
+    },
+    {
+      "key": "NPC_4_QUEST_1_ACCEPT_6",
+      "value": "はっ、子猫のくせに威嚇してやがる...\nふぅ、早く帰ろう。猫なんて面倒くせぇ..."
+    },
+    {
+      "key": "NPC_4_QUEST_1_ACCEPT_7",
+      "value": "鍵、どこに入れたっけ.......\nひっく、帰り道に落としたか...？"
+    },
+    {
+      "key": "NPC_4_QUEST_2_ACCEPT_1",
+      "value": "あっ、社長！どうされましたか？\nはいっ、ええ、ええ...私が朝一でそっちに向かいますんで！"
+    },
+    {
+      "key": "NPC_4_QUEST_2_ACCEPT_2",
+      "value": "いやいや、お気になさらず！当然のことですから...\n申し訳ございませんでした。ええ、ええ..."
+    },
+    {
+      "key": "NPC_4_QUEST_2_ACCEPT_3",
+      "value": "...はぁぁ......."
+    },
+    {
+      "key": "NPC_4_QUEST_2_ACCEPT_4",
+      "value": "嫁には逃げられて、年下の上司には怒られて...\nどいつもこいつも俺を無視しやがる..."
+    },
+    {
+      "key": "NPC_4_QUEST_2_ACCEPT_5",
+      "value": "飲まないと耐えられねぇってんだ、ったく...！"
+    },
+    {
+      "key": "NPC_4_QUEST_2_ACCEPT_6",
+      "value": "ふぅ、財布にいくら入ってたっけ......."
+    },
+    {
+      "key": "NPC_4_QUEST_2_ACCEPT_7",
+      "value": "...んだ、財布にまで逃げられた？どこにあんだよ......."
+    },
+    {
+      "key": "NPC_4_QUEST_3_ACCEPT_1",
+      "value": "...にんげん。"
+    },
+    {
+      "key": "NPC_4_QUEST_3_ACCEPT_2",
+      "value": "...\n陸くん..."
+    },
+    {
+      "key": "NPC_4_QUEST_3_ACCEPT_3",
+      "value": "にんげん...！ここで寝たら死んじゃうよ！！"
+    },
+    {
+      "key": "NPC_4_QUEST_3_ACCEPT_4",
+      "value": "...里美.......結婚記念日に、花束.......\n約束、守ってやれなくて...ごめんな......."
+    },
+    {
+      "key": "NPC_4_QUEST_3_ACCEPT_5",
+      "value": "「花」...？"
+    },
+    {
+      "key": "NPC_4_QUEST_4_ACCEPT_1",
+      "value": "に、にんげん...？！"
+    },
+    {
+      "key": "NPC_4_QUEST_4_ACCEPT_2",
+      "value": "うっ、げぇっ......."
+    },
+    {
+      "key": "NPC_4_QUEST_4_ACCEPT_3",
+      "value": "はぁ、はぁ...た、助けて...\n息が、できな...っ..."
+    },
+    {
+      "key": "NPC_4_QUEST_4_ACCEPT_4",
+      "value": "た、助けて、くれ...はっ.......\nだ...、だれか......."
+    },
+    {
+      "key": "NPC_4_QUEST_4_ACCEPT_5",
+      "value": "このにんげん、このままじゃ死んじゃう！\n他のにんげんを呼んでこないと...！"
+    },
+    {
+      "key": "NPC_4_QUEST_1_INCOMPLETE_1",
+      "value": "家の...鍵、どこだぁ...？"
+    },
+    {
+      "key": "NPC_4_QUEST_1_INCOMPLETE_2",
+      "value": "ひっく...\nさっき魚屋の近くで、缶ビール飲んでたときかぁ...？"
+    },
+    {
+      "key": "NPC_4_QUEST_2_INCOMPLETE_1",
+      "value": "どこに寄ってったっけ...\n公園と...居酒屋......."
+    },
+    {
+      "key": "NPC_4_QUEST_3_INCOMPLETE_1",
+      "value": "今度...絶対に.......花束、持ってく...から.......Zzz..."
+    },
+    {
+      "key": "NPC_4_QUEST_3_INCOMPLETE_2",
+      "value": "花.......？"
+    },
+    {
+      "key": "NPC_4_QUEST_4_INCOMPLETE_1",
+      "value": "このにんげん、このままじゃ死んじゃう！\n他のにんげんを呼んでこないと...！"
+    },
+    {
+      "key": "NPC_4_QUEST_4_DOING_1",
+      "value": "あれ、猫...？\nどうした？"
+    },
+    {
+      "key": "NPC_4_QUEST_4_DOING_2",
+      "value": "にんげん！にんげんが死んじゃう！こっち来てー！！"
+    },
+    {
+      "key": "NPC_4_QUEST_4_DOING_3",
+      "value": "えっと...ついてきてほしいのかな。"
+    },
+    {
+      "key": "NPC_4_QUEST_4_DOING_4",
+      "value": "はーやーくー！\nじゃないと死んじゃうよ！！！"
+    },
+    {
+      "key": "NPC_4_QUEST_1_COMPLETE_1",
+      "value": "んだ、泥棒猫に盗まれてたのか！\nおいっ、それは俺のだぞ！"
+    },
+    {
+      "key": "NPC_4_QUEST_1_COMPLETE_2",
+      "value": "どろぼうじゃないよ！ぼく、何も盗んでないっ！"
+    },
+    {
+      "key": "NPC_4_QUEST_1_COMPLETE_3",
+      "value": "何をジロジロ見てんだ、ったく...\nさっさと消えろ！"
+    },
+    {
+      "key": "NPC_4_QUEST_1_COMPLETE_4",
+      "value": "......."
+    },
+    {
+      "key": "NPC_4_QUEST_2_COMPLETE_1",
+      "value": "またお前か。\nもう付きまとうなって、気味わりー..."
+    },
+    {
+      "key": "NPC_4_QUEST_2_COMPLETE_2",
+      "value": "犬ならまだいいけどな、猫は嫌なんだよ俺は。"
+    },
+    {
+      "key": "NPC_4_QUEST_2_COMPLETE_3",
+      "value": "はあ...またかよ。気味わりーって！\nちっ、どっか行っちまえ！"
+    },
+    {
+      "key": "NPC_4_QUEST_3_COMPLETE_1",
+      "value": "あれ...寝ちまったか。.......なんだこれは、...花？"
+    },
+    {
+      "key": "NPC_4_QUEST_3_COMPLETE_2",
+      "value": "おっと、また道端で寝ちまったか。\nふぅ、早く家に帰ろうっと..."
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_1",
+      "value": "た、たすけ...て...\nだ、誰か.......助けて..."
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_2",
+      "value": "か、課長？！！\nどどどどっ、どうしたんですか？！"
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_3",
+      "value": "っ、か、川原くん.......\n早く、救急車を.......た、頼む..."
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_4",
+      "value": "あ、あっ、はいっ！！\nも、もしもし？道に人が倒れています！すぐに.......はいっ、はい。"
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_5",
+      "value": "ジャケットの、ポケットの中に...\nく、薬が、入ってるんだ......."
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_6",
+      "value": "しっかりしてください。もうすぐ救急車が来るはずです！\nしかし課長、どうしてこんなところで...！"
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_7",
+      "value": "こう...、助けてもらった以上...\n次の人事は...期待してていいから、ハハっ..."
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_8",
+      "value": "私じゃなくて猫が...あっ、\nあ、ありがとうございます...当たり前のことやっただけですし..."
+    },
+    {
+      "key": "NPC_4_QUEST_4_COMPLETE_9",
+      "value": "にんげん...！大丈夫か？！心配したよ、ぼく...\n......."
+    },
+    {
+      "key": "NPC_5_FAVOR_1",
+      "value": "ふ@#$かわ@#%, @#れ@#@^~?か？"
+    },
+    {
+      "key": "NPC_5_FAVOR_2",
+      "value": "ふふ、お前本当かわいいな。それ挨拶なのか？"
+    },
+    {
+      "key": "NPC_5_PRESENT_GOOD_1",
+      "value": "お、@#($*@#&!たのか...？\nハ@#^$% #$^&ってくるよ！"
+    },
+    {
+      "key": "NPC_5_PRESENT_GOOD_2",
+      "value": "お、俺のために持ってきてくれたのか...？\nハハっ、分かった。今度は猫缶+@持ってくるよ！"
+    },
+    {
+      "key": "NPC_5_PRESENT_NORMAL_1",
+      "value": "あ、@#($*のか？\nあり@#%&*～"
+    },
+    {
+      "key": "NPC_5_PRESENT_NORMAL_2",
+      "value": "お、俺のために持ってきてくれたのか...？\nハハっ、分かった。今度は猫缶+@持ってくるよ！"
+    },
+    {
+      "key": "NPC_5_PRESENT_BAD_1",
+      "value": "あ、あはは...う、うん、@(#*$!よ。\nでも@#$@#)%*#でね.......？"
+    },
+    {
+      "key": "NPC_5_PRESENT_BAD_2",
+      "value": "あ、あはは...う、うん、気持ちは...嬉しいよ。\nでも今度は持ってこないでね.......？"
+    },
+    {
+      "key": "NPC_5_LIKE_1_1",
+      "value": "シロ#~#$@#)%...\n...いや、シロ#$@#)%よな、うん。"
+    },
+    {
+      "key": "NPC_5_LIKE_1_2",
+      "value": "ご@#&#*$来た？あ、@(#$&おいで。"
+    },
+    {
+      "key": "NPC_5_LIKE_2_1",
+      "value": "シロちゃん、ほらこっち来てー...\n...いや、シロはちょっとあれだよな、うん。"
+    },
+    {
+      "key": "NPC_5_LIKE_2_2",
+      "value": "ご飯食べに来た？あ、大丈夫だよ、こっちおいで。"
+    },
+    {
+      "key": "NPC_5_LIKE_3_1",
+      "value": "あんの課長の奴ーーーーー！！\n.......\nはっ、ご、ゴメン...驚かせちゃったんだ。"
+    },
+    {
+      "key": "NPC_5_LIKE_3_2",
+      "value": "俺もこのままじゃ課長みたいになってくかもなぁ..."
+    },
+    {
+      "key": "NPC_5_LIKE_4_1",
+      "value": "うーむ、なんて呼んだらいいだろ...\n名前を考えないと..."
+    },
+    {
+      "key": "NPC_5_LIKE_4_2",
+      "value": "どこか痛いところある？...って、聞いてどーするんだ。\nまあ、まだ子猫だから動物病院連れていったらすぐ里親が見つかるかもな..."
+    },
+    {
+      "key": "NPC_5_LIKE_5_1",
+      "value": "里親募集でもしてみるかぁ..."
+    },
+    {
+      "key": "NPC_5_LIKE_5_2",
+      "value": "明日も出勤だなんて、嫌だな～...\nいいな、猫は。会社行かなくていいんだしー"
+    },
+    {
+      "key": "NPC_5_LIKE_6_1",
+      "value": "ふう、もうちょっと頑張ってみるよ。給料と昇進のこと考えよっと。"
+    },
+    {
+      "key": "NPC_5_LIKE_6_2",
+      "value": "給料上がったら、兄さんがもうちょっと高い餌買ってくるから。\n来年までもう少しの我慢だ。分かったか？"
+    },
+    {
+      "key": "NPC_5_LIKE_7_1",
+      "value": "どれどれ～...\nうーむ、ちょっと痩せたかな。おやつでも買ってこないと..."
+    },
+    {
+      "key": "NPC_5_LIKE_7_2",
+      "value": "(もう少し給料上がったらうちで一緒に暮らせると思うけどなぁ...)"
+    },
+    {
+      "key": "NPC_5_QUEST_NON_PRESENT_1",
+      "value": "えっと.......これは@#$ない@#$#%うよ...？"
+    },
+    {
+      "key": "NPC_5_QUEST_NON_PRESENT_2",
+      "value": "えっと.......これは俺がもらわない方がいいと思うよ...？"
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_1",
+      "value": "おっ、来てたんだ。"
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_2",
+      "value": "今日もかわいいな、一日の癒しだよ...へへっ。"
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_3",
+      "value": "お金ってほんと怖いよな。\n毎日怒られて、嫌な顔されて...なのにやめられないなんて。"
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_4",
+      "value": "こうやって餌やってるだけで癒されるし、猫って本当いいよな..."
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_5",
+      "value": "猫の頭ってまんまる.......\nなでなでしたいなぁ..."
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_6",
+      "value": "うんにゃっ！？急になでるの嫌だっー！"
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_7",
+      "value": "わ、わかったよ...もう触んないって...\nそう怒らないでよー"
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_8",
+      "value": "あ、そういえば朝も猫たちに餌やってる人いたよな。\n今度会ったら挨拶でもしよっと..."
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_9",
+      "value": "ほら、そろそろご飯の時間だぞ～ 友だち呼んできて！"
+    },
+    {
+      "key": "NPC_5_QUEST_1_ACCEPT_10",
+      "value": "友だち.......\n(他の猫たちの好感度レベル2を達成しよう)"
+    },
+    {
+      "key": "NPC_5_QUEST_2_ACCEPT_1",
+      "value": "げ、げぇぇ...飲み過ぎた...\nクラクラするー......."
+    },
+    {
+      "key": "NPC_5_QUEST_2_ACCEPT_2",
+      "value": "にんげん、遅いよー！\n今日はご飯くれないのか？"
+    },
+    {
+      "key": "NPC_5_QUEST_2_ACCEPT_3",
+      "value": "子猫...？ あ、そうか。待ってたんだ...\nごめんな、今日会社の飲み会で...ご飯持って来れなくて..."
+    },
+    {
+      "key": "NPC_5_QUEST_2_ACCEPT_4",
+      "value": "会社でも毎日上司の機嫌取りばっか、\n社会人になっても楽できないなんて..."
+    },
+    {
+      "key": "NPC_5_QUEST_2_ACCEPT_5",
+      "value": "ふあー......."
+    },
+    {
+      "key": "NPC_5_QUEST_2_ACCEPT_6",
+      "value": "夜空なんて見上げるの何年ぶりだっけ..."
+    },
+    {
+      "key": "NPC_5_QUEST_2_ACCEPT_7",
+      "value": "星、キラキラしてる.......\n俺も昔はああやって輝いてたはずなのに......."
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_1",
+      "value": "どうした、にんげん？\n何か嫌なことでもあった？"
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_2",
+      "value": "あ、子猫.......\nハハ、なんだよ。俺のこと慰めてくれるのか？"
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_3",
+      "value": "俺、今日上から目つけられてしまった。\nはあ、社会人って難しいよ......."
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_4",
+      "value": "仕事だからっていっつも人に頭下げないといけないし..."
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_5",
+      "value": "...猫は知らなくていいことだから。"
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_6",
+      "value": "にんげん、顔に傷がある..."
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_7",
+      "value": "公園で缶ビールでも飲んで帰るか。"
+    },
+    {
+      "key": "NPC_5_QUEST_3_ACCEPT_8",
+      "value": "痛そう.......\n(傷には何がいいんだろう)"
+    },
+    {
+      "key": "NPC_5_QUEST_4_ACCEPT_1",
+      "value": "最近は猫たち、来ないな..."
+    },
+    {
+      "key": "NPC_5_QUEST_4_ACCEPT_2",
+      "value": "あ、もしかしてあれのせいか。\n朝に餌やってる人から聞いたけど..."
+    },
+    {
+      "key": "NPC_5_QUEST_4_ACCEPT_3",
+      "value": "何の話だ、にんげん？\nひとりごと言ってないで早くご飯ちょうだい！"
+    },
+    {
+      "key": "NPC_5_QUEST_4_ACCEPT_4",
+      "value": "野良猫嫌う人も多いし、最近はあまりいい話聞かないからな...\n警戒が強くなっただけなら逆にいいけど。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_ACCEPT_5",
+      "value": "(ほかの猫たちが来るまで\nご飯くれないと思う。\nほかの猫たちを呼んでこよう...)"
+    },
+    {
+      "key": "NPC_5_QUEST_1_INCOMPLETE_1",
+      "value": "ほら、そろそろご飯の時間だぞ～ 友だち呼んできて！"
+    },
+    {
+      "key": "NPC_5_QUEST_1_INCOMPLETE_2",
+      "value": "友だち.......\n(他の猫たちの好感度レベル2を達成しよう)"
+    },
+    {
+      "key": "NPC_5_QUEST_2_INCOMPLETE_1",
+      "value": "...キラキラとか笑える話だもんな。\n入社してからは日の出てるうちに帰ったこともないってんのに......."
+    },
+    {
+      "key": "NPC_5_QUEST_2_INCOMPLETE_2",
+      "value": "(きらきら...？)"
+    },
+    {
+      "key": "NPC_5_QUEST_3_INCOMPLETE_1",
+      "value": "にんげん、顔の傷がある。痛そう.......\n(傷には何がいいんだろう)"
+    },
+    {
+      "key": "NPC_5_QUEST_4_INCOMPLETE_1",
+      "value": "猫たち、みんな無事かな..."
+    },
+    {
+      "key": "NPC_5_QUEST_4_INCOMPLETE_2",
+      "value": "(ほかの猫たちが来るまで\nご飯くれないと思う。\nほかの猫たちを呼んでこよう...)"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_1",
+      "value": "...なんだよ。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_2",
+      "value": "ボス！住宅街でご飯くれるにんげんが\nボスのこと、心配してるよ。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_3",
+      "value": "はっ、にんげんにこき使われるのかよ。\nこっちは暇じゃねえんだ。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_4",
+      "value": "ほっほ...？\nどうしたんだい？"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_5",
+      "value": "住宅街でご飯くれるにんげんが\n長老のこと心配してたんだ。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_6",
+      "value": "ほっほほ、いらんことを心配しとるようじゃな...\n猫の一生なんぞ本来短いものじゃろ。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_7",
+      "value": "やっほー！遊びに来た？いいよ、遊ぼー！"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_8",
+      "value": "ううん！じゃなくて、今住宅街にご飯くれるにんげんが来てるよ。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_DOING_9",
+      "value": "もうご飯の時間だね、うん！お腹すいた！"
+    },
+    {
+      "key": "NPC_5_QUEST_1_COMPLETE_1",
+      "value": "友だち、みんな連れてきた？"
+    },
+    {
+      "key": "NPC_5_QUEST_1_COMPLETE_2",
+      "value": "よしよし、良い子だね...\nおいで、みんな。ご飯だよ。"
+    },
+    {
+      "key": "NPC_5_QUEST_1_COMPLETE_3",
+      "value": "茶トラの目ヤニもきれいになってきてるな、...よっし。\nみんな元気で良かった。"
+    },
+    {
+      "key": "NPC_5_QUEST_1_COMPLETE_4",
+      "value": "なあ、みんな。こう言っちゃおかしいかもしれないけど...\n元気に長生きしてほしいんだ。俺が毎日ご飯やるから、ね？"
+    },
+    {
+      "key": "NPC_5_QUEST_2_COMPLETE_1",
+      "value": "キラキラしてる......."
+    },
+    {
+      "key": "NPC_5_QUEST_2_COMPLETE_2",
+      "value": "...ガラスの破片があっちこっちぶつかって、角が削られて。まるで宝石みたいだ。"
+    },
+    {
+      "key": "NPC_5_QUEST_2_COMPLETE_3",
+      "value": "......."
+    },
+    {
+      "key": "NPC_5_QUEST_2_COMPLETE_4",
+      "value": "危ないから、こういうものは口にくわえちゃダメだぞ。分かった？"
+    },
+    {
+      "key": "NPC_5_QUEST_2_COMPLETE_5",
+      "value": "それ何？手に持ってるもの、おいしいにおいする！"
+    },
+    {
+      "key": "NPC_5_QUEST_2_COMPLETE_6",
+      "value": "これ...？刺身屋さんで残り物持ってきたんだけど。\n高い魚だって、嫌々持ち帰らせてくれたんだよね、ハハ..."
+    },
+    {
+      "key": "NPC_5_QUEST_2_COMPLETE_7",
+      "value": "できれば生ものはあげたくないけど、お腹すいてるだろうし...\nほら、これ。食べて。"
+    },
+    {
+      "key": "NPC_5_QUEST_3_COMPLETE_1",
+      "value": "これ、付けたら痛くないんだって！"
+    },
+    {
+      "key": "NPC_5_QUEST_3_COMPLETE_2",
+      "value": "ハハ、どうした？何度もスリスリして...\nっ、痛っ...あれ、切り傷？いつからだろ。"
+    },
+    {
+      "key": "NPC_5_QUEST_3_COMPLETE_3",
+      "value": "あ、そうか...今日次長が書類投げた時かもな。"
+    },
+    {
+      "key": "NPC_5_QUEST_3_COMPLETE_4",
+      "value": "誰かばんそうこうを落としていったみたい。\nうむ、俺が使ってもいいよな..."
+    },
+    {
+      "key": "NPC_5_QUEST_3_COMPLETE_5",
+      "value": "っしゃ... じゃあ、缶ビールも空になったし、\nみんなに餌やってから帰ろっと。"
+    },
+    {
+      "key": "NPC_5_QUEST_3_COMPLETE_6",
+      "value": "話聞いてくれてありがとうな。\n明日も忘れずにご飯食べに来るんだよ？"
+    },
+    {
+      "key": "NPC_5_QUEST_4_COMPLETE_1",
+      "value": "よかった...\nこれでみんな来たんだね。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_COMPLETE_2",
+      "value": "いつもの時間ギリギリになっても\n来ないから心配したんだぞ？"
+    },
+    {
+      "key": "NPC_5_QUEST_4_COMPLETE_3",
+      "value": "猫たちの世話をするのが唯一の癒しなんだよ。\nお前らがいなかったら俺、会社ストレスでとっくに死んじゃってるかもな..."
+    },
+    {
+      "key": "NPC_5_QUEST_4_COMPLETE_4",
+      "value": "あ、そうか...お前が連れてきてくれたんだ。\nありがとう。よしよし...良い子だね。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_COMPLETE_5",
+      "value": "ゴロゴロ.......\nこのにんげんの手、大きくてあたたかい。なでなで気持ちいい。"
+    },
+    {
+      "key": "NPC_5_QUEST_4_COMPLETE_6",
+      "value": "毎日なでなでしてほしいな......."
+    },
+    {
+      "key": "NPC_6_FAVOR_1",
+      "value": "か、かわい#*$& @#(*$(@*#$??"
+    },
+    {
+      "key": "NPC_6_FAVOR_2",
+      "value": "か、かわいい...すごい、今慰めてくれてるんだよね...？\nありがとう......."
+    },
+    {
+      "key": "NPC_6_PRESENT_GOOD_1",
+      "value": "わっ、す#$*!よ！なんで@(#*$ @#%*(^%)！\nどうしよう、あ@(#*$ @#*ちゃった..."
+    },
+    {
+      "key": "NPC_6_PRESENT_GOOD_2",
+      "value": "わっ、すごい、すっごいよ！なんでそんなに可愛いのー！\nどうしよう、ありがとう...あたし感動しちゃった..."
+    },
+    {
+      "key": "NPC_6_PRESENT_NORMAL_1",
+      "value": "やばっ...#^$%なか#$^かった#$^。\nもし@&#てこれ@(*@#って奴...！？"
+    },
+    {
+      "key": "NPC_6_PRESENT_NORMAL_2",
+      "value": "やばっ...猫ってこんなかわいかったっけ。\nもしかしてこれが猫の恩返しって奴...！？"
+    },
+    {
+      "key": "NPC_6_PRESENT_BAD_1",
+      "value": "き%)^)!! @#(*れ！？@#*(!!っ！"
+    },
+    {
+      "key": "NPC_6_PRESENT_BAD_2",
+      "value": "きゃーっ！なにこれ！？気持ち悪っ！"
+    },
+    {
+      "key": "NPC_6_LIKE_1_1",
+      "value": "あ、@#(*@#(~ \nね、@(#*$@(*$~～"
+    },
+    {
+      "key": "NPC_6_LIKE_1_2",
+      "value": "ここ@(#*$?？\nママ(#)*$(*#&?？"
+    },
+    {
+      "key": "NPC_6_LIKE_2_1",
+      "value": "あ、猫ちゃんだ！ ねえ、こっちおいで～"
+    },
+    {
+      "key": "NPC_6_LIKE_2_2",
+      "value": "ここに住んでるの？\nママは？いない？"
+    },
+    {
+      "key": "NPC_6_LIKE_3_1",
+      "value": "ねえ、お腹空いてない？小さいからちょっと心配になる...\nあ、待って。チーかまあった。これでも食べる？猫ってかまぼこ平気かな..."
+    },
+    {
+      "key": "NPC_6_LIKE_3_2",
+      "value": "あ、今日も一人なんだ。猫ちゃんも友だちいないの？\n...えへへ、あたしもそうだよ。どう？あたしと友だちになるー？"
+    },
+    {
+      "key": "NPC_6_LIKE_4_1",
+      "value": "あたし、塾終わったらいつもここにいるんだ。\n会いたかったらおいで？"
+    },
+    {
+      "key": "NPC_6_LIKE_4_2",
+      "value": "学校って絶対にいかないと駄目なのかな.......\nはあ......."
+    },
+    {
+      "key": "NPC_6_LIKE_5_1",
+      "value": "猫ってホント最高ー、見てるだけで癒されるぅ..."
+    },
+    {
+      "key": "NPC_6_LIKE_5_2",
+      "value": "あたしも猫みたいに自由になりたいなぁ、\nでも明日もまた学校あるし......."
+    },
+    {
+      "key": "NPC_6_LIKE_6_1",
+      "value": "ねえ、猫ちゃん！あたし、転校することになったの！\n猫ちゃんがあたしの話聞いてくれたおかげだよ、ありがとう..."
+    },
+    {
+      "key": "NPC_6_LIKE_6_2",
+      "value": "ここでのいい記憶なんて猫ちゃんに会えたことしかないんだ。\nあたし、絶対に猫ちゃんのこと忘れないよ......."
+    },
+    {
+      "key": "NPC_6_LIKE_7_1",
+      "value": ".......お母さんに聞いてみようかな、\n猫飼いたいって。"
+    },
+    {
+      "key": "NPC_6_LIKE_7_2",
+      "value": "あたし、頑張ってお母さん説得してみるよ！"
+    },
+    {
+      "key": "NPC_6_QUEST_NON_PRESENT_1",
+      "value": "???#これあたし@#*$&くれ*#$?...猫ちゃん、もっか???#考えて????よ。"
+    },
+    {
+      "key": "NPC_6_QUEST_NON_PRESENT_2",
+      "value": "うっ、これあたしにくれるの？\n...猫ちゃん、もっかい考えてみてよ。"
+    },
+    {
+      "key": "NPC_6_QUEST_1_ACCEPT_1",
+      "value": "はあー......."
+    },
+    {
+      "key": "NPC_6_QUEST_1_ACCEPT_2",
+      "value": "にんげん、傷がいっぱいだ。どうしたの？"
+    },
+    {
+      "key": "NPC_6_QUEST_1_ACCEPT_3",
+      "value": "あ、猫ちゃん...\nん？これ？あ、...なんでもないよ。"
+    },
+    {
+      "key": "NPC_6_QUEST_1_ACCEPT_4",
+      "value": "はぁぁ、このまま消えちゃいたいなぁー\nお母さんに話したってなんも変わらないだろうし..."
+    },
+    {
+      "key": "NPC_6_QUEST_1_ACCEPT_5",
+      "value": "羽でも生えてくれないかな、そしたら飛んで逃げられるじゃん..."
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_1",
+      "value": "こんにちは！\n今日も来てくれたんだ。"
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_2",
+      "value": "にんげん、今日は嬉しそうだね。"
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_3",
+      "value": "今日はね、創立記念日だから学校行かないんだ。"
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_4",
+      "value": "明日も、明後日も...\nずっと創立記念日だったらいいのに。"
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_5",
+      "value": "猫ちゃんは友だちいないの？いつも一人だよね。\nそれとも、ただのくいしん坊ちゃんなのかな？"
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_6",
+      "value": "今日はほかの猫たちにもあげたくて、おやついっぱい買ってきたんだ。"
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_7",
+      "value": "ねえ、ほかの猫ちゃんも呼んできてくれない？"
+    },
+    {
+      "key": "NPC_6_QUEST_2_ACCEPT_8",
+      "value": "友だち.......？\n(1匹の猫と好感度レベル2を達成しよう)"
+    },
+    {
+      "key": "NPC_6_QUEST_3_ACCEPT_1",
+      "value": "どうしよう、ない.......どこに落としちゃったんだろ......."
+    },
+    {
+      "key": "NPC_6_QUEST_3_ACCEPT_2",
+      "value": "鍵、いくら探してもないんだけど..."
+    },
+    {
+      "key": "NPC_6_QUEST_3_ACCEPT_3",
+      "value": "お母さんもお父さんも今日は遅くなるって言ってたもんね......."
+    },
+    {
+      "key": "NPC_6_QUEST_3_ACCEPT_4",
+      "value": "鍵がないと家に入れないじゃん～...\nえっと、塾の近くで落としたのかな......."
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_1",
+      "value": "あ、にんげんだ！"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_2",
+      "value": "猫ちゃん、来てくれたんだ...\nねえ、それ食べながらあたしの話聞いてくれない？"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_3",
+      "value": "新年だし、学年が変わったからクラスも変わるじゃん？"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_4",
+      "value": "他の子たちはみんな友だちができたけど、\nある子だけはクラスに馴染めずにずっと一人だったの。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_5",
+      "value": "普段から口数も少ないし、\n不良たちにいじめられるのもしばしばで..."
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_6",
+      "value": "...気づいたら、不良だけじゃなくてクラスのみんなから\nいじめられるようになってたんだ。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_7",
+      "value": "それがどんどんエスカレートしてって...\nある日、その子が大きく怪我する事件が起きたの。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_8",
+      "value": "...あたし、みんなにもうやめた方がいいと言ったよ。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_9",
+      "value": "その子は転校していなくなったけど、今度はあたしがターゲットになった。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_10",
+      "value": "でもね、怪我した子を見て平気で笑えるとか...おかしいじゃん、あたしには理解できないよ。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_11",
+      "value": "...お母さんたちには言えない。\nたぶん、疲れてるから後にしてとか言われると思うし。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_ACCEPT_12",
+      "value": "小さいにんげん、弱くなってる...\n何か元気出そうなもの、ないかな。"
+    },
+    {
+      "key": "NPC_6_QUEST_1_INCOMPLETE_1",
+      "value": "羽でも生えてくれないかな、そしたら飛んで逃げられるじゃん..."
+    },
+    {
+      "key": "NPC_6_QUEST_1_INCOMPLETE_2",
+      "value": "うーん、でも羽は鳥にしかないよ？\n小さいにんげんにはまだ分からないのかな...\nかわいそうだし、羽毛でも拾ってこよう。"
+    },
+    {
+      "key": "NPC_6_QUEST_2_INCOMPLETE_1",
+      "value": "ねえ、ほかの猫ちゃんも呼んできてくれない？"
+    },
+    {
+      "key": "NPC_6_QUEST_2_INCOMPLETE_2",
+      "value": "友だち.......？\n(1匹の猫と好感度レベル2を達成しよう)"
+    },
+    {
+      "key": "NPC_6_QUEST_3_INCOMPLETE_1",
+      "value": "どうしよう！\n鍵がないと家に入れないじゃん～...\nえっと、塾の近くで落としたのかな.......？"
+    },
+    {
+      "key": "NPC_6_QUEST_4_INCOMPLETE_1",
+      "value": "...はぁぁ......."
+    },
+    {
+      "key": "NPC_6_QUEST_4_INCOMPLETE_2",
+      "value": "何か元気出そうなもの、ないかな。\nにんげんたちは花をもらうと喜ぶらしいけど..."
+    },
+    {
+      "key": "NPC_6_QUEST_1_COMPLETE_1",
+      "value": "羽毛.......？"
+    },
+    {
+      "key": "NPC_6_QUEST_1_COMPLETE_2",
+      "value": "羽毛.......\nもしかして、あたしのために持ってきてくれたの...？"
+    },
+    {
+      "key": "NPC_6_QUEST_1_COMPLETE_3",
+      "value": "ありがとう、おかげで少し元気出たみたい。\nでもね、明日もまた学校に行かないといけないんだ。"
+    },
+    {
+      "key": "NPC_6_QUEST_1_COMPLETE_4",
+      "value": "猫ちゃんは...\n友だちにいじめられたりしてないよね？"
+    },
+    {
+      "key": "NPC_6_QUEST_1_COMPLETE_5",
+      "value": "友だち...？友だちはいじめない！いじめるのは友だちじゃない...！"
+    },
+    {
+      "key": "NPC_6_QUEST_1_COMPLETE_6",
+      "value": "...もうこんな時間か、帰らないと。\nあまり遅くなるとお小遣いもらえなくなるんだよね。"
+    },
+    {
+      "key": "NPC_6_QUEST_1_COMPLETE_7",
+      "value": "またね、猫ちゃん。"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_1",
+      "value": "わあ、その子が友だちなんだ...！\nすっごいかわいいじゃんー！"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_2",
+      "value": "ふふ、そうか。猫たちの中では人気者なのね？"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_3",
+      "value": "やばい、ほんとかわいい...\nあ、待って！写真撮りたい。ちょっと待ってて？"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_4",
+      "value": "やった、上手く撮れたよ。\nえへへ..."
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_5",
+      "value": "あーあ、ほんと猫飼いたいなー"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_6",
+      "value": "帰っても誰もいないし、お母さんとお父さんは仕事で遅いし..."
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_7",
+      "value": "学校から帰って、玄関開けたら\n猫ちゃんにおかえりのゴロゴロやってもらいたい！"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_8",
+      "value": "猫飼いたいよぉ～～～～～"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_9",
+      "value": "今日のおやつはこれで終わり。\nまた今度持ってくるね！"
+    },
+    {
+      "key": "NPC_6_QUEST_2_COMPLETE_10",
+      "value": "このにんげん、いっぱいしゃべってた。\nちいさいにんげんはみんなおしゃべりが好きなのかな？"
+    },
+    {
+      "key": "NPC_6_QUEST_3_COMPLETE_1",
+      "value": "えっ！？うちの鍵じゃん！！！"
+    },
+    {
+      "key": "NPC_6_QUEST_3_COMPLETE_2",
+      "value": "ねえ、猫ちゃん！これどこで見つけたの？\nすっごい、すっごいよ！！！！テレビに出れちゃうよ！？"
+    },
+    {
+      "key": "NPC_6_QUEST_3_COMPLETE_3",
+      "value": "んにゃっー！耳元かゆいよ！\nうるさいなあー"
+    },
+    {
+      "key": "NPC_6_QUEST_3_COMPLETE_4",
+      "value": "え？あたしがおしゃべりだって？\nはいはい、そういうお年頃なんですよー"
+    },
+    {
+      "key": "NPC_6_QUEST_3_COMPLETE_5",
+      "value": "ねえ、猫ちゃん。本当に、本当にありがとうね。\n今日薄着で来たから寒くて死にそうだったの！"
+    },
+    {
+      "key": "NPC_6_QUEST_3_COMPLETE_6",
+      "value": "っ...はくしょん！\nあ、あたしもう帰るね。また明日来るから！"
+    },
+    {
+      "key": "NPC_6_QUEST_4_COMPLETE_1",
+      "value": "花.......？ ねえ、これあたしのために.......？"
+    },
+    {
+      "key": "NPC_6_QUEST_4_COMPLETE_2",
+      "value": "猫って最高...\n何も聞かずにずっと話聞いてくれるし..."
+    },
+    {
+      "key": "NPC_6_QUEST_4_COMPLETE_3",
+      "value": "猫最高.......\nふぁーん、本当に飼いたいよーっ！"
+    },
+    {
+      "key": "NPC_6_QUEST_4_COMPLETE_4",
+      "value": "猫ちゃんに話したら少し心が軽くなったみたい。\nあたし、お母さんたちに相談してみるよ。今度こそ真剣に、ね。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_COMPLETE_5",
+      "value": "実はね...、話すのが怖くて、ずっと逃げてたんだ。"
+    },
+    {
+      "key": "NPC_6_QUEST_4_COMPLETE_6",
+      "value": "へへ...明日も猫缶持ってくるから、また来てよね！"
+    },
+    {
+      "key": "NPC_6_QUEST_4_COMPLETE_7",
+      "value": "このにんげんが泣くところを見ると、ぼくも心が痛くなる。\n...にんげんと仲良くなるって、不思議なことだね。"
+    },
+    {
+      "key": "NPC_7_FAVOR_1",
+      "value": "...挨拶ができるというのはいいことじゃ。\nでも誰彼構わずついていっちゃいかんよ、分かったかい？"
+    },
+    {
+      "key": "NPC_7_PRESENT_GOOD_1",
+      "value": "ほっほ...！こんな珍しいものを持ってきてくれたのかい。\n物知りの良い子猫じゃ..."
+    },
+    {
+      "key": "NPC_7_PRESENT_NORMAL_1",
+      "value": "かなり使えそうな物じゃな、ほっほ...\nありがたく使わせてもらうぞ。"
+    },
+    {
+      "key": "NPC_7_PRESENT_BAD_1",
+      "value": "(舌打ち)"
+    },
+    {
+      "key": "NPC_7_LIKE_1_1",
+      "value": "にんげんは危ない存在じゃ...　気をつけたまえよ。"
+    },
+    {
+      "key": "NPC_7_LIKE_1_2",
+      "value": "ほっほほ、子猫にかまっとる暇はないのじゃよ。\nほにょほにょ..."
+    },
+    {
+      "key": "NPC_7_LIKE_2_1",
+      "value": "人間に会う時はいつも周りを警戒しときな。\n奴らの考えてることなぞ、猫にはわからんからね..."
+    },
+    {
+      "key": "NPC_7_LIKE_2_2",
+      "value": "ああ、路地裏におるやつのことかい。\nそやつはねえ、ネズミに目がないのじゃよ...ほっほほ。"
+    },
+    {
+      "key": "NPC_7_LIKE_2_3",
+      "value": "腹が減っとる時もゴミはくっちゃいかん。すぐに体壊しちまうからねえ。"
+    },
+    {
+      "key": "NPC_7_LIKE_3_1",
+      "value": "食べ物さえあれば嬉しそうしとるな、子猫よ。\nほっほ...だから面倒なのじゃよ。"
+    },
+    {
+      "key": "NPC_7_LIKE_3_2",
+      "value": "他のやつらと仲良くなりたいのかい？\nただじゃ教えられんぞ、ほっほほ..."
+    },
+    {
+      "key": "NPC_7_LIKE_4_1",
+      "value": "日が昇ったらさっさと狩りに出るのじゃ。じゃないとほかの奴らに全部取られるぞ。"
+    },
+    {
+      "key": "NPC_7_LIKE_4_2",
+      "value": "夜によく見かける人間がいるんじゃけどね、\nそやつはよく怪我をしとるみたいじゃ、変なものを顔につけておったぞ。"
+    },
+    {
+      "key": "NPC_7_LIKE_5_1",
+      "value": "ゴミ捨て場で餌やっとる奴、手に変なものをかぶってたな。\nほっほ、面白いやつじゃ。"
+    },
+    {
+      "key": "NPC_7_LIKE_5_2",
+      "value": "ゴロロ...\nわしは眠いのじゃ、また今度に...しにゃさ...い...Zzz"
+    },
+    {
+      "key": "NPC_7_LIKE_6_1",
+      "value": "ゲホゲホっ...\nほっほほ、もうわしもあと少しかい..."
+    },
+    {
+      "key": "NPC_7_LIKE_6_2",
+      "value": "わしにもおった、大事にしておった人間が一人な...\nもうそやつに会える日も.......そう遠くないじゃろ..."
+    },
+    {
+      "key": "NPC_7_LIKE_7_1",
+      "value": "ほっほ...確かに若いやつらは傷つきやすいようじゃな。"
+    },
+    {
+      "key": "NPC_7_LIKE_7_2",
+      "value": "いつかはお前さんも分かるじゃろうけど、わしは心配じゃ...\n短い時間で情が移ってしまった、ほっほほ..."
+    },
+    {
+      "key": "NPC_7_QUEST_NON_PRESENT_1",
+      "value": "うむ、\n珍しい物じゃな。\n持ち主を見つけてやれ。"
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_1",
+      "value": "またお前さんかい。わしは忙しいと言っとるのに..."
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_2",
+      "value": "ほっほほ.......わしには隠せんよ。お前さん、暇なんじゃろ？"
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_3",
+      "value": "......."
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_4",
+      "value": "そんなに暇なら\nわしの食料調達でも手伝ったらどうだい？"
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_5",
+      "value": "わしももう年じゃろ、だから若いやつらの勢いには勝てんよ。\nほっほ、なかなか食い物も見つからんのじゃ..."
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_6",
+      "value": "今日は魚が食べたい気分じゃ。"
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_7",
+      "value": "大きな魚なんぞ望んでない。\n食べかけでも良いから、魚を持ってきな。"
+    },
+    {
+      "key": "NPC_7_QUEST_1_ACCEPT_8",
+      "value": "持ってこれたら、とっておきの情報を教えてやろう。ほっほほ......."
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_1",
+      "value": "うむ、またお前さんかい。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_2",
+      "value": "今日は特に話すこともないんじゃが...\nほれ、お前さんの話でもやってみな。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_3",
+      "value": "ほんとに！？"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_4",
+      "value": "こら、大声出すんじゃない！"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_5",
+      "value": "それはともかく... お前さん、子猫なんじゃろ？\nどうして一人で出歩いてるんだい？"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_6",
+      "value": "ママはにんげんにつれていかれたよ...\nねえ、じいちゃん。ママがどこにいるか知らない？"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_7",
+      "value": "そうだったのかい...\n猫にはよくあることじゃ、そう悲しんむな。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_8",
+      "value": "ほっほ、全く...愚かな子猫じゃ、見てられんのう。\n良いじゃろ、わしがお前さんを修行させてやろう。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_9",
+      "value": "しゅうぎょー...？なにそれ...っ、あっ、じゃない。\nしゅうぎょーって、何ですか？"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_10",
+      "value": "お前さんが立派な猫になれるよう\n母親の代わりにわしが教育してやろうって話じゃ！"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_11",
+      "value": "ぼく、それいらないよ...ママがどこにいるか知りたいだけなのに。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_12",
+      "value": "こらーっ！大人には敬語を使うもんじゃ！\n...そんで、母親が人間に連れていかれたと？おかしいことじゃな。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_13",
+      "value": "嫌がらせならよくあることじゃ...でも人間が猫を連れていくのはねえ。\nふむ...犬ならまだ分かるが、野良犬が最近ほとんど見かけておらん。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_14",
+      "value": "ボスのやつならわかるかもしれんな。\nまあ、お前さんは相手にされそうにないがね..."
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_15",
+      "value": "子猫よ、ボスのやつと仲良くなって来い。\nそれが立派な野良猫への第一歩なのじゃ！"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_16",
+      "value": "さ、さっき相手にされそうにないって言ったじゃん！"
+    },
+    {
+      "key": "NPC_7_QUEST_2_ACCEPT_17",
+      "value": "修行はそういうもんじゃ！\n今日はここまでにせい、あまり言葉が多いと立派な猫とは言えんよ。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_1",
+      "value": "ゴロロ... どうしたんだい。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_2",
+      "value": "じいちゃん、いつも寝てばかりだよね。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_3",
+      "value": "この年になったらみんなそうじゃい、ほっほほ。\nまあいいじゃろ。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_4",
+      "value": "道の上で長く生き残るには空腹にならないことが大事じゃ！"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_5",
+      "value": "今日の任務は... 商店街で魚を盗んでくることじゃ！"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_6",
+      "value": "盗む...？ そしたら人間に嫌われるよ？"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_7",
+      "value": "ほっほほ、ずっと人間と暮らすわけでもないじゃろ？\n魚一匹盗んだって問題あるまい。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_8",
+      "value": "お前さんが人間と暮らしたいと思ってるなら、話は別じゃがね。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_9",
+      "value": "お前さんはまだ食べたことないじゃろ？\nありゃうまいぞ.......（ゴクリ）ほっほほ。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_ACCEPT_10",
+      "value": "(でも盗むと、にんげんから攻撃されるかもしれない。\nどうしよう...)"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_1",
+      "value": "ねえねえ、じいちゃんはにんげんについてどう思う？"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_2",
+      "value": "ほっほ、面白い質問じゃな。\nどうしてそれが聞きたいんだい？"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_3",
+      "value": "にんげんのこと... ぼくにはよくわからない。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_4",
+      "value": "優しくしてくれるから近づいたら、すぐに冷たくなる。\n悪いにんげんだと思って警戒したけど、あたたかい手を持ってた。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_5",
+      "value": "ほっほほ、わしと一緒にいた人間はねえ... 冷たくてあたたかい人間じゃったよ。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_6",
+      "value": "まるで野良猫みたいでね。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_7",
+      "value": "じいちゃん、にんげんと一緒に暮らしてたの？！\nぼくもそのにんげん見てみたいよ！"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_8",
+      "value": ".......遠くへ行ってしまった、もう会えん。\n歳をとって弱くなったんじゃろ、寒さに耐えられなかったのじゃ。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_9",
+      "value": "その人間と一緒におると、わしはいつもあたたかったのに。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_10",
+      "value": "ふふ、だがもう少しで彼に会えそうじゃ。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_11",
+      "value": "どうしてわかるの？おじさん、そのにんげんに会いに行くの？"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_12",
+      "value": "ほっほほ、そうじゃな。もうすぐ会いに行けそうじゃ。\nその時は手土産でも持っていこうかねえ......."
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_13",
+      "value": "お前さんに頼みたいことがあるんじゃが... わしはもうあまり動けんから、\n代わりに「透明でキラキラするもの」を持ってきてほしい。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_14",
+      "value": "「透明でキラキラするもの」...？"
+    },
+    {
+      "key": "NPC_7_QUEST_4_ACCEPT_15",
+      "value": "ほっほほ、そうじゃ。頼んだぞ！\nじゃ、わしはここで昼寝しとるからな.......Zzz"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_1",
+      "value": "じいちゃん！"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_2",
+      "value": "......."
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_3",
+      "value": "じいちゃんー！！"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_4",
+      "value": "......."
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_5",
+      "value": "うむ.......\nああ、ほっほほ...お前さんかい。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_6",
+      "value": "久しぶりに懐かしい顔が夢に出てくれた。\nもうすぐなのじゃろ。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_7",
+      "value": "じいちゃん、何の話？"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_8",
+      "value": "さあ、町中の若いやつらを呼んできてくれ。\n最近顔を見れてないやつもおるし、挨拶をせんと......."
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_9",
+      "value": "じいちゃんが会いにいくのはダメなの？"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_10",
+      "value": "こらっ！.......ゲホっ...\nわしにはそんな体力残ってないわい。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_ACCEPT_11",
+      "value": "こうやっとるだけでも大変だぞ、\n文句言わんで行っとけ！"
+    },
+    {
+      "key": "NPC_7_QUEST_1_INCOMPLETE_1",
+      "value": "さっきから腹が鳴っとるぞ、\n食べかけでも良いから持って来い。\nほれ、早う行かんか！"
+    },
+    {
+      "key": "NPC_7_QUEST_2_INCOMPLETE_1",
+      "value": "お前さんの母親のことならボスが知っとるはずじゃ。\nまあ、その前にやつと仲良くなるのが先じゃがね。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_INCOMPLETE_2",
+      "value": "(長老のじいちゃん、ボスと仲良くなったら\nボスがママのこと教えてくれるって言った...)"
+    },
+    {
+      "key": "NPC_7_QUEST_3_INCOMPLETE_1",
+      "value": "ありゃうまいぞ～....... ほにゃ....... Zzz"
+    },
+    {
+      "key": "NPC_7_QUEST_3_INCOMPLETE_2",
+      "value": "(じいちゃん、寝言言ってる.......\n本当に魚が食べたいみたい)"
+    },
+    {
+      "key": "NPC_7_QUEST_4_INCOMPLETE_1",
+      "value": "ほにゃほにゃ... 透明でキラキラ.......\n彼への... 手土産じゃ....... Zzz"
+    },
+    {
+      "key": "NPC_7_QUEST_5_INCOMPLETE_1",
+      "value": "ゲホっ、ゲホ.......\n早うほかのやつらを呼んで来な。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_DOING_1",
+      "value": ".......なんだよ。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_DOING_2",
+      "value": "その、長老のじいちゃんが挨拶がしたいって言ってて......."
+    },
+    {
+      "key": "NPC_7_QUEST_5_DOING_3",
+      "value": ".......あのじじい、もう行くのかよ。ちっ......."
+    },
+    {
+      "key": "NPC_7_QUEST_5_DOING_4",
+      "value": "ねえ、ボスは何か知ってるの？"
+    },
+    {
+      "key": "NPC_7_QUEST_5_DOING_5",
+      "value": "...もうすぐお前にもわかる。\n先にじじいのところに行ってるぞ。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_DOING_6",
+      "value": "長老のじいちゃんが呼んでるってー？\nうーん、もう少しあそびたいけど... わかったよ、すぐに行くね！"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_1",
+      "value": "おお、本当に持ってきてくれたのかい...（ゴクリ）"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_2",
+      "value": "なかなかやるじゃないか。\n久しぶりに腹いっぱいに食えそうじゃ！"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_3",
+      "value": "(げっぷ)\n食った食った、もう腹いっぱいじゃ。\nじゃあまた昼寝でもするか......."
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_4",
+      "value": "じいちゃん、情報をくれるって言ったじゃん！\nじいちゃんの嘘つきー！ばーか！"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_5",
+      "value": "こらっ、大声出すんじゃない！全く、これだから子猫は面倒じゃ.......\nまあ良い、情報をやろう。"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_6",
+      "value": "人間と仲良くなったらたまにうまいものがもらえる。"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_7",
+      "value": "食べ物に困ることなく、人間の縄張りで暮らすこともできるじゃろ。"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_8",
+      "value": "...情報はここまでじゃ。"
+    },
+    {
+      "key": "NPC_7_QUEST_1_COMPLETE_9",
+      "value": "ほかの情報が欲しいなら\nまた魚を持ってきな。ほっほほ......."
+    },
+    {
+      "key": "NPC_7_QUEST_2_COMPLETE_1",
+      "value": "ほうほう、ボスがお前さんを相手にしてくれたのかい。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_COMPLETE_2",
+      "value": "で、でもすごく大きくて... すっごく怖かったよ！\n特にあの目が.......！"
+    },
+    {
+      "key": "NPC_7_QUEST_2_COMPLETE_3",
+      "value": "ほっほほ、子猫よ。\n道の上で生き残るためにゃボスと仲良くならんといかん。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_COMPLETE_4",
+      "value": "お前さんが安全に歩けるのも、ボスが縄張りを守ってるおかげじゃよ。"
+    },
+    {
+      "key": "NPC_7_QUEST_2_COMPLETE_5",
+      "value": "そやつと仲良くなったら\nお前さんの母親のことも教えてくれるはずじゃ。\n(生きとるかどうかは分らんが.......)"
+    },
+    {
+      "key": "NPC_7_QUEST_2_COMPLETE_6",
+      "value": "さあ、任務をうまく達成できた報酬をやる。\n腹ペコじゃ修行もできないじゃろ？"
+    },
+    {
+      "key": "NPC_7_QUEST_3_COMPLETE_1",
+      "value": "おお.......！！これはこれは！\n久しぶりに見る生魚じゃ！"
+    },
+    {
+      "key": "NPC_7_QUEST_3_COMPLETE_2",
+      "value": "商店街で手に入れたのかい？\nまあ、どっちでもよいけどな！ほっほほ！"
+    },
+    {
+      "key": "NPC_7_QUEST_3_COMPLETE_3",
+      "value": "そういえば、夜になると人間の街に現れるあの人間も魚を好んでたな...\nわしはもう体が動けんからそこまでいけないがね。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_COMPLETE_4",
+      "value": "夜になると街に現れる人間.......？"
+    },
+    {
+      "key": "NPC_7_QUEST_3_COMPLETE_5",
+      "value": "ああ、頭におかしいのをかぶっとる。\nそやつも毎日猫たちに食べ物をくれるいいやつじゃ。"
+    },
+    {
+      "key": "NPC_7_QUEST_3_COMPLETE_6",
+      "value": "夜に出歩くのは危険じゃが、腹が減ったらそやつを探してみるのもよいじゃろ。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_COMPLETE_1",
+      "value": "じいちゃん、持ってきたよ！"
+    },
+    {
+      "key": "NPC_7_QUEST_4_COMPLETE_2",
+      "value": "ほっほほ、ありがとう。\nお前さんのおかげであの人間の喜ぶ顔が見れそうじゃ..."
+    },
+    {
+      "key": "NPC_7_QUEST_4_COMPLETE_3",
+      "value": "ほれ、お礼じゃ。受け取りな。\nわしが大事にとっておったもんじゃぞ。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_COMPLETE_4",
+      "value": "わああ、猫缶.......！\nじいちゃんにこんなのもらったの初めてだよ！"
+    },
+    {
+      "key": "NPC_7_QUEST_4_COMPLETE_5",
+      "value": "もうわしにはいらんのでねえ。\n...なあ、子猫よ。"
+    },
+    {
+      "key": "NPC_7_QUEST_4_COMPLETE_6",
+      "value": "母親と再会できるよう祈っとるぞ。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_1",
+      "value": "ほっほほ、これでみんな集まったかい。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_2",
+      "value": "...じじい、もう行くのか。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_3",
+      "value": "ほっほほ.......\n奴に会いに行く時が来たのじゃよ。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_4",
+      "value": "その前にみんなの顔をちゃんと見ておこうと思ってね..."
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_5",
+      "value": "いつもの話じゃが、人間には警戒を緩めちゃいかんぞ。\n食べ物がもらえるからって簡単についていっちゃ駄目じゃ。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_6",
+      "value": "そこの若いやつらは特に気をつけろ、分ったかい？"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_7",
+      "value": "じいちゃんどっか行くの？ふぇぇ...\nもう一緒に遊べないのー？"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_8",
+      "value": "そうじゃよ、\nわしは遠くにおる友だちに会いに行く。"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_9",
+      "value": "友だち！？じいちゃん、友だちいるの？\n気を付けていってらっしゃいっ！！"
+    },
+    {
+      "key": "NPC_7_QUEST_5_COMPLETE_10",
+      "value": "ほっほほ...\nあやつらのこと、頼んだぞ。"
+    },
+    {
+      "key": "NPC_8_FAVOR_1",
+      "value": "イヒヒっ、これ大好きー！"
+    },
+    {
+      "key": "NPC_8_PRESENT_GOOD_1",
+      "value": "おいしそうだね！食べてもいい！？"
+    },
+    {
+      "key": "NPC_8_PRESENT_NORMAL_1",
+      "value": "えへへへ..."
+    },
+    {
+      "key": "NPC_8_PRESENT_BAD_1",
+      "value": "にゃぁ..."
+    },
+    {
+      "key": "NPC_8_LIKE_1_1",
+      "value": "にゃぁ... 誰.......？"
+    },
+    {
+      "key": "NPC_8_LIKE_1_2",
+      "value": "ママが知らない猫と話しちゃダメって言った......."
+    },
+    {
+      "key": "NPC_8_LIKE_2_1",
+      "value": "にゃぁ... 遊んでくれるの.......？"
+    },
+    {
+      "key": "NPC_8_LIKE_2_2",
+      "value": "ふぇぇ... おなかすいた.......\nおなかすいたよー！"
+    },
+    {
+      "key": "NPC_8_LIKE_3_1",
+      "value": "ねえねえ、今日は何して遊ぶ！？\nネズミ狩りでもするー！？"
+    },
+    {
+      "key": "NPC_8_LIKE_3_2",
+      "value": "いつかボスみたいにうまくネズミ狩りができるようになりたい！"
+    },
+    {
+      "key": "NPC_8_LIKE_4_1",
+      "value": "今日10時間も寝たのに\nまーた眠くなってきたよ～... Zzz..."
+    },
+    {
+      "key": "NPC_8_LIKE_4_2",
+      "value": "ふぁーぁ... 眠い......."
+    },
+    {
+      "key": "NPC_8_LIKE_5_1",
+      "value": "今日も食べ物持ってきた？！\nイヒヒっ！"
+    },
+    {
+      "key": "NPC_8_LIKE_5_2",
+      "value": "どうしてみんなわたしたちのこと「サバ兄妹」って呼ぶのかな。"
+    },
+    {
+      "key": "NPC_8_LIKE_5_3",
+      "value": "毛色がサバ柄だからー？"
+    },
+    {
+      "key": "NPC_8_LIKE_5_4",
+      "value": "にゃぁ... そうなんだ～"
+    },
+    {
+      "key": "NPC_8_LIKE_6_1",
+      "value": "ママに会いたいよ......."
+    },
+    {
+      "key": "NPC_8_LIKE_6_2",
+      "value": "...よしよし、大丈夫だよ。\nふたりだからさみしくない。ぎゅーっとしてあげるよ。"
+    },
+    {
+      "key": "NPC_8_LIKE_7_1",
+      "value": "昨日、夢でママに会ったの。\n「ふたりには友だちがいるからもう大丈夫よ」って！"
+    },
+    {
+      "key": "NPC_8_LIKE_7_2",
+      "value": "そうだよ！ボスも、長老のじいちゃんも、そしてサバたちもいる。\nぼくたちには友だちがたくさんいるから、きっと大丈夫だよ！"
+    },
+    {
+      "key": "NPC_8_QUEST_NON_PRESENT_1",
+      "value": "にゃぁ... これって重要な物だよね.......？"
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_1",
+      "value": "おはよ！"
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_2",
+      "value": "うーん..."
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_3",
+      "value": "ママが知らない猫と話しちゃダメって言った......."
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_4",
+      "value": "にゃっ、まだ友だちじゃないからダメだよ！"
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_5",
+      "value": "どうしたら友だちになれるの？"
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_6",
+      "value": "えっとね、えっと....... わからない。"
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_7",
+      "value": "あ、長老のじいちゃんが首につけてるキラキラするもの！\nじいちゃんが友だちにそれもらったって言った！"
+    },
+    {
+      "key": "NPC_8_QUEST_1_ACCEPT_8",
+      "value": "それがあれば友だちになれるかもしれない！"
+    },
+    {
+      "key": "NPC_8_QUEST_2_ACCEPT_1",
+      "value": "(ぎゅるる...) お兄ちゃん、おなかすいたよ..."
+    },
+    {
+      "key": "NPC_8_QUEST_2_ACCEPT_2",
+      "value": "(ぎゅるる...) ぼくもおなかすいた......."
+    },
+    {
+      "key": "NPC_8_QUEST_2_ACCEPT_3",
+      "value": "(この子たちはまだ小さいから、自分で食べ物を得ることができないよ。\nどこかに食べかけの魚でも落ちてないかな...)"
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_1",
+      "value": "(ぎゅるる...) お兄ちゃん、おなかすいたよ..."
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_2",
+      "value": "(ぎゅるる...) ぼくもおなかすいた......."
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_3",
+      "value": "ちょっと待ってて。"
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_4",
+      "value": "いや、でも......."
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_5",
+      "value": "(まだ小さいけど、いつまでもぼくがやるわけにはいかないよね...)"
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_6",
+      "value": "ねえ、ネズミ狩りをやってみるのはどう...？\n自分で食べ物を手に入れるためには練習が必要なんだ。"
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_7",
+      "value": "ネズミ狩りー！？教えてくれるの！？！！\n狩りとかやったことない！イヒヒっ、ちゃんとできるかな？"
+    },
+    {
+      "key": "NPC_8_QUEST_3_ACCEPT_8",
+      "value": "(サバたちに狩りの練習をさせないと...\n練習用のネズミを持って来よう)"
+    },
+    {
+      "key": "NPC_8_QUEST_4_ACCEPT_1",
+      "value": "にゃぁ..."
+    },
+    {
+      "key": "NPC_8_QUEST_4_ACCEPT_2",
+      "value": "どうしたの？"
+    },
+    {
+      "key": "NPC_8_QUEST_4_ACCEPT_3",
+      "value": "あのね、人間たちがたくさんいる場所で"
+    },
+    {
+      "key": "NPC_8_QUEST_4_ACCEPT_4",
+      "value": "とってもとっても大きな魚を見たんだ！！"
+    },
+    {
+      "key": "NPC_8_QUEST_4_ACCEPT_5",
+      "value": "すっごくおいしいにおいだったよ.......\n(ちゅるる...)"
+    },
+    {
+      "key": "NPC_8_QUEST_4_ACCEPT_6",
+      "value": "毎日食べても食べきれないかも！\n人間たちってすごいね！あの大きな魚、どこで持ってきたんだろ？"
+    },
+    {
+      "key": "NPC_8_QUEST_4_ACCEPT_7",
+      "value": "(また食べ物の話か...)"
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_1",
+      "value": "ママに会いたいよ......."
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_2",
+      "value": "...もう行かせてやりな。\n命というのは必ず終わりを迎えるものだ、チビども。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_3",
+      "value": "終わりが来たら、体を残して霊だけが遠くへと旅立つ。\nお前らの母親もその旅に出たんだよ。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_4",
+      "value": "でも...でも、ひとりで行くとさみしいじゃん。\nママもひとりだから怖いと思ってるかもしれないよ。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_5",
+      "value": "......."
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_6",
+      "value": "昔、あのじじいが言ってたな。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_7",
+      "value": "人間たちは旅の道のりを見守るために、最後の挨拶で花を置くらしい。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_8",
+      "value": "花があればママもさみしくならないの...？"
+    },
+    {
+      "key": "NPC_8_QUEST_5_ACCEPT_9",
+      "value": "ママ、さみしくないかな... 心配だよ..."
+    },
+    {
+      "key": "NPC_8_QUEST_1_INCOMPLETE_1",
+      "value": "あ、長老のじいちゃんが首につけてるキラキラするもの！\nじいちゃんが友だちにそれもらったって言った！"
+    },
+    {
+      "key": "NPC_8_QUEST_1_INCOMPLETE_2",
+      "value": "それがあれば友だちになれるかもしれない！"
+    },
+    {
+      "key": "NPC_8_QUEST_2_INCOMPLETE_1",
+      "value": "(この子たちはまだ小さいから、自分で食べ物を得ることができないよ。\nどこかに食べかけの魚でも落ちてないかな...)"
+    },
+    {
+      "key": "NPC_8_QUEST_3_INCOMPLETE_1",
+      "value": "(サバたちに狩りの練習をさせないと...\n練習用のネズミを持って来よう)"
+    },
+    {
+      "key": "NPC_8_QUEST_4_INCOMPLETE_1",
+      "value": "大きなさーかーなー！すごいな... (ちゅるる)"
+    },
+    {
+      "key": "NPC_8_QUEST_5_INCOMPLETE_1",
+      "value": "花があればママもさみしくならないの...？"
+    },
+    {
+      "key": "NPC_8_QUEST_5_INCOMPLETE_2",
+      "value": "ママ、さみしくないかな... 心配だよ..."
+    },
+    {
+      "key": "NPC_8_QUEST_1_COMPLETE_1",
+      "value": "うわあ...！！"
+    },
+    {
+      "key": "NPC_8_QUEST_1_COMPLETE_2",
+      "value": "キラキラしてる...！！"
+    },
+    {
+      "key": "NPC_8_QUEST_1_COMPLETE_3",
+      "value": "これで友だちだよ！長老のじいちゃんみたいにね！！"
+    },
+    {
+      "key": "NPC_8_QUEST_1_COMPLETE_4",
+      "value": "うんうん、友だち！"
+    },
+    {
+      "key": "NPC_8_QUEST_2_COMPLETE_1",
+      "value": "わああ、食べ物ー！"
+    },
+    {
+      "key": "NPC_8_QUEST_2_COMPLETE_2",
+      "value": "食べ物だー！"
+    },
+    {
+      "key": "NPC_8_QUEST_2_COMPLETE_3",
+      "value": "これ食べていい！？"
+    },
+    {
+      "key": "NPC_8_QUEST_2_COMPLETE_4",
+      "value": "うん、食べて。ぼくたち、友だちだろう？"
+    },
+    {
+      "key": "NPC_8_QUEST_2_COMPLETE_5",
+      "value": "うわあ、ありがとう！にゃん、おいしい..."
+    },
+    {
+      "key": "NPC_8_QUEST_2_COMPLETE_6",
+      "value": "にゃっ、にゃにゃ..."
+    },
+    {
+      "key": "NPC_8_QUEST_3_COMPLETE_1",
+      "value": "ひっ、ネズミだ...！！"
+    },
+    {
+      "key": "NPC_8_QUEST_3_COMPLETE_2",
+      "value": "まずは速度を付けたいからお尻をこうやって高くあげるんだ...\nそれと、獲物からは絶対に目を離しちゃいけないよ！"
+    },
+    {
+      "key": "NPC_8_QUEST_3_COMPLETE_3",
+      "value": "はっ...！つ、捕まえる！ええいっ！"
+    },
+    {
+      "key": "NPC_8_QUEST_3_COMPLETE_4",
+      "value": "競争しようっ！にゃにゃーっ！"
+    },
+    {
+      "key": "NPC_8_QUEST_3_COMPLETE_5",
+      "value": "(少し心配だけど...\nやっぱり生き残るためには教えるしかない)"
+    },
+    {
+      "key": "NPC_8_QUEST_4_COMPLETE_1",
+      "value": "うわあ...！大きな魚だ、大きなさーかーなー！"
+    },
+    {
+      "key": "NPC_8_QUEST_4_COMPLETE_2",
+      "value": "わあああー！！！"
+    },
+    {
+      "key": "NPC_8_QUEST_4_COMPLETE_3",
+      "value": "すごいよ、本当に大きな魚を持ってきた！\nボスよりもすごいじゃん！！！"
+    },
+    {
+      "key": "NPC_8_QUEST_4_COMPLETE_4",
+      "value": "なっ...！？\nオレは魚よりネズミが好きなだけだ！！"
+    },
+    {
+      "key": "NPC_8_QUEST_4_COMPLETE_5",
+      "value": "にゃぁ...\nでもね、ボスは一度も魚持ってきたことないじゃん..."
+    },
+    {
+      "key": "NPC_8_QUEST_4_COMPLETE_6",
+      "value": "オレは魚が嫌いなだけだって！！"
+    },
+    {
+      "key": "NPC_8_QUEST_4_COMPLETE_7",
+      "value": "にゃぁ...？"
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_1",
+      "value": "花、本当にありがとう。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_2",
+      "value": "ねえ、ボス。もうママがさみしくないかな。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_3",
+      "value": ".......\nああ。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_4",
+      "value": "ぼくのママも遠い旅に出たのかな......."
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_5",
+      "value": "心配しないで！\nその時はぼくたちが花を持ってくるよ！"
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_6",
+      "value": "あと、きみがさみしくないようにぼくたちが一緒にいてあげるよ。"
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_7",
+      "value": "友だちだからね！"
+    },
+    {
+      "key": "NPC_8_QUEST_5_COMPLETE_8",
+      "value": "うん、そうだよ。友だちだからずっと一緒にいる！"
+    },
+    {
+      "key": "NPC_9_FAVOR_1",
+      "value": "あらら@(#だね。なで@(#$*(@いいの？"
+    },
+    {
+      "key": "NPC_9_FAVOR_2",
+      "value": "あらら、子猫ちゃんだね。なでなでしてもいいの？\n優しい子だね、ありがとう。"
+    },
+    {
+      "key": "NPC_9_PRESENT_GOOD_1",
+      "value": "あらら、 )@#(*)@!$&(&@)#(!"
+    },
+    {
+      "key": "NPC_9_PRESENT_GOOD_2",
+      "value": "まあ、かわいいわね！"
+    },
+    {
+      "key": "NPC_9_PRESENT_NORMAL_1",
+      "value": "あら、あ*@*$#~"
+    },
+    {
+      "key": "NPC_9_PRESENT_NORMAL_2",
+      "value": "あら、ありがとうね。"
+    },
+    {
+      "key": "NPC_9_PRESENT_BAD_1",
+      "value": "ん？\nあら、うふふ。"
+    },
+    {
+      "key": "NPC_9_PRESENT_BAD_2",
+      "value": "ん？\nあら、うふふ。"
+    },
+    {
+      "key": "NPC_9_LIKE_1_1",
+      "value": "(#$*@#(*$&!???"
+    },
+    {
+      "key": "NPC_9_LIKE_1_2",
+      "value": "(#$*@#(*$&!???"
+    },
+    {
+      "key": "NPC_9_LIKE_2_1",
+      "value": "こんにちは、あら...見ない顔ね。"
+    },
+    {
+      "key": "NPC_9_LIKE_2_2",
+      "value": "おはよう！今日は少し寒いわね... どこから来たの？"
+    },
+    {
+      "key": "NPC_9_LIKE_3_1",
+      "value": "おはよう！さあ、早く食べて。"
+    },
+    {
+      "key": "NPC_9_LIKE_3_2",
+      "value": "ご飯食べに来たの？ほら、食べて。"
+    },
+    {
+      "key": "NPC_9_LIKE_4_1",
+      "value": "しぃ... 大丈夫よ、あなたの敵じゃないわ。"
+    },
+    {
+      "key": "NPC_9_LIKE_4_2",
+      "value": "ここで待ってるからね、あなたが心を開いてくれるまで。"
+    },
+    {
+      "key": "NPC_9_LIKE_5_1",
+      "value": "あなたを見てるとうちの猫を思い出すわ。\n本当にそっくりだわね、うふふ。"
+    },
+    {
+      "key": "NPC_9_LIKE_5_2",
+      "value": "あなたを見てるとうちの猫を思い出すわ。\nそっくりなのよね、特に鼻のほくろが。"
+    },
+    {
+      "key": "NPC_9_LIKE_6_1",
+      "value": "おはよう、ご飯食べに来たの？"
+    },
+    {
+      "key": "NPC_9_LIKE_6_2",
+      "value": "まあ、かわいいわね！"
+    },
+    {
+      "key": "NPC_9_LIKE_7_1",
+      "value": "心を開いてくれてありがとうね。\n本当にうれしいわ。"
+    },
+    {
+      "key": "NPC_9_QUEST_NON_PRESENT_1",
+      "value": "あらま… こ@#((#重@#($*@#??いよ？"
+    },
+    {
+      "key": "NPC_9_QUEST_NON_PRESENT_2",
+      "value": "あらま... これって重要な物みたいよ？"
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_1",
+      "value": "おはよう、今日も寒いわね。今ご飯あげるね。"
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_2",
+      "value": "あ、あのにんげんは...！！！"
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_3",
+      "value": "あれ、そうか...まだ怖いのね。"
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_4",
+      "value": "ごめんね、怖かったよね。大丈夫よ...\n攻撃したりしないわ、ただご飯をあげるだけよ。"
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_5",
+      "value": "お、おまえみたいなにんげんからは何ももらわないぞ！"
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_6",
+      "value": "無理に近づかないよ、私を信頼してくれるまで待つわ。\nご飯だけおいていくから..."
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_7",
+      "value": "そんなのたべないぞ！！！"
+    },
+    {
+      "key": "NPC_9_QUEST_1_ACCEPT_8",
+      "value": "ぼくはだまされない！これは返す、いらないんだ！！"
+    },
+    {
+      "key": "NPC_9_QUEST_2_ACCEPT_1",
+      "value": "あら、また会えたわね！"
+    },
+    {
+      "key": "NPC_9_QUEST_2_ACCEPT_2",
+      "value": "ひっ...！またおまえかっ！"
+    },
+    {
+      "key": "NPC_9_QUEST_2_ACCEPT_3",
+      "value": "あはは、おしゃべりな子猫ちゃんだね。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_ACCEPT_4",
+      "value": "最近、変な人を町で見かけたらしいわね\n夜に餌やってる青年も心配してたけど..."
+    },
+    {
+      "key": "NPC_9_QUEST_2_ACCEPT_5",
+      "value": "ねえ、これ食べていって。危ないからなんでも拾い食いしちゃダメよ。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_ACCEPT_6",
+      "value": "ふぅぅ...疲れたわ。ほかの猫たちの餌やりもやらなくちゃ.......\nここで少し休んでからいこうかしら。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_ACCEPT_7",
+      "value": "(...ちぃっ、ぼくが他の猫たちを呼んできたら\nこのにんげんもすぐに消えるかもしれない！)"
+    },
+    {
+      "key": "NPC_9_QUEST_3_ACCEPT_1",
+      "value": "あら、あの時の子猫ちゃんだね。\nまた会えてうれしいわ。"
+    },
+    {
+      "key": "NPC_9_QUEST_3_ACCEPT_2",
+      "value": "そ、そんなこと言われても嬉しくないぞ！気軽にさわるにゃっ！"
+    },
+    {
+      "key": "NPC_9_QUEST_3_ACCEPT_3",
+      "value": "痛っ...！\nごめんね、まだ怖いのね。もうしないから。"
+    },
+    {
+      "key": "NPC_9_QUEST_3_ACCEPT_4",
+      "value": "えっ、そ、そんなに強く噛むつもりじゃ、なかったけど..."
+    },
+    {
+      "key": "NPC_9_QUEST_3_ACCEPT_5",
+      "value": "もう、手袋してないときに限って噛まれちゃうんだから～...\n痛いわね..."
+    },
+    {
+      "key": "NPC_9_QUEST_3_ACCEPT_6",
+      "value": "(どっ、どうしよう...\nママのときみたいに赤いのが出てる！！！)"
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_1",
+      "value": "おはよう！今日はなでたりしないからそう警戒しないで。\nねえ、ご飯だけでも食べてくれない？"
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_2",
+      "value": "ふん...、そのっ、手は...大丈夫だったか？\n前に、ぼくが噛んだから......."
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_3",
+      "value": "どうしても気になっちゃうのよ、あなたのこと。\nなんでだろうね、うちのきぼうちゃんと似てるから？うふふ。"
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_4",
+      "value": "もう少し人懐こい子だったらすぐに里親さん見つかると思うけどね..."
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_5",
+      "value": "大丈夫。\nまだ子猫だから、すぐに里親さんが見つかるはずよ。"
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_6",
+      "value": "...なんだよ、バカみたい。なんで優しくしてくれるの？\nぼく、いつもこのにんげんに怒ってたのに。どうして噛まれたのに平気なの？"
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_7",
+      "value": ".......理由はわからないけど、このにんげんなら悪いことはしないと思う。\n毎日ご飯くれるし....... お礼でもしようかな..."
+    },
+    {
+      "key": "NPC_9_QUEST_4_ACCEPT_8",
+      "value": "そういえばこのにんげん、いつも手に変なものつけてるよね。\nあれが好きなのかな。"
+    },
+    {
+      "key": "NPC_9_QUEST_1_INCOMPLETE_1",
+      "value": "ぼくはだまされない！これは返す、いらないんだ！！\n(あのにんげんにご飯を返してこよう)"
+    },
+    {
+      "key": "NPC_9_QUEST_2_INCOMPLETE_1",
+      "value": "ふぅぅ...疲れたわ。ほかの猫たちの餌やりもやらなくちゃ.......\nここで少し休んでからいこうかしら。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_INCOMPLETE_2",
+      "value": "(...ちぃっ、ぼくが他の猫たちを呼んできたら\nこのにんげんもすぐに消えるかもしれない！)"
+    },
+    {
+      "key": "NPC_9_QUEST_3_INCOMPLETE_1",
+      "value": "もう、手袋してないときに限って噛まれちゃうんだから～...\n痛いわね..."
+    },
+    {
+      "key": "NPC_9_QUEST_3_INCOMPLETE_2",
+      "value": "(どっ、どうしよう...\nママのときみたいに赤いのが出てる！！！)"
+    },
+    {
+      "key": "NPC_9_QUEST_4_INCOMPLETE_1",
+      "value": ".......理由はわからないけど、このにんげんなら悪いことはしないと思う。\n毎日ご飯くれるし....... お礼でもしようかな..."
+    },
+    {
+      "key": "NPC_9_QUEST_4_INCOMPLETE_2",
+      "value": "そういえばこのにんげん、いつも手に変なものつけてるよね。\nあれが好きなのかな。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_DOING_1",
+      "value": "にんげんがご飯持ってくる時間だよ。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_DOING_2",
+      "value": "あぁ？オレに命令すんのか！？\n...まあ、腹減ってるから行くのは行くけど。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_DOING_3",
+      "value": "にんげんがご飯持ってくる時間だよ。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_DOING_4",
+      "value": "ドロロン...\nふむ、今日は猫缶か......."
+    },
+    {
+      "key": "NPC_9_QUEST_2_DOING_5",
+      "value": "にんげんがご飯持ってくる時間だよ。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_DOING_6",
+      "value": "わああっ、ご飯だ！ご飯ー！いっぱい食べよっと！"
+    },
+    {
+      "key": "NPC_9_QUEST_1_COMPLETE_1",
+      "value": "あらら、逆毛立てられちゃった…..."
+    },
+    {
+      "key": "NPC_9_QUEST_1_COMPLETE_2",
+      "value": "そんなに嫌だったのかな、\n他の子たちはおいしく食べてくれるキャットフードなんだけど..."
+    },
+    {
+      "key": "NPC_9_QUEST_1_COMPLETE_3",
+      "value": "子猫にああも警戒されちゃうとこっちも心が痛むわ...\n何かあったのかしら...もう少し見守らないと。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_COMPLETE_1",
+      "value": "あらら、今日はみんな先に集まってくれたのね！"
+    },
+    {
+      "key": "NPC_9_QUEST_2_COMPLETE_2",
+      "value": "うふふ、疲れてるところだったから助かったわよ～"
+    },
+    {
+      "key": "NPC_9_QUEST_2_COMPLETE_3",
+      "value": "良い子、良い子...\nいっぱい食べていってね。"
+    },
+    {
+      "key": "NPC_9_QUEST_2_COMPLETE_4",
+      "value": "たぶん、これでぼくのことは構わないはず......."
+    },
+    {
+      "key": "NPC_9_QUEST_3_COMPLETE_1",
+      "value": "に、にんげん...！ あの、これ...\nぼ、ぼく、もう行くから！"
+    },
+    {
+      "key": "NPC_9_QUEST_3_COMPLETE_2",
+      "value": "...あれ？ばんそうこう？\n私は持ち歩いてないんだけど、誰かの落とし物なのかしら......？"
+    },
+    {
+      "key": "NPC_9_QUEST_3_COMPLETE_3",
+      "value": "はあ、うちにはきぼうちゃんがいるし...\nすぐに里親さんが見つかるわけもないよね。"
+    },
+    {
+      "key": "NPC_9_QUEST_3_COMPLETE_4",
+      "value": "とりあえずは里親募集に出してみようかしら。"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_1",
+      "value": "あら...！これ、私にくれるの...？"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_2",
+      "value": "そうだよ。にんげん、これが好きじゃん。"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_3",
+      "value": "ど、どうしよう。少し感動しちゃったわ...\nもしかして撫でてもいいってことかしら...？"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_4",
+      "value": "まあ、すごいわ...！\n撫でてるのに怒らないの？"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_5",
+      "value": "うふふ、やっと心を開いてくれたのね！\nよしよし... いい子、いい子。"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_6",
+      "value": "そっ、そんなにうれしそうにするにゃっ！\nまた噛んじゃうぞー！"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_7",
+      "value": "ありがとう、ありがとうね...\n私たち、これで友だちよ？ご飯も食べてちょうだいね？"
+    },
+    {
+      "key": "NPC_9_QUEST_4_COMPLETE_8",
+      "value": "(でもどうして手袋なんだろう...？\n猫って本当不思議よね、何考えてるのか全く分からないわ...)"
+    },
+    {
+      "key": "ENDING_1",
+      "value": "おじさんとぼくと魚屋さん"
+    },
+    {
+      "key": "ENDING_2",
+      "value": "守るべきもの"
+    },
+    {
+      "key": "ENDING_3",
+      "value": "一緒になるということは."
+    },
+    {
+      "key": "ENDING_4",
+      "value": "遠い道のり"
+    },
+    {
+      "key": "ENDING_5",
+      "value": "孤独"
+    },
+    {
+      "key": "ENDING_6",
+      "value": "虹の橋"
+    },
+    {
+      "key": "ENDING_7",
+      "value": "あたたかい手"
+    },
+    {
+      "key": "ENDING_8",
+      "value": "人間と生きる"
+    },
+    {
+      "key": "ENDING_9",
+      "value": "旅の意味"
+    },
+    {
+      "key": "ENDING_10",
+      "value": "お花"
+    },
+    {
+      "key": "ENDING_11",
+      "value": "ママとの再会"
+    },
+    {
+      "key": "ITME_USE_POP_UP_UI_CONTENTS",
+      "value": "%ITEM%をたべる？"
+    },
+    {
+      "key": "TOAST_POP_UI_CANT_EAT",
+      "value": "これはたべれない..."
+    },
+    {
+      "key": "TOAST_POP_UI_CANT_DROP",
+      "value": "これはすてちゃダメ..."
+    },
+    {
+      "key": "SLEEP_UI_DAY",
+      "value": "成猫になるまであと%DAY%日..."
+    },
+    {
+      "key": "SLEEP_UI_LAST_DAY",
+      "value": "成猫になった日..."
+    },
+    {
+      "key": "SLEEP_UI_TIME",
+      "value": "いまは寝ています...\n朝まで<size=55>%TIME%</size>"
+    },
+    {
+      "key": "SLEEP_UI_TRACKING",
+      "value": "※サポート版では広告なしですぐ朝が始まります。"
+    },
+    {
+      "key": "TOAST_POP_UI_STEAL",
+      "value": "物を盗んだせいで評判が減少しました。"
+    },
+    {
+      "key": "POP_UP_MAX_LIKE_LEVEL",
+      "value": "%NAME%と\nベストフレンドになりますか？\n\n(*好感度MAXレベルは一人のみ可能)"
+    },
+    {
+      "key": "CUTSCENE_1_1",
+      "value": "ママ！今日も狩りに出るの？"
+    },
+    {
+      "key": "CUTSCENE_1_2",
+      "value": "そうね..."
+    },
+    {
+      "key": "CUTSCENE_1_3",
+      "value": "いい？生き続けるためには食べないといけないのよ。\n何も食べないと...ほら、遊ぶ気力もないじゃない。"
+    },
+    {
+      "key": "CUTSCENE_1_4",
+      "value": "お母さんはごはんになれそうなのを探してくるから、\n遠くに行っちゃだめよ。近所で遊んでいなさいね。"
+    },
+    {
+      "key": "CUTSCENE_1_5",
+      "value": "もしお母さんが遅くまで戻って来なかったら、\n先に家に戻ってて。分かった？"
+    },
+    {
+      "key": "CUTSCENE_1_6",
+      "value": "ママ、遅い...\nお腹すいたし、やることないなぁ..."
+    },
+    {
+      "key": "CUTSCENE_1_7",
+      "value": "ママは心配性だけどぼくのこと大好きなんだ！\nだから迎えに行って驚かせてあげよっと！"
+    },
+    {
+      "key": "CUTSCENE_1_8",
+      "value": "ねえ、ママ！どうしてこんなに遅くまで..."
+    },
+    {
+      "key": "CUTSCENE_1_9",
+      "value": "あ.......　ママ.......？"
+    },
+    {
+      "key": "CUTSCENE_1_10",
+      "value": "ちぃっ、めんどくせーな...\nだからさっさと逃げてればよかったじゃねーか。"
+    },
+    {
+      "key": "CUTSCENE_1_11",
+      "value": "ふむ、さっきからずっと猫の鳴き声がするんだけど..."
+    },
+    {
+      "key": "CUTSCENE_1_12",
+      "value": "ちょ、ちょっと...！先輩！ここです！！\n猫が.......！！"
+    },
+    {
+      "key": "CUTSCENE_1_13",
+      "value": "何だよ、これ...！車に引かれたのかっ！？"
+    },
+    {
+      "key": "CUTSCENE_1_14",
+      "value": "まだ生きています！\nたぶん、あの子猫が子どもだと思うんですけど..."
+    },
+    {
+      "key": "CUTSCENE_1_15",
+      "value": "今は無理だ、後でまた来てつれてけばいい。\nとにかく、今は母猫を助けないと！！"
+    },
+    {
+      "key": "CUTSCENE_1_16",
+      "value": "子猫を見たらきっとあっちに行こうとするはず...\nなあ、とりあえず布で視野を遮断してやって！"
+    },
+    {
+      "key": "CUTSCENE_1_17",
+      "value": "人間たちがママを連れてってしまった.......\nママ、どこに行っちゃったんだろ......."
+    },
+    {
+      "key": "CUTSCENE_1_18",
+      "value": "今日も頑張ってごはん探さないと。\nじゃないとまた一日中何も食べれないから..."
+    },
+    {
+      "key": "CUTSCENE_1_19",
+      "value": "ママがいないから、これからは自分でごはんを探さないといけないんだ..."
+    },
+    {
+      "key": "CUTSCENE_2_1",
+      "value": "だからうるさいっつってんだ、毎日にゃーにゃーって..."
+    },
+    {
+      "key": "CUTSCENE_2_2",
+      "value": "騒音公害だってんだ...\n全部、死ねばいい...（ブツブツ）"
+    },
+    {
+      "key": "CUTSCENE_2_3",
+      "value": "あの黄色い奴も殺して当然だった...\nふふ、あんときみたいに洗剤でも混ぜておきゃ..."
+    },
+    {
+      "key": "CUTSCENE_2_4",
+      "value": "（くんくん）あ、ごはんのにおい......."
+    },
+    {
+      "key": "CUTSCENE_2_5",
+      "value": "なっ、猫！？\n...気色わりぃ奴......."
+    },
+    {
+      "key": "CUTSCENE_2_6",
+      "value": "ほらほら、こっちだ、こっち。ご飯だぞ～"
+    },
+    {
+      "key": "CUTSCENE_2_7",
+      "value": "嫌だ、このにんげん...！嫌なにおいがする...！"
+    },
+    {
+      "key": "CUTSCENE_2_8",
+      "value": "んだよ！猫のくせにっ...！！！\nお前も俺を酔っ払いだって無視すんのか！？"
+    },
+    {
+      "key": "CUTSCENE_2_9",
+      "value": "人をバカにしやがって...！\nちょうどいい、こっちはストレス溜まってんだっ！！！"
+    },
+    {
+      "key": "CUTSCENE_2_10",
+      "value": "にゃーーーーっ！はなせ！にんげん！！！"
+    },
+    {
+      "key": "CUTSCENE_2_11",
+      "value": "ん？この鳴き声は.......\nおーい、こむぎかー？"
+    },
+    {
+      "key": "CUTSCENE_2_12",
+      "value": "おじさん、おじさん！助けて―！！！"
+    },
+    {
+      "key": "CUTSCENE_2_13",
+      "value": "静かに、しろっ.......！！かあっ！\nあんの野郎、引っ掻きやがって！！！"
+    },
+    {
+      "key": "CUTSCENE_2_14",
+      "value": "そこ、何やってるんだ！動物をいじめてどうする！！"
+    },
+    {
+      "key": "CUTSCENE_2_15",
+      "value": "なっ、なんだよ！？"
+    },
+    {
+      "key": "CUTSCENE_2_16",
+      "value": "あんたか！最近野良猫の餌に薬入れてる人がいるって聞いたぞ。"
+    },
+    {
+      "key": "CUTSCENE_2_17",
+      "value": "どうも雰囲気がおかしいと思って\nこの辺を見回っていたんだが..."
+    },
+    {
+      "key": "CUTSCENE_2_18",
+      "value": "ただの野良猫たろうが！あんたのもんじゃねえなら邪魔すんなよ！"
+    },
+    {
+      "key": "CUTSCENE_2_19",
+      "value": "ふん、たとえ野良猫だとしても\nあんたに嫌がらせする権利などない！"
+    },
+    {
+      "key": "CUTSCENE_2_20",
+      "value": "うあっ、た、助けて...！！"
+    },
+    {
+      "key": "CUTSCENE_2_21",
+      "value": "あんたが殺したあの猫たちも\nあんたにそう言ってたはずだ...！"
+    },
+    {
+      "key": "CUTSCENE_2_22",
+      "value": "ひっ、ひぃぃ...！！"
+    },
+    {
+      "key": "CUTSCENE_2_23",
+      "value": "ふん、根性無しが... 自分より弱い相手に暴力ふるいやがって。"
+    },
+    {
+      "key": "CUTSCENE_2_24",
+      "value": "おい、こむぎ。大丈夫か？\n...やっぱり駄目だな、危ない奴が多すぎる。"
+    },
+    {
+      "key": "CUTSCENE_2_25",
+      "value": "なあ、こむぎ。うちにキャットタワー買っといたぞ。\n餌もネットで調べていいもん買っといた。"
+    },
+    {
+      "key": "CUTSCENE_2_26",
+      "value": "だから......."
+    },
+    {
+      "key": "CUTSCENE_2_27",
+      "value": "これからはおじさんと一緒に暮らそう。\nな？"
+    },
+    {
+      "key": "CUTSCENE_3_1",
+      "value": "うむ、これから我が組織に入るための\nテストをはじめるぞ。"
+    },
+    {
+      "key": "CUTSCENE_3_2",
+      "value": "ふ、ふん...こ、このチビが！\nう、失せろぉ...！"
+    },
+    {
+      "key": "CUTSCENE_3_3",
+      "value": "この馬鹿、そうじゃねーよ！"
+    },
+    {
+      "key": "CUTSCENE_3_4",
+      "value": "で、でも！この子たちまだ子どもじゃん！"
+    },
+    {
+      "key": "CUTSCENE_3_5",
+      "value": "それと...、相手がぼくの言うこと\n聞いてくれなかったらどうするの？"
+    },
+    {
+      "key": "CUTSCENE_3_6",
+      "value": "...このマヌケが... いいか、よく聞け。\nそういう時は声の大きい奴が勝つんだよ、もっと大きな声で言えばいい。"
+    },
+    {
+      "key": "CUTSCENE_3_7",
+      "value": "それに侵入者だぞ、子どもでもなんでも関係ねー！"
+    },
+    {
+      "key": "CUTSCENE_3_8",
+      "value": "うせろっ！うっせー\nイヒヒっ、うせろってんだー！"
+    },
+    {
+      "key": "CUTSCENE_3_9",
+      "value": "...おい、チビども。子供がそんなこと言うんじゃねえぞ。\nうせ...、いや、あっち行っとけ！"
+    },
+    {
+      "key": "CUTSCENE_3_10",
+      "value": "ねえ、ぼくたちも組織に入れてよ！\nいーれーてーよーーー"
+    },
+    {
+      "key": "CUTSCENE_3_11",
+      "value": "おいっ、チビどもはあっち行けっていっただろ！！？"
+    },
+    {
+      "key": "CUTSCENE_4_1",
+      "value": "どうするか決めた？"
+    },
+    {
+      "key": "CUTSCENE_4_2",
+      "value": "...無理だよ。\nにんげんは嫌いじゃないけど、怖い..."
+    },
+    {
+      "key": "CUTSCENE_4_3",
+      "value": "にんげんと一緒になれる勇気、ぼくにはないよ。"
+    },
+    {
+      "key": "CUTSCENE_4_4",
+      "value": "そうか...\nでもぼくたちはこうやって会えるから、そう落ち込まないで。"
+    },
+    {
+      "key": "CUTSCENE_5_1",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_5_2",
+      "value": "にゃー"
+    },
+    {
+      "key": "CUTSCENE_5_3",
+      "value": "おい。"
+    },
+    {
+      "key": "CUTSCENE_5_4",
+      "value": "ついてくるなよ、気味わりー..."
+    },
+    {
+      "key": "CUTSCENE_5_5",
+      "value": "俺は動物が大嫌いだ。"
+    },
+    {
+      "key": "CUTSCENE_5_6",
+      "value": "にんげん..."
+    },
+    {
+      "key": "CUTSCENE_5_7",
+      "value": "ついてくるなって言ってんだろ！"
+    },
+    {
+      "key": "CUTSCENE_5_8",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_5_9",
+      "value": "はあ、もういい。勝手にしろ。\nお前に構ってる暇なんてねえ..."
+    },
+    {
+      "key": "CUTSCENE_5_10",
+      "value": "...なんだよ.......\nこれだから猫は嫌いだって言ったのに。"
+    },
+    {
+      "key": "CUTSCENE_5_11",
+      "value": "...ふぅ、公園のどこかに適当に埋めてやるか..."
+    },
+    {
+      "key": "CUTSCENE_6_1",
+      "value": "...なんだよ、お前は。"
+    },
+    {
+      "key": "CUTSCENE_6_2",
+      "value": "あの、あの......."
+    },
+    {
+      "key": "CUTSCENE_6_3",
+      "value": "違うんだ、ぼく...そうじゃなくて......."
+    },
+    {
+      "key": "CUTSCENE_6_4",
+      "value": "勝手に入ってくるんじゃねえ！ここはオレの縄張りだー！！"
+    },
+    {
+      "key": "CUTSCENE_6_5",
+      "value": "...あの、ぼくも仲間にしてくれない？\nぼくもこの街の猫なんだ......."
+    },
+    {
+      "key": "CUTSCENE_6_6",
+      "value": "知らねえ奴を簡単に縄張りに入れてやれるかよ！"
+    },
+    {
+      "key": "CUTSCENE_6_7",
+      "value": "ここはオレの縄張りだ、さっさと失せろ！"
+    },
+    {
+      "key": "CUTSCENE_6_8",
+      "value": "シャーっ！\nうせろ、うせろ！"
+    },
+    {
+      "key": "CUTSCENE_6_9",
+      "value": "...ご、ごめん......."
+    },
+    {
+      "key": "CUTSCENE_7_1",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_7_2",
+      "value": "もうダメ..."
+    },
+    {
+      "key": "CUTSCENE_7_3",
+      "value": "これ以上.......歩けないよ..."
+    },
+    {
+      "key": "CUTSCENE_7_4",
+      "value": "さむい..."
+    },
+    {
+      "key": "CUTSCENE_7_5",
+      "value": "おなかすいた.........."
+    },
+    {
+      "key": "CUTSCENE_8_1",
+      "value": "にんげん..."
+    },
+    {
+      "key": "CUTSCENE_8_2",
+      "value": "あれ、どうしたの？こんなところまでついて来て...\nおやつもっと食べたい？"
+    },
+    {
+      "key": "CUTSCENE_8_3",
+      "value": "今日はダメだよ、\nほかの猫たちの分は残してやらないと。"
+    },
+    {
+      "key": "CUTSCENE_8_4",
+      "value": "にんげん、ぼくを連れてけ―！！"
+    },
+    {
+      "key": "CUTSCENE_8_5",
+      "value": "えっ...？！！"
+    },
+    {
+      "key": "CUTSCENE_8_6",
+      "value": "ま、まさか俺...「選ばれた」のか！？"
+    },
+    {
+      "key": "CUTSCENE_8_7",
+      "value": "二匹目のこと考えてはいたけど\nさっそく選ばれちゃうなんて......."
+    },
+    {
+      "key": "CUTSCENE_8_8",
+      "value": "...なあ、うちに行きたいか？"
+    },
+    {
+      "key": "CUTSCENE_8_9",
+      "value": "にんげん、会えないのはいやだ...\nぼくも連れていって。"
+    },
+    {
+      "key": "CUTSCENE_8_10",
+      "value": "...そうか。\nそうだね、うちに行こう。"
+    },
+    {
+      "key": "CUTSCENE_8_11",
+      "value": "なあ、うちにちょっと怖い兄ちゃんがいるんだ。大丈夫...だよね？"
+    },
+    {
+      "key": "CUTSCENE_9_1",
+      "value": "あ、猫ちゃん！"
+    },
+    {
+      "key": "CUTSCENE_9_2",
+      "value": "あのね、あたし...転校することになったの。"
+    },
+    {
+      "key": "CUTSCENE_9_3",
+      "value": "だから引っ越さないといけないんだけど......."
+    },
+    {
+      "key": "CUTSCENE_9_4",
+      "value": "...？"
+    },
+    {
+      "key": "CUTSCENE_9_5",
+      "value": "実はね....... お母さんが猫飼うのOKしてくれたの...！"
+    },
+    {
+      "key": "CUTSCENE_9_6",
+      "value": "あのね、だから... よかったらあたしと一緒に暮らさない？"
+    },
+    {
+      "key": "CUTSCENE_10_1",
+      "value": "じいちゃん.......？"
+    },
+    {
+      "key": "CUTSCENE_10_2",
+      "value": "ねえねえ、ボス。\nじいちゃん、昨日からずっと寝てるよ。起きないんだ。"
+    },
+    {
+      "key": "CUTSCENE_10_3",
+      "value": "...じじい、もう行ったか。"
+    },
+    {
+      "key": "CUTSCENE_10_4",
+      "value": "え？どういうこと？じいちゃん、ここにいるよ？"
+    },
+    {
+      "key": "CUTSCENE_10_5",
+      "value": "じじいは遠くへ旅立った。\nそこはあまりにも遠すぎるから、体はおいていくんだよ。"
+    },
+    {
+      "key": "CUTSCENE_10_6",
+      "value": "やっと友だちに会えそうだ。...よかったな、じじい。"
+    },
+    {
+      "key": "CUTSCENE_11_1",
+      "value": "にゃぁ... ママに会いたいの？"
+    },
+    {
+      "key": "CUTSCENE_11_2",
+      "value": "うん... 結局ママを探すことはできなかったけど.......\nぼく、もうママにさようならって言えるよ。"
+    },
+    {
+      "key": "CUTSCENE_11_3",
+      "value": "ねえ、ママ。ぼくのことなら大丈夫だよ。家族ができたんだ..."
+    },
+    {
+      "key": "CUTSCENE_12_1",
+      "value": "つかまえたっ！！"
+    },
+    {
+      "key": "CUTSCENE_12_2",
+      "value": "！？！？！！！ にゃっ、にゃにするんだっ！にんげんー！！！"
+    },
+    {
+      "key": "CUTSCENE_12_3",
+      "value": "いいにんげんかと思ってたけど、やっぱりわるいにんげんだったかー！！"
+    },
+    {
+      "key": "CUTSCENE_12_4",
+      "value": "ごめんね、病院まで少しだけ我慢して。\nすぐそこだから..."
+    },
+    {
+      "key": "CUTSCENE_13_1",
+      "value": "にゃー にゃーっ！"
+    },
+    {
+      "key": "CUTSCENE_13_2",
+      "value": "うるせえな...\nふむ、まだ目もあけられてねえのか。\n母親が死んだようだな..."
+    },
+    {
+      "key": "CUTSCENE_13_3",
+      "value": "面倒事に巻き込まれるのはごめんだ。\n...行くか。"
+    },
+    {
+      "key": "CUTSCENE_13_4",
+      "value": "にゃぁぁ..."
+    },
+    {
+      "key": "CUTSCENE_13_5",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_13_6",
+      "value": "にゃぁ～......."
+    },
+    {
+      "key": "CUTSCENE_13_7",
+      "value": "...はあー、仕方ねえ...\n彼女もいねえってんのに子猫の世話だと？ったくよ。"
+    },
+    {
+      "key": "CUTSCENE_13_8",
+      "value": "ほら、よく見ろ。\nそこにネズミが見えるだろ？だがすぐに駆け出しちゃダメだ。\n静かに、こっそりと......."
+    },
+    {
+      "key": "CUTSCENE_13_9",
+      "value": "にゃーーーーーーー！"
+    },
+    {
+      "key": "CUTSCENE_13_10",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_13_11",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_13_12",
+      "value": "...いいぜ、最初からできる奴なんていねえよ。\nいつかきっとお前もうまくなるはずだ。"
+    },
+    {
+      "key": "CUTSCENE_13_13",
+      "value": "きししっ、おい！お前ここに住んでんのか？"
+    },
+    {
+      "key": "CUTSCENE_13_14",
+      "value": "...？？"
+    },
+    {
+      "key": "CUTSCENE_13_15",
+      "value": "ほら、客だぞ。猫缶でも出してこいや。"
+    },
+    {
+      "key": "CUTSCENE_13_16",
+      "value": "ひっ...！\nネ、ネロ！助けて！！"
+    },
+    {
+      "key": "CUTSCENE_13_17",
+      "value": "...なんだお前は。さっさと俺の縄張りから消えろ。\nここはお前なんかに許された場所じゃねえ。"
+    },
+    {
+      "key": "CUTSCENE_13_18",
+      "value": "嫌だと言ったら？\nここら辺って餌やってる人間も多いし、結構いいところじゃねえか。"
+    },
+    {
+      "key": "CUTSCENE_13_19",
+      "value": "はっ、今度会ったらお前の首元を噛み千切ってやる！\n死にたければいつでも来てみな！！"
+    },
+    {
+      "key": "CUTSCENE_13_20",
+      "value": "ちっ.......覚えてやがれよ！"
+    },
+    {
+      "key": "CUTSCENE_13_21",
+      "value": "ネロ...！大丈夫か？傷口が開いてる...！！"
+    },
+    {
+      "key": "CUTSCENE_13_22",
+      "value": "大丈夫だ、これぐらいなんともねえ...\n少し、だけ...休ませてもらうから..."
+    },
+    {
+      "key": "CUTSCENE_13_23",
+      "value": "ネロ.......っ、ネロ！！！"
+    },
+    {
+      "key": "CUTSCENE_13_24",
+      "value": "お前がここのボスか？"
+    },
+    {
+      "key": "CUTSCENE_13_25",
+      "value": "...誰だお前は？ここから消えろ。"
+    },
+    {
+      "key": "CUTSCENE_13_26",
+      "value": "あの、ぼくは...\nねえ、話を聞いてよ！"
+    },
+    {
+      "key": "CUTSCENE_13_27",
+      "value": "なんでオレがお前の相手をしなきゃならねえんだ。\nさっさと失せろ！"
+    },
+    {
+      "key": "CUTSCENE_13_28",
+      "value": "(...うむ、居眠りしてたか。夢で懐かしい顔を見た...\n久しぶりに会えたのにあの子猫に邪魔されちまって。\nまた寝るか.......)"
+    },
+    {
+      "key": "CUTSCENE_13_29",
+      "value": "-ボスの話-"
+    },
+    {
+      "key": "CUTSCENE_14_1",
+      "value": "ねえ、その犬...\nどうするつもりなの？"
+    },
+    {
+      "key": "CUTSCENE_14_2",
+      "value": "え？\nお母さん、なんの話？"
+    },
+    {
+      "key": "CUTSCENE_14_3",
+      "value": "お隣さんが話してくれたわ。\n今は子犬だけどね、人より大きく育つらしいのよ。\n結婚して子供でも出来たら......."
+    },
+    {
+      "key": "CUTSCENE_14_4",
+      "value": "ああ、シェルドンのことですか？\nシェルドンは人噛んだりしませんよ、お義母さん。\n結婚してからも一緒に飼うって決めましたし。"
+    },
+    {
+      "key": "CUTSCENE_14_5",
+      "value": "絶対なんて言い切れないわよ？\nほら、最近ニュースでも言ってるじゃない。"
+    },
+    {
+      "key": "CUTSCENE_14_6",
+      "value": "今は大丈夫かもしれないけど、後先のことは誰にも分からないわ。\nあんたたちが結婚したら、子供が大きくなるまで預けられるところないの？\nそれが嫌なら小さい犬種に変えなさいよ。"
+    },
+    {
+      "key": "CUTSCENE_14_7",
+      "value": "ちょっと、お母さん！シェルドンは私たちが飼うってば。\nその話は聞かなかったことにするからね。"
+    },
+    {
+      "key": "CUTSCENE_14_8",
+      "value": "おぎゃあ...！"
+    },
+    {
+      "key": "CUTSCENE_14_9",
+      "value": "ほら、そらくん。もう寝るのよー？\nねんねこ、ねんねこ......."
+    },
+    {
+      "key": "CUTSCENE_14_10",
+      "value": "ワン！お兄ちゃん遊ぼうー！"
+    },
+    {
+      "key": "CUTSCENE_14_11",
+      "value": "しーっ！\n(シェルドン、静かにしなさい！お兄ちゃんが起きちゃうよ！)"
+    },
+    {
+      "key": "CUTSCENE_14_12",
+      "value": "くぅん....... "
+    },
+    {
+      "key": "CUTSCENE_14_13",
+      "value": "シェルドン、お母さん洗い物してるから\nその間にお兄ちゃん見といてね。"
+    },
+    {
+      "key": "CUTSCENE_14_14",
+      "value": "うん！お兄ちゃんと遊んでるね！"
+    },
+    {
+      "key": "CUTSCENE_14_15",
+      "value": "...！！ ちょっと、ちょっと！\n赤ちゃんが犬に噛まれたらどうするのよっ！"
+    },
+    {
+      "key": "CUTSCENE_14_16",
+      "value": "あば...ぶぶぶ..."
+    },
+    {
+      "key": "CUTSCENE_14_17",
+      "value": "お母さん、シェルドンは舐めただけよ。人は噛まないんだって。\nもうっ、大げさなんだから。"
+    },
+    {
+      "key": "CUTSCENE_14_18",
+      "value": "あんたねえ、\nそんなんで本当にいいの？"
+    },
+    {
+      "key": "CUTSCENE_14_19",
+      "value": "こんなに狭いマンションであんな大きな犬が\n飼えるわけないじゃない。"
+    },
+    {
+      "key": "CUTSCENE_14_20",
+      "value": "ほら、ストレスたまって\nそらくん噛んだりするかもしれないでしょう？"
+    },
+    {
+      "key": "CUTSCENE_14_21",
+      "value": "昨日もね、テレビで\n犬に噛まれた事件が放送されてたじゃない！\nあれも小さい頃から飼ってた犬だったらしいよ。"
+    },
+    {
+      "key": "CUTSCENE_14_22",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_14_23",
+      "value": "なあ、今日お義母さん来てたって？\n俺にも電話あったんだ。またシェルドンのことでな......."
+    },
+    {
+      "key": "CUTSCENE_14_24",
+      "value": "はあ......."
+    },
+    {
+      "key": "CUTSCENE_14_25",
+      "value": "...大丈夫か？\nお義母さんが心配するのも分かるよ。\n俺たちも少しぐらいは考えてみないと..."
+    },
+    {
+      "key": "CUTSCENE_14_26",
+      "value": "やめてよ、あなたまでどうしてそんなこと...！"
+    },
+    {
+      "key": "CUTSCENE_14_27",
+      "value": "私一人のペットじゃないわ。\n結婚する前から二人で本当の子供みたいに育ててきた子よ？"
+    },
+    {
+      "key": "CUTSCENE_14_28",
+      "value": "...っ、俺も分かってるよ！"
+    },
+    {
+      "key": "CUTSCENE_14_29",
+      "value": "でもさ、こんな狭いマンションで飼うにはシェルドンが大きすぎるよ..."
+    },
+    {
+      "key": "CUTSCENE_14_30",
+      "value": "そらが大きくなると力加減できなくてシェルドンを怒らせるかもしれない。"
+    },
+    {
+      "key": "CUTSCENE_14_31",
+      "value": "赤ん坊は俺たちが思ってるより肌が弱いんだ。\nシェルドンが甘噛みでもしてみろ、大変なことになるぞ。"
+    },
+    {
+      "key": "CUTSCENE_14_32",
+      "value": "...なあ、真剣に考えてみよう。\n俺たちのせいでシェルドンがもっといい環境で\n暮らせる機会が逃れるかもしれないだろ...？"
+    },
+    {
+      "key": "CUTSCENE_14_33",
+      "value": "...兄ちゃん、ぼくの話をしてるみたいだよ。"
+    },
+    {
+      "key": "CUTSCENE_14_34",
+      "value": "あぶうーー"
+    },
+    {
+      "key": "CUTSCENE_14_35",
+      "value": "へへ..."
+    },
+    {
+      "key": "CUTSCENE_14_36",
+      "value": "ごめんな、シェルドン..."
+    },
+    {
+      "key": "CUTSCENE_14_37",
+      "value": "シェルドン、いい子にしててな。"
+    },
+    {
+      "key": "CUTSCENE_14_38",
+      "value": "ここなら大きな庭もあるし、仲間もいるから毎日自由に遊べるよ。\n...ごめんね。"
+    },
+    {
+      "key": "CUTSCENE_14_39",
+      "value": "心配しないでください。\nすぐに慣れると思いますので。\nここで思いっきり走り回ることもできますよ、ハハハ。"
+    },
+    {
+      "key": "CUTSCENE_14_40",
+      "value": "...ダメよ、私もう見てられないわ。\n先に行ってる..."
+    },
+    {
+      "key": "CUTSCENE_14_41",
+      "value": "ママ？！パパ！？ぼくを置いてどこにいくの！？"
+    },
+    {
+      "key": "CUTSCENE_14_42",
+      "value": "ダメだよ、行かないで！お兄ちゃんの近くに行かないようにするから！"
+    },
+    {
+      "key": "CUTSCENE_14_43",
+      "value": "お、おいっ、どうしたんだ。しっ、しっ！大人しくしろっ！"
+    },
+    {
+      "key": "CUTSCENE_14_44",
+      "value": "ママー！！！パパ！！！！"
+    },
+    {
+      "key": "CUTSCENE_14_45",
+      "value": "ママ....... パパ..."
+    },
+    {
+      "key": "CUTSCENE_14_46",
+      "value": "もしもし？\nええ、シェルドンのことでちょっとご相談が......."
+    },
+    {
+      "key": "CUTSCENE_14_47",
+      "value": "申し訳ないんですけど、ストレスがひどいようです。\nなかなか適応してくれなくて、不安症状でほかの犬を噛んだりしてるんで..."
+    },
+    {
+      "key": "CUTSCENE_14_48",
+      "value": "正直言って困るんですよ、このままだと。どうにかしてくれません？"
+    },
+    {
+      "key": "CUTSCENE_14_49",
+      "value": "あらま！その犬、どうしたんだい？"
+    },
+    {
+      "key": "CUTSCENE_14_50",
+      "value": "ああ、この子ねえ。商店街の隅っこで\n売ってる人がおったんのよね......."
+    },
+    {
+      "key": "CUTSCENE_14_51",
+      "value": "とっても悲しい目をしとるから、どうも気になって。\n飼い主に捨てられたようじゃろ？"
+    },
+    {
+      "key": "CUTSCENE_14_52",
+      "value": "うちのじいさんがなくなってから私も寂しかったし、これで良いのじゃ。"
+    },
+    {
+      "key": "CUTSCENE_14_53",
+      "value": "そうかい.......その子、さっきから遠いとこしか見てないようじゃ。\nそんで、名前はつけてやった？"
+    },
+    {
+      "key": "CUTSCENE_14_54",
+      "value": "「ポチ」はどうだい？\nポチ。"
+    },
+    {
+      "key": "CUTSCENE_14_55",
+      "value": "ポチじゃと.......？まあ、高そうな犬じゃから\nもっとカッコイイ名前にしときなよ。"
+    },
+    {
+      "key": "CUTSCENE_14_56",
+      "value": "これで良いのじゃよ。ほれ、ダサい名前を付けたほうが\n元気で長生きするって言うじゃろ？"
+    },
+    {
+      "key": "CUTSCENE_14_57",
+      "value": "ポチ.......だって.......？？？\nぼくが？！！！？\nぼくの名前はシェルドン、なのに..."
+    },
+    {
+      "key": "CUTSCENE_14_58",
+      "value": "ママ、パパ......."
+    },
+    {
+      "key": "CUTSCENE_14_59",
+      "value": "おや、震えとるな。悪い夢でも見とるのかい？"
+    },
+    {
+      "key": "CUTSCENE_14_60",
+      "value": "もう大丈夫じゃよ、おばあちゃんと二人で仲良く暮らせば良い。"
+    },
+    {
+      "key": "CUTSCENE_14_61",
+      "value": "悪い記憶は全部忘れて、おばあちゃんとここで暮らそう。な？\nよしよし、大丈夫じゃ..."
+    },
+    {
+      "key": "CUTSCENE_14_62",
+      "value": "おばあちゃんはぼくに居場所をくれた。\nそしてぼくが心を開くまで、ゆっくりと時間をかけて待ってくれたよ。"
+    },
+    {
+      "key": "CUTSCENE_14_63",
+      "value": "でも... おばあちゃんがぼくを置いてお店に行くと\nまたあの時のことを思い出してしまって..."
+    },
+    {
+      "key": "CUTSCENE_14_64",
+      "value": "怖くて、また悪いことをしてしまったんだ。\nただいまって頭をなでようとするおばあちゃんを噛んだんだ..."
+    },
+    {
+      "key": "CUTSCENE_14_65",
+      "value": "その日、おばあちゃんに捨てられると思ってたよ。\nママはお兄ちゃんを噛むかもしれないからって、ぼくを捨てたから。"
+    },
+    {
+      "key": "CUTSCENE_14_66",
+      "value": "でもな... その次の日からおばあちゃんは\n不安そうなぼくをお店に連れていくことにしてくれたんだ。"
+    },
+    {
+      "key": "CUTSCENE_14_67",
+      "value": "だからぼく、もう不安じゃないんだ！悪いこともしないよ！"
+    },
+    {
+      "key": "CUTSCENE_14_68",
+      "value": "たまにパパとママのことを思い出すときもあるけど..."
+    },
+    {
+      "key": "CUTSCENE_14_69",
+      "value": "それでもぼくはおばあちゃんの元を離れないと決めたんだ。\nぼくがいなくなったら、きっとおばあちゃんが悲しむはずだから。"
+    },
+    {
+      "key": "CUTSCENE_14_70",
+      "value": "ずっと、店の前でいい子にしてる。"
+    },
+    {
+      "key": "CUTSCENE_14_71",
+      "value": "おばあちゃんがくれたぼくの居場所を永遠に守るよ。"
+    },
+    {
+      "key": "CUTSCENE_14_72",
+      "value": "-シェルドンの居場所-"
+    },
+    {
+      "key": "CUTSCENE_15_1",
+      "value": "もう少しで危ないところでしたね。\n保護者の方ですか？"
+    },
+    {
+      "key": "CUTSCENE_15_2",
+      "value": "野良猫です。\n車に引かれてるところを連れてきました。"
+    },
+    {
+      "key": "CUTSCENE_15_3",
+      "value": "そうですか。退院したら連れて行かれるご予定で...？"
+    },
+    {
+      "key": "CUTSCENE_15_4",
+      "value": "いいえ、それはできないんですけど...\n偶然見つけただけなんです。\n少しだけ待ってもらえませんか？保護してくれる人を探してきますので！"
+    },
+    {
+      "key": "CUTSCENE_15_5",
+      "value": "ふむ... そうなんですか。\n病院には他の猫もいるので、\nできるだけ急いでください。"
+    },
+    {
+      "key": "CUTSCENE_15_6",
+      "value": "あ... は、はい！\nありがとうございます！\nすぐに連絡しますので...！"
+    },
+    {
+      "key": "CUTSCENE_15_7",
+      "value": "ほら、ここが私の家よ。"
+    },
+    {
+      "key": "CUTSCENE_15_8",
+      "value": "！？！？！？！！！"
+    },
+    {
+      "key": "CUTSCENE_15_9",
+      "value": "(そりゃ驚くでしょうね...\n成猫にしては体も小さいし、野良生活が大変だったみたい)"
+    },
+    {
+      "key": "CUTSCENE_15_10",
+      "value": "(交通事故にあって死にかけてました。\n救助者の方に聞いてみたら、近くに子猫もいたらしくて...\n喪失感が大きいはずです。優しく接してくださいね)"
+    },
+    {
+      "key": "CUTSCENE_15_11",
+      "value": "ねえ、まだ回復中だからそんなに動き回っちゃダメよ。\n大丈夫だわ、ここは安全だから。"
+    },
+    {
+      "key": "CUTSCENE_15_12",
+      "value": "私がここにいると落ち着かないみたいね。少しひとりにしてあげよっと..."
+    },
+    {
+      "key": "CUTSCENE_15_13",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_15_14",
+      "value": "ただいまー、きぼうちゃん～？"
+    },
+    {
+      "key": "CUTSCENE_15_15",
+      "value": "にゃぁー"
+    },
+    {
+      "key": "CUTSCENE_15_16",
+      "value": "うふふ、ほかの猫のにおいが気にある？\n今餌やり行ってきたところなのよね。\nじゃ、きぼうちゃんもご飯食べようね。"
+    },
+    {
+      "key": "CUTSCENE_15_17",
+      "value": "くんくん.......\n.......？\nくんくん..."
+    },
+    {
+      "key": "CUTSCENE_15_18",
+      "value": "ん？あれ、どうしたの？？\nそんなににおいが気になる～？"
+    },
+    {
+      "key": "CUTSCENE_15_19",
+      "value": "-ママときょーこさん-"
+    },
+    {
+      "key": "CUTSCENE_16_1",
+      "value": "本当にありがたい、こんなものをいただけるなんて...\nさあ、シロ。パンをもらったから一緒に食べようか。"
+    },
+    {
+      "key": "CUTSCENE_16_2",
+      "value": "えっ、違います。\nそれお爺さんのために持ってきましたけど...\n猫にやらないでお爺さんから食べてくださいよ。"
+    },
+    {
+      "key": "CUTSCENE_16_3",
+      "value": "いや、こいつも腹ペコでね...\nわしはいいのさ、シロを食べさせてからでも。"
+    },
+    {
+      "key": "CUTSCENE_16_4",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_16_5",
+      "value": "ほれ、うまいんか？もっと食べな。"
+    },
+    {
+      "key": "CUTSCENE_16_6",
+      "value": "......."
+    },
+    {
+      "key": "CUTSCENE_16_7",
+      "value": "(久しぶりの食事だった。\nその人間は食べ物が手に入ったら、いつも半分を分けてくれてた。\n彼の体はわしの10倍も大きい。なのに...)"
+    },
+    {
+      "key": "CUTSCENE_16_8",
+      "value": "お爺さん、今年は本当に寒いらしいですよ。\nここじゃ本当に大変なことになりますって！"
+    },
+    {
+      "key": "CUTSCENE_16_9",
+      "value": "私、もう心配で...ほら、一緒にセンターに行きましょうよ。\n毎日食事も出ますし、冬の心配もありませんよ。"
+    },
+    {
+      "key": "CUTSCENE_16_10",
+      "value": "...いや、行かないよ。"
+    },
+    {
+      "key": "CUTSCENE_16_11",
+      "value": "え？"
+    },
+    {
+      "key": "CUTSCENE_16_12",
+      "value": "行かないし、行けないんだ。\nわしがセンター入りしたらシロはどうしろというんだい！\nセンターは動物なんて出入り禁止じゃないか。"
+    },
+    {
+      "key": "CUTSCENE_16_13",
+      "value": "...わしは家族にも面目のない人生を歩んできた。\nこんな小さい命も守れないのなら、家族に合わせる顔がないじゃないか。"
+    },
+    {
+      "key": "CUTSCENE_16_14",
+      "value": "国に頼るのも気に食わんし、\nこれで死んだらそれでいい。放っといてくれ。"
+    },
+    {
+      "key": "CUTSCENE_16_15",
+      "value": "はあ... わかりました。今日は帰りますけど、また来ますから。\nその時は絶対にセンター入りしてもらいますよ！"
+    },
+    {
+      "key": "CUTSCENE_16_16",
+      "value": "(彼はまるで野良猫みたいな人間だった)"
+    },
+    {
+      "key": "CUTSCENE_16_17",
+      "value": "そうだ、シロ。野良猫に間違われると大変だから\n近くの酒瓶でも拾って首輪作ってやろうじゃないか。"
+    },
+    {
+      "key": "CUTSCENE_16_18",
+      "value": "...？"
+    },
+    {
+      "key": "CUTSCENE_16_19",
+      "value": "ほれ、どうだ。\n飼い主のいる猫みたいになったぞ。"
+    },
+    {
+      "key": "CUTSCENE_16_20",
+      "value": "(彼はわしに青色の首輪を作ってくれた)"
+    },
+    {
+      "key": "CUTSCENE_16_21",
+      "value": "(彼の手は硬く、長い間洗ってないでいで汚れていたが)"
+    },
+    {
+      "key": "CUTSCENE_16_22",
+      "value": "(わしにとってその手は、世の中で一番あたたかく)"
+    },
+    {
+      "key": "CUTSCENE_16_23",
+      "value": "(唯一背中を預けられる居場所であり)"
+    },
+    {
+      "key": "CUTSCENE_16_24",
+      "value": "(わしと同じにおいがする、その人間のことを愛してたのさ)"
+    },
+    {
+      "key": "CUTSCENE_16_25",
+      "value": "ふう... 今日は寒いね、シロ。"
+    },
+    {
+      "key": "CUTSCENE_16_26",
+      "value": "ああ、寒いな。"
+    },
+    {
+      "key": "CUTSCENE_16_27",
+      "value": "シロ、寒いのかい？可哀想に震えちゃってよ...\nほら、もっとこっち来な。"
+    },
+    {
+      "key": "CUTSCENE_16_28",
+      "value": "(その日は数日もひどい寒さが続いていた。薄着のまま、人間はわしのことをブランケットにまいて抱きしめていた)"
+    },
+    {
+      "key": "CUTSCENE_16_29",
+      "value": "(嫌な音を出す車が到着し、やがて人間が運ばれるのをただ見ているだけで... わしは何もできずにいた)"
+    },
+    {
+      "key": "CUTSCENE_16_30",
+      "value": "(わしはただの猫だったから)"
+    },
+    {
+      "key": "CUTSCENE_16_31",
+      "value": "(人間が戻って来ることはなかった。わしも、気づいていた)"
+    },
+    {
+      "key": "CUTSCENE_16_32",
+      "value": "(ずっと前から彼の命が消えていく音を聞いていたのだ)"
+    },
+    {
+      "key": "CUTSCENE_16_33",
+      "value": "(けど、もうすぐ....... 彼に会いに行けそうな気がする)"
+    },
+    {
+      "key": "CUTSCENE_16_34",
+      "value": "-長老の友だち-"
+    },
+    {
+      "key": "MOM",
+      "value": "ママ"
+    },
+    {
+      "key": "STRANGER_1",
+      "value": "???"
+    },
+    {
+      "key": "STRANGER_2",
+      "value": "○△□"
+    },
+    {
+      "key": "STRANGER_3",
+      "value": "●■▲"
+    },
+    {
+      "key": "ENDING_1_CONTENTS",
+      "value": "ねえ、ママ。\n\n家というのはあたたかいものだね。\n\nおじさんは毎日ぼくにあたたかいふとんとおいしいご飯をくれるんだ。\n\nママ、ベッドって知ってる？\n\nとってもふかふかで、横になるとすぐに眠れちゃうんだ。すごいよ。\n\nぼく、おじさんが魚たちのボスだと思ってたけど\n\nよく見たらほかのにんげんたちに「お金」をもらって交換してたんだ。\n\n魚がいっぱい交換できたら、その日は特別なおやつが食べられるよ！\n\nぼくは、ほかの猫たちに魚が盗まれないように\n\nこの「魚屋」という場所を守っているの。\n\n盗まれちゃったらぼくのおやつが減っちゃうじゃん！\n\nねえ、ママ。会いたいよ。\n\nぼくがおじさんと一緒に暮らすようになってから、おじさんは前よりさみしくないと思うんだ。\n\nよかった。\n\nぼくがママに会いたいのは変わらないけど、今のぼくの居場所はここだよ。\n\nなんでかって？それはおじさんがいないと、ぼくがさみしいから。\n\nぼくたちは一生の友だちだから、ずっと一緒にいないとダメなんだ。\n\nじゃあね、ママ。元気でね。\n\n\n\n01. おじさんとぼく、そして魚屋さん"
+    },
+    {
+      "key": "ENDING_2_CONTENTS",
+      "value": "ママへ\n\n\nママがいない生活にも少しずつ慣れてきたみたい。\n\n\nぼく、友だちがいっぱいできたんだ。\n\n\n\nこの前はサバたちをいじめようとする奴がいて、追い出したら\n\n\nケンカを売ってきたの。\n\n\n\nとっても怖かかったよ。\n\n\n\nボスは、傷は勲章のようなものだからもう少し胸張ってもいいといったけど\n\n\n長老のじいちゃんが言ってた「情」の恐ろしさを、\n\n今はなんとなく分かるようになったよ。\n\n\n\nぼく、友だちを失いたくないんだ。\n\n\nぼく、ママは守れなかったけど...友だちは最後まで守りたいんだ。\n\n\nこうやって大人の猫になっていくのかな？\n\n\nだからぼくのことは心配しないで。じゃあね、ママ。\n\n\n\n\n\n\n02. 守るべきもの\n"
+    },
+    {
+      "key": "ENDING_3_CONTENTS",
+      "value": "ママ、元気？\n\n\nあのね、あるにんげんはぼくを蹴りつけたの。本当に痛かった。\n\n\nでもね、あるにんげんはぼくにあたたかいご飯をくれて、あたたかい家を作ってくれた。\n\n\nなんでだろう？にんげんは怖いけど、ぼくは最初からにんげんのことが好きだった。\n\n\nだけどにんげんと向き合うたびに、ポチが言っていたことを思い出すよ。\n\n\nにんげんを愛してしまったら、もう取り戻すことはできないんだって。\n\n\nぼく、にんげんのあたたかい手は好きだけど\n\n\n\nにんげんと一緒になる勇気はないみたい。\n\n\n\nだって、捨てられたくないんだ...\n\n\n\n道の上は少し寒くて、食べ物もあまりないけど\n\n\n\nたぶん、少しずつ大丈夫になると思うんだ。\n\n\n\nじゃあね、ママ。\n\n\n\n\n\n\n\n03. 一緒になるということは.\n\n\n\n"
+    },
+    {
+      "key": "ENDING_4_CONTENTS",
+      "value": "ママへ\n\n\n\nぼくはあのさみしいにんげんと一緒に、にんげんの家に行ったんだ。\n\n\nにんげんからはいつも鼻が痛くなる変なにおいがしたよ。\n\n\nそれと、あまり顔を見ることもできなかったの。\n\n\n\n外は寒いのに、どうして帰ってこなかったのかな。\n\n\nでも家に入ってからはぶったりしてないし、少しは仲良くなったと思う。\n\n\nどうして彼の家に行ったかって？\n\n\nぼく、ただ一緒にいてあげたいと思ったんだよね。\n\n\nここはとてもあたたかくて... 不思議なものがいっぱいある。\n\n\nよくわからないけど、眠りにつく前に誰かの声がしたよ。もう苦しまなくてもいいって。\n\n\nじゃあね、まま。\n\n\n\n\n\n\n\n04. 遠き旅へ\n\n"
+    },
+    {
+      "key": "ENDING_5_CONTENTS",
+      "value": "ねえ、ママ。\n\n\n\nママ、どこにいるの？\n\n\n\nほかの猫たちはお互いの体をくっつけて寝るみたいだけど\n\n\nぼくはひとりで寝るから、いつも寒いんだ。\n\n\n\n今日みたいに雨の降る日はもっと寒くなる。\n\n\n\n自分で食べ物を手に入れるのもうまくできなくて...\n\n\nたまににんげんたちから食べ物をもらうこともあるけど\n\n\n\nほかの猫たちの縄張りに入るといけないから、狩りとかもあまりできない。\n\n\nぼく、お腹空いた...\n\n\n\n\n\n\nひとりでいるのはさみしいよ...\n\n\n\n\n\n\n\n5. こどく\n\n\n"
+    },
+    {
+      "key": "ENDING_6_CONTENTS",
+      "value": "ねえ、ママ。\n\n\n\nここではお腹もぺこぺこにならないし\n\n\n寒くもないんだって。\n\n\n\n誰かはわからないけど、目を閉じるときにそう言われたんだ。\n\n\n\n不思議だね。\n\n\nあたたかくて... 懐かしい気分。\n\n\n\nママと一緒にいた時のことを思い出すよ。\n\n\n\nきっと、いつかはママに会えるよね...？\n\n\nあ、誰かぼくを呼んでるみたい。\n\n\nもう行かないと。\n\n\n\nじゃあね、ママ。\n\n\n\n\n\n\n\n6. 空の向こうへ\n"
+    },
+    {
+      "key": "ENDING_7_CONTENTS",
+      "value": "ママ、元気？\n\n\nぼく、パパができたんだ。\n\n\n\nパパが名前もつけてくれたんだけど\n\n\nぼくからはお日様のにおいがするから、たいようと呼ぶんだって。\n\n\n最初はぼくを見て大声を出すから少し怖かったけど、新しい家族もできたの！\n\n\nあ、見て！おもちゃもあるよ。\n\n\nぎゅっと噛むとピュって面白い音がするんだ。とても楽しいよ！\n\n\nパパが帰って来たら、毎日散歩にいく。\n\n\n散歩に行くとほかの友だちにも会える！\n\n\n\nボスは「ふん、人間に屈服したのか」と言ったけど\n\n\n本当はたぶん羨ましいんだと思うの！\n\n\nみんなは大きくてあたたかいパパの手を知らないしね。\n\n\nパパの膝の上は、ママの次にあたたかくて気持ちいい。\n\n\nぼくのことは心配しないで。\n\n\nここは安全だから。じゃあね、ママ。\n\n\n\n\n\n\n07. あたたかい手\n\n"
+    },
+    {
+      "key": "ENDING_8_CONTENTS",
+      "value": "ねえ、ママ。\n\n\nぼく、にんげんのもとで暮らすようになったんだ。\n\n\n最初は少し... ううん、本当はとても怖かったよ。\n\n\nにんげんたちはぼくの体が汚いか検査するとか言って\n\n\n\nぼくの体に変なものを入れて、小さな箱にぼくを閉じ込めたの。\n\n\nもうかゆくもないし、体も軽くなった。\n今は大丈夫だよ。\n\n\n\nここは前にいた場所とは違うところだよ。\n\n\n毎日ご飯ももらえるし、外よりはあたたかいけど、とても狭いんだ。\n窓の外で自由に走る猫たちの姿が見える。\n\n\n自由っていいな。\n\n\n\n外に出して、ってにんげんにお願いしたけど\n\n\n\n外に出たらまた体が痛くなるかもしれないんだって。\n汚いから外に出ちゃダメだって言われたんだ。\n\n\nそれと、静かにしないとママとパパに怒られるんだって。\n\n\nこれからはここがぼくの居場所だって、そう言われたよ。\n\n\nボスとほかの猫たちは元気にしてるのかな。\n\n\nほかの猫たちにも、ママにも会いたい...\n\n\nママ、いつかはきっと会えるよね？\n\n\nここのにんげんたちはたまに怖いけど、ぼくに優しくしてくれるんだ。\nぼくも、ここのにんげんたちのことは好き。\n\nにんげんはとても感情に弱いものなんだね。\nだからぼく、にんげんに惹かれたのかな。\n\n\n\n\n\n\n\n08. にんげんとの生活\n"
+    },
+    {
+      "key": "ENDING_9_CONTENTS",
+      "value": "ねえ、ママ。\n\n\n\nじいちゃんは長い旅に出たんだ。\n\n\n\n子猫たちにはまだわからないと思う。\n\n\n長い旅の意味を。\n\n\nぼくにはもう分かるよ。\n\n\n\n道の上はまだ狭くて、とても危ない。\n\n\nだから長老のじいちゃんみたいな猫が必要なんだと思う。\n\n\nじいちゃん、旅立つ前にぼくにこう言ったよ。子猫たちを頼むって...\n\n\nだからぼく、子猫たちと一緒に生きていこうと思う。\n\n\n長老のじいちゃんみたいに。\n\n\nじゃあね、ママ。\n\n\nぼくたち、きっとまた会えると思うんだ。\n\n\n\n\n\n\n\n09. 旅の意味\n\n\n"
+    },
+    {
+      "key": "ENDING_10_CONTENTS",
+      "value": "ねえ、ママ。\n\n\n\nぼく、もう大丈夫だよ。\n\n\n\nママを見送る準備ができたんだ。\n\n\nぼく、新しい家族がたくさんできたよ。\n\n\n道の上は寒くてあぶないけど\n\n\n食べ物をくれるにんげんたちがいるから、生きていける。\n\n\nたまには嫌がらせをするにんげんもいるけど...\n\n\n家族と一緒なら、きっと大丈夫だと思うんだ！\n\n\nねえ、ママ。\n\n\n\nみんなが花をいっぱい持ってきてくれたの。だからきっと、ママはさみしくないと思うんだ。\n\n\n\n\n\n\n10. 花\n\n\n"
+    },
+    {
+      "key": "ENDING_11_CONTENTS",
+      "value": "病院という場所は怖かったよ。\n\n\n人間たちがぼくの体あちこちを触るし...\n\n\nでも、急に眠くなったからぼく、つい寝てしまったの。\n\n\n\n目が覚めたら、分からない場所だったよ。\n\n\nふかふかで... はじめての場所だった。\n\n\nそして...\n\n\n\nそこにはママがいたんだ！\n\n\n\nこんな場所でママに会えるなんて、本当に想像もできなかったよ！\n\n\nここにはママもいるし、あたたかいふとんもあるし、おもちゃもいっぱい。\n\n\nそしてにんげんはぼくたちに優しくしてくれる。\n\n\nおいしいご飯も毎日食べられて、本当に楽しいよ！\n\n\n\n\n\n\nぼくたちのこと、心配してるの？\n大丈夫だよ、ぼくたちは優しいにんげんに出会えたんだ。\n\n\nだから、そんなに心配しないで。\n\n\nじゃあね、バイバイ。\n\n\n\n\n\n\n\n11. ママとの再会\n"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_MAX_LEVEL",
+      "value": "ん？\n君、すでに猫の中じゃ一番いい家持ってるだろう？"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_COMPLETE",
+      "value": "すべての素材を集めてきたんだな！\n明日の朝には改良された家がお前を待ってると思うよ。"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_COUNT_MANY",
+      "value": "個"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_COUNT_ANIMAL",
+      "value": "匹"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_COUNT_FLOWER",
+      "value": "本"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_NEED",
+      "value": "ボーナス%ITEM%"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_AND",
+      "value": "と"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_LAST",
+      "value": "おい！"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_NO_ITEM",
+      "value": "素材に使えそうなものを持ってないみたいだな。"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_SPEAKER",
+      "value": "とんちゃん"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_EXIT",
+      "value": "会話終了"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_UI_GIVE",
+      "value": "素材を渡す"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_1_TOAST",
+      "value": "HPと回復値がUPしました。"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_2_TOAST",
+      "value": "HP、回復、移動速度がUPしました。"
+    },
+    {
+      "key": "SAVE_POINT_UPGRADE_3_TOAST",
+      "value": "HP、満腹感、回復、移動速度がUPしました。"
+    },
+    {
+      "key": "POP_UP_WAKE_UP_ADS",
+      "value": "猫はまだ寝ています...\n広告を視聴するとすぐに朝を迎えることができます。\n広告を視聴しますか？"
+    },
+    {
+      "key": "TOAST_POP_UI_SLEEP_WARNING",
+      "value": "深い夜になりました..."
+    },
+    {
+      "key": "SAVE_WARNING_TITLE",
+      "value": "！注意！"
+    },
+    {
+      "key": "SAVE_WARNING_CONTENTS",
+      "value": "ゲーム保存は寝る前にしかできません。"
+    },
+    {
+      "key": "SAVE_WARNING_OK",
+      "value": "OK"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_1",
+      "value": "おお、\n子猫じゃないか。"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_2",
+      "value": "君、あんなに狭くて小さいところで住んでいるのかい？"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_3",
+      "value": "あんなところじゃ、すぐに体の調子が悪くなると思うぞ。\nいくら寝ても疲労がとれないしね。"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_4",
+      "value": "俺が今から説明するのは「家アップグレード」のことだが...\n...え？詐欺じゃないかって？"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_5",
+      "value": "はははっ...\nこのゲームが難しいと感じていたならば\n俺の話は結構良い提案だと思うぞ。"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_6",
+      "value": "家をアップグレードすると「HP」「満腹感」「移動速度」「会話回数」が上がるんだ。"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_7",
+      "value": "素材を集めてきたら、\n俺がアップグレードしてやるよ。"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_8",
+      "value": "一度持ってきた素材とアップグレードした家は\nゲームオーバーになっても、初期化をしてもそのままなんだ。"
+    },
+    {
+      "key": "SAVE_POINT_1_ACCEPT_9",
+      "value": "家は3回までアップグレードできる。\nどうだい。話、理解できたか？"
+    },
+    {
+      "key": "SAVE_POINT_1_INCOMPLETE_1",
+      "value": "どんな素材が必要か忘れたって？"
+    },
+    {
+      "key": "SAVE_POINT_1_COMPLETE_1",
+      "value": "おお、素材を全部用意できたみたいだな。\n明日の朝には新しい家を見せてやれそうだ、期待してていいぞ！"
+    },
+    {
+      "key": "SAVE_POINT_2_ACCEPT_1",
+      "value": "ああ、\n君かい。"
+    },
+    {
+      "key": "SAVE_POINT_2_ACCEPT_2",
+      "value": "もう一度アップグレードしたいって？"
+    },
+    {
+      "key": "SAVE_POINT_2_ACCEPT_3",
+      "value": "ふふ...以外とよくばりさんだな、君は。\nまあ、家は良いに越したことないさ。"
+    },
+    {
+      "key": "SAVE_POINT_2_ACCEPT_4",
+      "value": "いいぞ、素材さえ集めてきたら\nもっと素敵な家にしてやる。"
+    },
+    {
+      "key": "SAVE_POINT_2_INCOMPLETE_1",
+      "value": "どんな素材が必要か忘れたって？"
+    },
+    {
+      "key": "SAVE_POINT_2_COMPLETE_1",
+      "value": "おお、素材を全部用意できたみたいだな。\n明日の朝には新しい家を見せてやれそうだ、期待してていいぞ！"
+    },
+    {
+      "key": "SAVE_POINT_3_ACCEPT_1",
+      "value": "おや、\n子猫かい。"
+    },
+    {
+      "key": "SAVE_POINT_3_ACCEPT_2",
+      "value": "新しい家はどうだい？\nえ、まだ足りないって？！"
+    },
+    {
+      "key": "SAVE_POINT_3_ACCEPT_3",
+      "value": "ふむ....... まあ、もっと良い家もあるけどね...\nその分多くの素材が必要になるんだ、出来そうか？"
+    },
+    {
+      "key": "SAVE_POINT_3_ACCEPT_4",
+      "value": "うむ、分かった。\n素材さえあればなんでも作れるさ。"
+    },
+    {
+      "key": "SAVE_POINT_3_INCOMPLETE_1",
+      "value": "どんな素材が必要か忘れたって？"
+    },
+    {
+      "key": "SAVE_POINT_3_COMPLETE_1",
+      "value": "これで家のアップグレードも終わりだな。\n明日の朝、期待しててな！"
+    },
+    {
+      "key": "SAVE_POINT_ALL_COMPLETE_1",
+      "value": "ん？\n君、すでに猫の中じゃ一番いい家持ってるだろう？"
+    },
+    {
+      "key": "PAUSE_UI_TITLE",
+      "value": "一時停止"
+    },
+    {
+      "key": "PAUSE_UI_CONTENTS",
+      "value": "※ ゲームデータは\n寝る前にしか保存できません。"
+    },
+    {
+      "key": "PAUSE_UI_TITLE_BUTTON",
+      "value": "タイトルに戻る"
+    },
+    {
+      "key": "APPLICATION_QUIT_UI_TITLE",
+      "value": "ゲーム終了"
+    },
+    {
+      "key": "APPLICATION_QUIT_UI_CONTENTS",
+      "value": "ゲームを終了しますか？"
+    },
+    {
+      "key": "APPLICATION_QUIT_UI_QUIT_BUTTON",
+      "value": "ゲーム終了"
+    },
+    {
+      "key": "TUTORIAL_TITLE",
+      "value": "ゲーム説明"
+    },
+    {
+      "key": "TUTORIAL_PAGE_1_1",
+      "value": "猫の健康状態を表しています。\n0になるとゲームオーバーになります。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_1_2",
+      "value": "猫の満腹感を数値化したものです。\n0になると健康数値が徐々に減少します。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_1_3",
+      "value": "猫の一日です。\n時間が経つほどお日様が右側に移動し、\n右端に止まるとその日が終わります。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_2_1",
+      "value": "食べ物を入手するために町中を歩き回りましょう。\n町では、食べ物を入手できる様々なオブジェクトやNPCに出会えます。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_2_2",
+      "value": "かわいい肉球アイコンが表示されたらタップしてね！"
+    },
+    {
+      "key": "TUTORIAL_PAGE_3_1",
+      "value": "入手したアイテムは頭の上の吹き出しに表示されます。\nそのアイテムをタップすると、食べるか捨てるかを選べます。\nまた、プレゼントしたいNPCにあげることも可能です。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_3_2",
+      "value": "花を食べますか？"
+    },
+    {
+      "key": "TUTORIAL_PAGE_3_3",
+      "value": "捨てる"
+    },
+    {
+      "key": "TUTORIAL_PAGE_3_4",
+      "value": "食べる"
+    },
+    {
+      "key": "TUTORIAL_PAGE_4_1",
+      "value": "人間たちと仲良くなると、彼らの言葉が理解できるようになり\nまた顔をよりハッキリ見ることができます。\n好感度レベルMAXになるとNPCごとのエンディングが見られます。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_4_2",
+      "value": "逃げる"
+    },
+    {
+      "key": "TUTORIAL_PAGE_4_3",
+      "value": "あいさつ"
+    },
+    {
+      "key": "TUTORIAL_PAGE_4_4",
+      "value": "プレゼント"
+    },
+    {
+      "key": "TUTORIAL_PAGE_4_5",
+      "value": "NPCの中では猫に敵意を持つ者もいます！\n近づく時は警戒を強めてください。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_5_1",
+      "value": "家に戻ると\nその日の日課を終えて寝ることができます。\n寝ると一部のステータスが回復します。"
+    },
+    {
+      "key": "TUTORIAL_PAGE_5_2",
+      "value": "※ 注意 ※\nゲームデータは寝る前にしか保存できません。"
+    },
+    {
+      "key": "SAVE_CLOUD_UI_CONTENTS",
+      "value": "[保存]ボタンをタップするとゲームをクラウドに保存します。\n[読込]をタップするとクラウドに保存されたデータを読み込みます。\n\nサポート版へのデータ移動を希望する場合は、\n現在バージョンのアプリでゲームを保存してから\nサポート版アプリでデータを読み込んでください。\n\nまた、アプリを一度削除するがゲームデータは保存したい場合にも\nゲーム保存後にゲームを終了してから\nアプリ再インストール後にデータを読み込んでください。\n\nこの機能を利用するためには、必ずGoogle Play Game Serviceに\n先にログインしてください。"
+    },
+    {
+      "key": "SAVE_CLOUD_UI_LOADING",
+      "value": "進行中..."
+    },
+    {
+      "key": "SAVE_CLOUD_UI_UPLOAD",
+      "value": "保存"
+    },
+    {
+      "key": "SAVE_CLOUD_UI_DOWNLOAD",
+      "value": "読込"
+    },
+    {
+      "key": "SAVE_CLOUD_UI_UPLOAD_SUCCESS",
+      "value": "[保存成功]"
+    },
+    {
+      "key": "SAVE_CLOUD_UI_UPLOAD_FAIL",
+      "value": "[保存失敗]"
+    },
+    {
+      "key": "SAVE_CLOUD_UI_DOWNLOAD_SUCCESS",
+      "value": "[読込成功]"
+    },
+    {
+      "key": "SAVE_CLOUD_UI_DOWNLOAD_FAIL",
+      "value": "[読込失敗]"
+    },
+    {
+      "key": "ALERT_UI_OK",
+      "value": "OK"
+    },
+    {
+      "key": "ALERT_UI_ADVERTEISE_FAILED_CONTENTS",
+      "value": "広告を読み込めませんでした。\nもう一度お試しください。"
+    },
+    {
+      "key": "ALERT_UI_TIME_CONNECTION_FAILED_CONTENTS",
+      "value": "ネットワーク接続をONにして\n日付/時間を自動で設定してください。\nアプリを終了します。"
+    },
+    {
+      "key": "POP_UP_NEW_GAME_ADS",
+      "value": "新しいゲームをはじめますか？\n家アップグレードやエンディングリストは\n引き継がれます。"
+    },
+    {
+      "key": "ACHIEVEMENT_TITLE",
+      "value": "実績"
+    },
+    {
+      "key": "ACHIEVEMENT_INCOMPLETE",
+      "value": "？？？"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_1",
+      "value": "2番目の家。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_2",
+      "value": "3番目の家。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_3",
+      "value": "4番目の家。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_4",
+      "value": "やまださんのお花見。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_5",
+      "value": "けがしたおじさん。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_6",
+      "value": "汚いねずみ。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_7",
+      "value": "指を切ったおじさん。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_8",
+      "value": "誠意を見せなさい。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_9",
+      "value": "ママのことを教えて。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_10",
+      "value": "ボスのことを教えて。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_11",
+      "value": "ボスはねずみと戦うから強いんだ。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_12",
+      "value": "お腹すいたらなんでも食べる。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_13",
+      "value": "気分転換に利くやつ。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_14",
+      "value": "ママとパパからもらったもの。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_15",
+      "value": "にんげんについて調べよう。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_16",
+      "value": "いいにんげん、わるいにんげん？"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_17",
+      "value": "家のカギをなくした。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_18",
+      "value": "さいふをなくした。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_19",
+      "value": "お花好きのおねえさん。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_20",
+      "value": "息が出来ないひと。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_21",
+      "value": "友だちをつれてきて。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_22",
+      "value": "キラキラのかわはらくん。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_23",
+      "value": "切ったのは指？それとも..."
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_24",
+      "value": "猫の安全。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_25",
+      "value": "舞い上がれ！"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_26",
+      "value": "友だち、いないの？"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_27",
+      "value": "なくした鍵。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_28",
+      "value": "気分転換しよう。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_29",
+      "value": "長老の食料を持って来よう。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_30",
+      "value": "ボスと仲良くなろう。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_31",
+      "value": "大きな魚を持って来よう。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_32",
+      "value": "友だちへのプレゼント。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_33",
+      "value": "最後のあいさつ。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_34",
+      "value": "友だちのあかし。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_35",
+      "value": "お腹空いた..."
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_36",
+      "value": "狩りのやり方"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_37",
+      "value": "大きな魚"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_38",
+      "value": "サヨウナ、ママ"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_39",
+      "value": "食べないっ！！"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_40",
+      "value": "めんどくさいのは嫌だ。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_41",
+      "value": "にんげんを噛んでしまった。"
+    },
+    {
+      "key": "ACHIEVEMENT_SUBJECT_42",
+      "value": "いいにんげんかもしれない。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_1",
+      "value": "2番目の家にアップグレードした。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_2",
+      "value": "3番目の家にアップグレードした。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_3",
+      "value": "4番目の家に最終アップグレードした。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_4",
+      "value": "山田剛士の1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_5",
+      "value": "山田剛士の2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_6",
+      "value": "山田剛士の3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_7",
+      "value": "山田剛士の4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_8",
+      "value": "ボスの1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_9",
+      "value": "ボスの2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_10",
+      "value": "ボスの3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_11",
+      "value": "ボスの4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_12",
+      "value": "ボスの5回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_13",
+      "value": "ポチの1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_14",
+      "value": "ポチの2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_15",
+      "value": "ポチの3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_16",
+      "value": "ポチの4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_17",
+      "value": "工藤一徳の1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_18",
+      "value": "工藤一徳の2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_19",
+      "value": "工藤一徳の3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_20",
+      "value": "工藤一徳の4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_21",
+      "value": "川原義成の1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_22",
+      "value": "川原義成の2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_23",
+      "value": "川原義成の3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_24",
+      "value": "川原義成の4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_25",
+      "value": "黒部彩音の1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_26",
+      "value": "黒部彩音の2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_27",
+      "value": "黒部彩音の3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_28",
+      "value": "黒部彩音の4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_29",
+      "value": "長老の1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_30",
+      "value": "長老の2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_31",
+      "value": "長老の3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_32",
+      "value": "長老の4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_33",
+      "value": "長老の5回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_34",
+      "value": "サバ兄妹の1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_35",
+      "value": "サバ兄妹の2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_36",
+      "value": "サバ兄妹の3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_37",
+      "value": "サバ兄妹の4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_38",
+      "value": "サバ兄妹の5回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_39",
+      "value": "石戸恭子の1回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_40",
+      "value": "石戸恭子の2回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_41",
+      "value": "石戸恭子の3回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_DETAIL_42",
+      "value": "石戸恭子の4回目のクエストを完了した。"
+    },
+    {
+      "key": "ACHIEVEMENT_TOAST_POP_UI_CLEAR",
+      "value": "[実績達成]\n%ITEM%"
+    },
+    {
+      "key": "SELECT_CONTROL_TITLE",
+      "value": "操作方法選択"
+    },
+    {
+      "key": "SELECT_CONTROL_JOYSTICK",
+      "value": "ジョイパッドで遊ぶ"
+    },
+    {
+      "key": "SELECT_CONTROL_TOUCH",
+      "value": "タップで遊ぶ"
+    },
+    {
+      "key": "SELECT_CONTROL_TIP",
+      "value": "※操作方法は設定からいつでも変更可能です。"
+    },
+    {
+      "key": "TUTORIAL_ACTIVE_GUIDE_1",
+      "value": "ゴミ箱を見つけてタップしよう"
+    },
+    {
+      "key": "TUTORIAL_ACTIVE_GUIDE_2",
+      "value": "頭の上の吹き出しをタップして\n入手した食べ物を食べよう"
+    },
+    {
+      "key": "TUTORIAL_ACTIVE_GUIDE_3",
+      "value": "家の近くにいる猫に\n話をかけてみよう"
+    },
+    {
+      "key": "TUTORIAL_ACTIVE_GUIDE_4",
+      "value": "町にいる他のNPCに\n話をかけて[あいさつ]を選ぼう"
+    },
+    {
+      "key": "TUTORIAL_ACTIVE_GUIDE_5",
+      "value": "アイテムを持って状態で\n町にいるNPCにプレゼントしよう"
+    },
+    {
+      "key": "TUTORIAL_ACTIVE_GUIDE_6",
+      "value": "上部の猫アイコンをタップして\nNPCの情報を確認しよう"
+    },
+    {
+      "key": "TUTORIAL_ACTIVE_GUIDE_7",
+      "value": "家に戻って寝よう"
+    },
+    {
+      "key": "TUTORIAL_PASSIVE_GUIDE_1",
+      "value": "NPCとの好感度レベル2を達成しよう"
+    },
+    {
+      "key": "TUTORIAL_PASSIVE_GUIDE_2",
+      "value": "NPCとの好感度レベル3を達成しよう"
+    },
+    {
+      "key": "TUTORIAL_PASSIVE_GUIDE_3",
+      "value": "NPCとの好感度レベル4を達成しよう"
+    },
+    {
+      "key": "TUTORIAL_PASSIVE_GUIDE_4",
+      "value": "NPCとの好感度レベル5を達成しよう"
+    },
+    {
+      "key": "TUTORIAL_PASSIVE_GUIDE_5",
+      "value": "NPCとの好感度レベル6を達成しよう"
+    },
+    {
+      "key": "TUTORIAL_PASSIVE_GUIDE_6",
+      "value": "NPCとの好感度レベル7を達成しよう"
+    },
+    {
+      "key": "TUTORIAL_PASSIVE_GUIDE_7",
+      "value": "最終日まで生き残ろう"
+    },
+    {
+      "key": "CONFIRM_POP_UP_STEAL",
+      "value": "物を盗むと人間との\n好感度が減少します。\n盗みますか？"
+    },
+    {
+      "key": "CONFIRM_POP_UP_YES",
+      "value": "はい"
+    },
+    {
+      "key": "CONFIRM_POP_UP_NO",
+      "value": "いいえ"
+    },
+    {
+      "key": "CUTSCENE_13_NERO",
+      "value": "ネロ"
+    },
+    {
+      "key": "CUTSCENE_13_STRANGER",
+      "value": "？？？"
+    },
+    {
+      "key": "CUTSCENE_14_BAD_PERSON",
+      "value": "悪い人間"
+    },
+    {
+      "key": "CUTSCENE_14_MOTHER",
+      "value": "ママ"
+    },
+    {
+      "key": "CUTSCENE_14_FATHER",
+      "value": "パパ"
+    },
+    {
+      "key": "CUTSCENE_14_SHELDON",
+      "value": "シェルドン"
+    },
+    {
+      "key": "CUTSCENE_14_LITTEL_BROTHER",
+      "value": "兄ちゃん"
+    },
+    {
+      "key": "CUTSCENE_14_STRANGER",
+      "value": "？？？"
+    },
+    {
+      "key": "CUTSCENE_14_GRANDMA",
+      "value": "おばあちゃん"
+    },
+    {
+      "key": "CUTSCENE_14_GRANDMA_FRIEND",
+      "value": "おばあちゃんの友だち"
+    },
+    {
+      "key": "CUTSCENE_15_DOCTOR",
+      "value": "お医者さん"
+    },
+    {
+      "key": "CUTSCENE_15_STRANGER",
+      "value": "△□○"
+    },
+    {
+      "key": "CUTSCENE_15_HOPE",
+      "value": "きぼう"
+    },
+    {
+      "key": "CUTSCENE_15_MOTHER_CAT",
+      "value": "ママねこ"
+    },
+    {
+      "key": "CUTSCENE_16_OLD_MAN",
+      "value": "老人"
+    },
+    {
+      "key": "CUTSCENE_16_MAN",
+      "value": "男性"
+    },
+    {
+      "key": "CUTSCENE_16_WOMAN",
+      "value": "女性"
+    },
+    {
+      "key": "POP_UP_HIDDEN_STORY",
+      "value": "全エンディングを解禁すると\n内容を確認できます。"
+    },
+    {
+      "key": "SETTING_UI_KOREAN",
+      "value": "한국어"
+    },
+    {
+      "key": "SETTING_UI_ENGLISH",
+      "value": "<size=30>ENGLISH</size>"
+    },
+    {
+      "key": "SETTING_UI_JAPANESE",
+      "value": "日本語"
+    },
+    {
+      "key": "NPC_LIKE_LIST_UI_TAP_LIKE",
+      "value": "好感度"
+    },
+    {
+      "key": "NPC_LIKE_LIST_UI_TAP_DIALOGUELOG",
+      "value": "会話ログ"
+    },
+    {
+      "key": "NPC_LIKE_INFO_UI_LOVE",
+      "value": "好きな物"
+    },
+    {
+      "key": "NPC_LIKE_INFO_UI_SOSO",
+      "value": "普通"
+    },
+    {
+      "key": "NPC_LIKE_INFO_UI_HATE",
+      "value": "嫌いな物"
+    },
+    {
+      "key": "ITME_USE_POP_UP_UI_EAT",
+      "value": "食べる"
+    },
+    {
+      "key": "ITME_USE_POP_UP_UI_DROP",
+      "value": "捨てる"
+    },
+    {
+      "key": "POP_UP_NO",
+      "value": "いいえ"
+    },
+    {
+      "key": "SLEEP_UI_TITLE",
+      "value": "タイトルに戻る"
+    },
+    {
+      "key": "SLEEP_UI_START",
+      "value": "次の日へ"
+    },
+    {
+      "key": "SLEEP_UI_START_AD",
+      "value": "動画を見てすぐに始める"
+    },
+    {
+      "key": "DIALOGUE_SELECT_RUN",
+      "value": "逃げる"
+    },
+    {
+      "key": "DIALOGUE_SELECT_FAVOR",
+      "value": "あいさつ"
+    },
+    {
+      "key": "DIALOGUE_SELECT_PRESENT",
+      "value": "プレゼント"
+    },
+    {
+      "key": "NPC_LIKE_LIST_UI_TRACKING",
+      "value": "※サポート版では広告なしで情報を見ることができます。"
+    },
+    {
+      "key": "HOME_TITLE_UI_GAME_END",
+      "value": "End Game"
+    },
+    {
+      "key":"DATE_OF_BIRTH_UI_TITLE",
+      "value": "生年月日"
+    },
+    {
+      "key":"DATE_OF_BIRTH_UI_DESCRIPTION",
+      "value": "※ COPPAによると、13?未?の使用者は、\nデ?タセ?ブをすることができません。"
+    },
+    {
+      "key":"SETTING_UI_CHINESE",
+      "value": "中文"
+    },
+    {
+      "key": "SETTING_UI_SPANISH",
+      "value": "Español"
+    },
+    {
+      "key": "SETTING_UI_PORTUGUESE",
+      "value": "Português"
+    },
+    {
+      "key": "SETTING_UI_RUSSIAN",
+      "value": "<size=18>Русский</size>"
+    },
+    {
+      "key": "SETTING_UI_FRENCH",
+      "value": "Français"
+    },
+    {
+      "key": "SETTING_UI_TURKISH",
+      "value": "Türkçe"
+    },
+    {
+      "key": "FAQ_POPUP_UI_TITLE",
+      "value": "[よくある質問]"
+    },
+    {
+      "key": "FAQ_POPUP_UI_CONTENT",
+      "value": "<color=#db9e45>Q)ゲームが悲しい！元のゲームは、かわいい面白いよハヌンゴませんか？(´;ω;｀)</color>\n<color=#ffffff>A)『のらねこ物語』は実際の道路の猫の生活を込めてみよう作るされたゲームです。\nもちろんゲームの内容が多少荒れたり、悲しい内容を含んでいて\nその部分について憂鬱感や不快感を感じることができると思います。\nしかし、私たちは、このゲームに盛り込んたかった私たちだけのメッセージがあるので、\nその内容を変更する考えはありません。\nもちろん猫は本当にかわいいですが、\nかわいい道猫の生活には、このような面も存在するという点を理解していただきたいと思います。\nありがとうございます。</color>\n\n\n\n<color=#db9e45>Q)よくバッドエンドだけ出てきますが、ハッピーエンドはどうすれば見られますか?</color>\n<color=#ffffff>A)独、虹の橋のエンディングを除くエンディングは、\n特定のnpcと好感度レベル7を達成すると見られます。\nNpcと好感度レベル7を達成してみてください。\nただし、エンディングは1つしか表示されません。\nしたがって、一度に1つのキャラクターをターゲットにすると、必要なエンディングが得られます！</color>\n\n\n\n<color=#db9e45>Q)アイテムを食べたり捨てる選択肢しかありません。 アイテムはどうやって持って npcにどうやってあげるんですか?</color>\n<color=#ffffff>A)アイテムを食べたり捨てたりするポップアップが現れたということは、\n既にアイテムを持っている状態なのです。\nnpcにそのアイテムをいただくには、アイテムを持っている状態でnpcに声をかけて'プレゼント'を選択してください。</color>\n\n\n\n<color=#db9e45>Q)猫が遅すぎて、お腹が早くすり減ります。</color>\n<color=#ffffff>A)家アップグレードを進めてください！\n家ののアップグレードを行うたびに、空腹、体力、移動速度が増加し、最後のアップグレードまで終了したら、\nnpcとの対話の回数も増えます。</color>\n\n\n\n<color=#db9e45>Q)手袋や絆創膏はどこで手に入れますか?</color>\n<color=#ffffff>A)手袋と絆創膏は'ポチ'の隣の売り場でお手に入れることができます。\n手袋と絆創膏は、各50:50確率で得ることができます。</color>\n\n\n\n<color=#db9e45>Q)ームが終わった後、どうして好感度がリセットされるんですか。</color>\n<color=#ffffff>A)ゲームが終わってエンディングを見ると、すでに一度ゲームを終了したものとみなして、自宅のアップグレードを除くすべての進行状況が初期化されます。\n家のアップグレードを除いた全ての進行状況が初期化されます。\n虹の橋を渡ってしまったり、誰かに養子に出されるエンディングを見た後にみんなが猫を見つけたりすると変ですよね。 :)</color>\n\n\n\n<color=#db9e45>Q)サポートエディションを購入したいですが、元のデータを続けてプレイできますか?</color>\n<color=#ffffff>A)はい、可能です。\nはい、使えます。\n通常バージョンのタイトル画面で雲模様のアイコンを選択し、セーブデータを'保存'してください。\nその後、サポートエディションのタイトル画面で同じ方式で雲形のアイコンを選択してデータを'読み込み'するとセーブデータを続けてプレイできます。</color>\n\n\n\n<color=#db9e45>Q)言語翻訳を手伝いたいです!</color>\n<color=#ffffff>A)まず、現在多様な言語をサポートできなかった点申し訳ありません。(´;ω;｀)\n多くの方々が言語支援に関してメールを送ってくださったが、\nこれまでさまざまな理由で志願を断ってきました。\nしかし、言語の翻訳を希望する方が増えているので、\nこれからはユーザーの方々の翻訳関連支援を積極的に受けようとします。\n翻訳の手助けをしたい場合。\nfeemodev@gmail.comにメールいただければ幸いです。\n\nありがとうございます。:)</color>\n\n\n\n"
+    }
+  ]
+}

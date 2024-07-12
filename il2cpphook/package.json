@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "frida-il2cpp-bridge": "^0.9.0"
+  }
+}

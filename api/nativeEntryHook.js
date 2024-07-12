@@ -15,8 +15,8 @@ function print_c_stack(context, str_tag) {
 
 // var modulrName = "libCore.so"
 // var modulrName = "libmonosgen-2.0.so"
-var modulrName = "libmonodroid.so"
-// var modulrName = "libil2cpp.so"
+// var modulrName = "libmonodroid.so"
+var modulrName = "libil2cpp.so"
 //mono_image_open_from_data_with_name	.text	001B2FCC	00000088	00000038	00000008	R	.	.	.	B	.	.
 var id;
 function hook_native() {
@@ -48,7 +48,7 @@ function hook_native() {
     //Java_mono_android_Runtime_initInternal	00008B60
     //xamarin::android::internal::MonodroidRuntime::load_assemblies(_MonoDomain *,xamarin::android::jstring_array_wrapper &)	.text	00008494	000000A4	00000058	FFFFFFE4	R	.	.	.	.	.	.
     //xamarin::android::internal::MonodroidRuntime::load_assemblies(_MonoDomain *,xamarin::android::jstring_array_wrapper &)	.text	00008494	000000A4	00000058	FFFFFFE4	R	.	.	.	.	.	.
-    var addr = module.base.add(0x00008B60).add(0);
+    var addr = module.base.add(0x12DF174).add(0);
 
     //Module.findExportByName(modulrName, "mono_assembly_load_full").add(0)
      Interceptor.attach(addr, {
@@ -56,22 +56,22 @@ function hook_native() {
             var data = args[0];
             var data_len = args[1];
              console.log("*_md5 onEnter", Memory.readCString(args[0]))
-             console.log("*_md5 onEnter", data_len)
+             // console.log("*_md5 onEnter", data_len)
              // console.log("*_md5 onEnter", Memory.readCString(args[2]))
              // console.log("*_md5 onEnter", Memory.readCString(args[3]))
              // console.log("*_md5 onEnter", Memory.readCString(args[4]))
-             console.log("*_md5 onEnter", Memory.readCString(args[5]))
+             // console.log("*_md5 onEnter", Memory.readCString(args[5]))
              // console.log("*_md5 onEnter", Memory.readCString(args[6]))
              // console.log("*_md5 onEnter", Memory.readCString(args[7]))
-            if(Memory.readCString(args[5]) === 'System.Net.Http.dll'){
-                 console.log("dump_memory")
-               dump_memory(data,0x35c00 );
-            }
-            if (data_len === 0x35c00) {
-                console.log("dump_memory")
-               dump_memory(data, data_len);
-            }
-            console.log("mono_image_open_from_data_with_name_ori() called!", data, data_len);
+            // if(Memory.readCString(args[5]) === 'System.Net.Http.dll'){
+            //      console.log("dump_memory")
+            //    dump_memory(data,0x35c00 );
+            // }
+            // if (data_len === 0x35c00) {
+            //     console.log("dump_memory")
+            //    dump_memory(data, data_len);
+            // }
+            // console.log("mono_image_open_from_data_with_name_ori() called!", data, data_len);
         },
         onLeave: function (retval) {
         }
